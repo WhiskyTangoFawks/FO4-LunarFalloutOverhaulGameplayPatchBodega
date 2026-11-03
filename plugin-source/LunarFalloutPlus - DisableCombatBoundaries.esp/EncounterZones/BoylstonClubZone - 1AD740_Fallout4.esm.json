@@ -1,0 +1,12 @@
+{
+  "FormKey": "1AD740:Fallout4.esm",
+  "EditorID": "BoylstonClubZone",
+  "FormVersion": 119,
+  "Location": "1AD73F:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

@@ -1,0 +1,12 @@
+{
+  "FormKey": "22CD4E:Fallout4.esm",
+  "EditorID": "TenPinesBluffZone",
+  "Location": "09B1B4:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 25
+}

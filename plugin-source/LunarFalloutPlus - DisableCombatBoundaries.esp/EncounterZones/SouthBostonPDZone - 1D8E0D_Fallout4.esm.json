@@ -1,0 +1,11 @@
+{
+  "FormKey": "1D8E0D:Fallout4.esm",
+  "EditorID": "SouthBostonPDZone",
+  "FormVersion": 126,
+  "Location": "198CDA:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

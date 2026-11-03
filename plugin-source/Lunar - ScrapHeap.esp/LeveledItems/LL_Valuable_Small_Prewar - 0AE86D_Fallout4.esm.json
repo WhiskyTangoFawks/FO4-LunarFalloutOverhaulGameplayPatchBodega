@@ -1,0 +1,93 @@
+{
+  "FormKey": "0AE86D:Fallout4.esm",
+  "EditorID": "LL_Valuable_Small_Prewar",
+  "FormVersion": 119,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -18391,
+        "Reference": "059B02:Fallout4.esm",
+        "Count": 5,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -18391,
+        "Reference": "059B34:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -18391,
+        "Reference": "060E7C:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -18391,
+        "Reference": "060E7D:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -18391,
+        "Reference": "060E88:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -18391,
+        "Reference": "060E8B:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -18391,
+        "Reference": "060E8D:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -18391,
+        "Reference": "060E95:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -18391,
+        "Reference": "060ECD:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    }
+  ]
+}

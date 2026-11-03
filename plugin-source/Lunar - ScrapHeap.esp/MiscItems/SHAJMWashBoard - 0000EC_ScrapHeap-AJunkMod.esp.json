@@ -1,0 +1,44 @@
+{
+  "FormKey": "0000EC:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMWashBoard",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-13, -2, 0",
+    "Second": "13, 0, 50"
+  },
+  "PreviewTransform": "1AE46D:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wash Board"
+  },
+  "Model": {
+    "File": "Props\\WashBoard\\WashBoard.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 10,
+  "Weight": 4.0,
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "03D294:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

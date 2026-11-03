@@ -1,0 +1,11 @@
+{
+  "FormKey": "22FC5D:Fallout4.esm",
+  "EditorID": "RevereSatelliteArrayZone",
+  "FormVersion": 128,
+  "Location": "05DEDE:Fallout4.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

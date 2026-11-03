@@ -1,0 +1,109 @@
+{
+  "FormKey": "055F00:LunarFalloutOverhaul.esp",
+  "EditorID": "mr_lock_tech",
+  "MaxCount": 3,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "04F4A6:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059ACC:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "060AA3:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "06907B:Fallout4.esm",
+        "Count": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "069087:Fallout4.esm",
+        "Count": 3,
+        "ChanceNone": 0.3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "091FDE:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "154AD2:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "154AD2:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "004F12:DLCRobot.esm",
+        "Count": 1,
+        "ChanceNone": 0.4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000058:ScrapHeap-AJunkMod.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0007F6:ScrapHeap-AJunkMod.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0007F8:ScrapHeap-AJunkMod.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000BC0:ScrapHeap-AJunkMod.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

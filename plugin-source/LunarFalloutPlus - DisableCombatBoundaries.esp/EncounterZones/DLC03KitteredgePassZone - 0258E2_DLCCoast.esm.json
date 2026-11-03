@@ -1,0 +1,10 @@
+{
+  "FormKey": "0258E2:DLCCoast.esm",
+  "EditorID": "DLC03KitteredgePassZone",
+  "Location": "0258E0:DLCCoast.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

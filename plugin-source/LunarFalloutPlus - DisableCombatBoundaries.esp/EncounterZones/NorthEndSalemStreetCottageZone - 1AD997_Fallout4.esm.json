@@ -1,0 +1,9 @@
+{
+  "FormKey": "1AD997:Fallout4.esm",
+  "EditorID": "NorthEndSalemStreetCottageZone",
+  "FormVersion": 119,
+  "Location": "1AD996:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

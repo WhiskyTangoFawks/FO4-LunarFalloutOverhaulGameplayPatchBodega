@@ -1,0 +1,12 @@
+{
+  "FormKey": "1680BE:Fallout4.esm",
+  "EditorID": "DarkHollowPondZone",
+  "FormVersion": 109,
+  "Location": "1680BF:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

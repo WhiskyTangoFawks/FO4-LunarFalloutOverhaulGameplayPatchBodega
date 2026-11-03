@@ -1,0 +1,11 @@
+{
+  "FormKey": "22CD50:Fallout4.esm",
+  "EditorID": "WarwickHomesteadZone",
+  "Location": "06260C:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

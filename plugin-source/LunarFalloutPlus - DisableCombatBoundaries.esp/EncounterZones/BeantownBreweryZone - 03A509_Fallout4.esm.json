@@ -1,0 +1,10 @@
+{
+  "FormKey": "03A509:Fallout4.esm",
+  "EditorID": "BeantownBreweryZone",
+  "Location": "03A508:Fallout4.esm",
+  "MinLevel": 12,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

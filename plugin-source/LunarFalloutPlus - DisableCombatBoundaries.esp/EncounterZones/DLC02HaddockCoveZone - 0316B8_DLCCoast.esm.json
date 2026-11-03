@@ -1,0 +1,10 @@
+{
+  "FormKey": "0316B8:DLCCoast.esm",
+  "EditorID": "DLC02HaddockCoveZone",
+  "Location": "0316B7:DLCCoast.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

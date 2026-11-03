@@ -1,0 +1,40 @@
+{
+  "FormKey": "000AE0:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMSparkPlug",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-1, -1, 0",
+    "Second": "1, 1, 9"
+  },
+  "PreviewTransform": "23CA36:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Spark Plug"
+  },
+  "Model": {
+    "File": "Props\\SparkPlug\\SparkPlug.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 32,
+  "Weight": 0.3,
+  "Components": [
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FormKey": "00011A:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMEmptySprayCan",
+  "ObjectBounds": {
+    "First": "-2, -2, 0",
+    "Second": "2, 2, 15"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Empty Spray Can"
+  },
+  "Model": {
+    "File": "Props\\EmptySprayCan\\EmptySprayCan.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 2,
+  "Weight": 0.4,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

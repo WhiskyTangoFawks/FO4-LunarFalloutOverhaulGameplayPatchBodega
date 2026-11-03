@@ -1,0 +1,11 @@
+{
+  "FormKey": "03757C:Fallout4.esm",
+  "EditorID": "WildwoodCemeteryZone",
+  "FormVersion": 109,
+  "Location": "03757B:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 19
+}

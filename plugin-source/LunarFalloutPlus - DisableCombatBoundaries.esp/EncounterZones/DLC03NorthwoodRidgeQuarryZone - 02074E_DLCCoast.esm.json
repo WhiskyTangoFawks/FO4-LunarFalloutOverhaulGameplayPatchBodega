@@ -1,0 +1,10 @@
+{
+  "FormKey": "02074E:DLCCoast.esm",
+  "EditorID": "DLC03NorthwoodRidgeQuarryZone",
+  "Location": "020648:DLCCoast.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

@@ -1,0 +1,12 @@
+{
+  "FormKey": "02074C:DLCCoast.esm",
+  "EditorID": "DLC03NationalParkVisitorsCenterZone",
+  "Location": "009353:DLCCoast.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 255
+}

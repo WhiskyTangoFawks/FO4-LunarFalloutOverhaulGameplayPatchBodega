@@ -1,0 +1,11 @@
+{
+  "FormKey": "1A9739:Fallout4.esm",
+  "EditorID": "EsplanadeMansionZone",
+  "FormVersion": 128,
+  "Location": "1A972F:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

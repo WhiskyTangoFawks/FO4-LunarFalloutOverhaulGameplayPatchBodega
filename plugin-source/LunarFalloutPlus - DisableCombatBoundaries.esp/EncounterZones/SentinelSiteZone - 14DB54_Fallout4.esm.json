@@ -1,0 +1,12 @@
+{
+  "FormKey": "14DB54:Fallout4.esm",
+  "EditorID": "SentinelSiteZone",
+  "FormVersion": 128,
+  "Location": "141982:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

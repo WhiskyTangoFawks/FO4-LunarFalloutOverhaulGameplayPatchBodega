@@ -1,0 +1,11 @@
+{
+  "FormKey": "0849E0:Fallout4.esm",
+  "EditorID": "SouthBostonCheckpointZone",
+  "FormVersion": 109,
+  "Location": "0849DF:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

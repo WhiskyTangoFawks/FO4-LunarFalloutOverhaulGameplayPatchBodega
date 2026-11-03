@@ -1,0 +1,11 @@
+{
+  "FormKey": "0481D1:DLCCoast.esm",
+  "EditorID": "DLC03FarHarborZone",
+  "Location": "005C79:DLCCoast.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 50
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "056CBD:Fallout4.esm",
+  "EditorID": "MaldenDrainageZone",
+  "FormVersion": 109,
+  "Location": "056CBB:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 26
+}

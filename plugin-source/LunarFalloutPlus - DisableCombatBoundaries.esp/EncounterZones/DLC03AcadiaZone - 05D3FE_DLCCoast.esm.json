@@ -1,0 +1,11 @@
+{
+  "FormKey": "05D3FE:DLCCoast.esm",
+  "EditorID": "DLC03AcadiaZone",
+  "Location": "006126:DLCCoast.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

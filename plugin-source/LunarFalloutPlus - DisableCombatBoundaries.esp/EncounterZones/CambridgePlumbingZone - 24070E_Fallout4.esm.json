@@ -1,0 +1,8 @@
+{
+  "FormKey": "24070E:Fallout4.esm",
+  "EditorID": "CambridgePlumbingZone",
+  "Location": "24070D:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

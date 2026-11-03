@@ -1,0 +1,136 @@
+{
+  "FormKey": "05FBB3:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncStingwing01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-5, -4, -4",
+    "Second": "5, 4, 4"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 15,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 10,
+  "CalcMaxLevel": 17,
+  "DispositionBase": 35,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "028670:Fallout4.esm"
+    },
+    {
+      "Faction": "0EDCE4:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "074D12:Fallout4.esm",
+  "Voice": "07CB62:Fallout4.esm",
+  "Race": "05FBB1:Fallout4.esm",
+  "Skin": "05FBAF:Fallout4.esm",
+  "AttackRace": "05FBB1:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 6.0
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm",
+      "Value": 2.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 20.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 20.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 30.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 200.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "Keywords": [
+    "14AE5B:Fallout4.esm",
+    "0F23C5:Fallout4.esm"
+  ],
+  "Class": "02866F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Stingwing"
+  },
+  "CalculatedHealth": 180,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "066EB2:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "07E60F:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

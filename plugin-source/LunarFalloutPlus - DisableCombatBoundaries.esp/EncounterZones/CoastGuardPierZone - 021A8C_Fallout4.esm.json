@@ -1,0 +1,11 @@
+{
+  "FormKey": "021A8C:Fallout4.esm",
+  "EditorID": "CoastGuardPierZone",
+  "FormVersion": 128,
+  "Location": "021A80:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

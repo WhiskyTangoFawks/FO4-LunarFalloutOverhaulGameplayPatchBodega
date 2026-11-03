@@ -1,0 +1,10 @@
+{
+  "FormKey": "0399C9:DLCCoast.esm",
+  "EditorID": "DLC03SouthwestHarborZone",
+  "Location": "0399C8:DLCCoast.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "0337A5:DLCNukaWorld.esm",
+  "EditorID": "DLC04SafariAdventure_PrimateHouseZone",
+  "Location": "0337A3:DLCNukaWorld.esm",
+  "MinLevel": 50,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

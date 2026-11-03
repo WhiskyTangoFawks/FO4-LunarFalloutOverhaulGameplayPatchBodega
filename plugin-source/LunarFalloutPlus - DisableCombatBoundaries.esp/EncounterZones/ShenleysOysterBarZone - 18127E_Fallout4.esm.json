@@ -1,0 +1,11 @@
+{
+  "FormKey": "18127E:Fallout4.esm",
+  "EditorID": "ShenleysOysterBarZone",
+  "FormVersion": 128,
+  "Location": "18127F:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

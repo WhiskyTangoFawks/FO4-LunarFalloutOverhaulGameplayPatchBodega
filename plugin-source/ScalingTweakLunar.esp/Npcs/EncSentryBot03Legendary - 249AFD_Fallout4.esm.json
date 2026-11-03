@@ -1,0 +1,195 @@
+{
+  "FormKey": "249AFD:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncSentryBot03Legendary",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 71,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.25
+  },
+  "CalcMinLevel": 50,
+  "CalcMaxLevel": 59,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3380",
+  "Factions": [
+    {
+      "Faction": "058304:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "01B34C:Fallout4.esm",
+  "Voice": "06E5A3:Fallout4.esm",
+  "DefaultTemplate": "0AE0BB:Fallout4.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "0AE0BB:Fallout4.esm",
+    "AiDataTemplate": "0AE0BB:Fallout4.esm",
+    "AiPackagesTemplate": "0AE0BB:Fallout4.esm",
+    "InventoryTemplate": "0AE0BB:Fallout4.esm",
+    "DefPackListTemplate": "0AE0BB:Fallout4.esm",
+    "AttackDataTemplate": "0AE0BB:Fallout4.esm"
+  },
+  "Race": "0AE0B7:Fallout4.esm",
+  "ActorEffect": [
+    "22642D:Fallout4.esm"
+  ],
+  "AttackRace": "0AE0B7:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0E1A4B:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 755.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 175.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 125.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "05BA48:Fallout4.esm",
+    "2243AB:Fallout4.esm",
+    "2243AA:Fallout4.esm",
+    "22DB8F:Fallout4.esm",
+    "1CF26C:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Includes": [
+        {
+          "Mod": "0C366E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C366C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C366D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C366F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0BC285:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C3672:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C3671:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C862D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C862E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C862F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C3673:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CFB47:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "220F5F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "220F60:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22E302:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "2456D1:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "0B287C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Legendary Annihilator Sentry Bot"
+  },
+  "ShortName": {
+    "TargetLanguage": "English",
+    "Value": "Sentry Bot"
+  },
+  "CalculatedHealth": 400,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "Unused": 2,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0B9D66:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0B6E0E:Fallout4.esm",
+  "DefaultPackageList": "22D9EB:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FormKey": "00055D:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMPristinePerfumeBottle",
+  "ObjectBounds": {
+    "First": "-2, -2, 0",
+    "Second": "2, 2, 7"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pristine Perfume Bottle"
+  },
+  "Model": {
+    "File": "Props\\PristinePerfume\\PristinePerfume.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 9,
+  "Weight": 0.4,
+  "Components": [
+    {
+      "Component": "01FA8C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA9F:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

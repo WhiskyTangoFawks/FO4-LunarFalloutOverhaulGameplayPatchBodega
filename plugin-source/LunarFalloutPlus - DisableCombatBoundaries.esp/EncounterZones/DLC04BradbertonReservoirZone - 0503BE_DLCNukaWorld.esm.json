@@ -1,0 +1,10 @@
+{
+  "FormKey": "0503BE:DLCNukaWorld.esm",
+  "EditorID": "DLC04BradbertonReservoirZone",
+  "Location": "0503BC:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

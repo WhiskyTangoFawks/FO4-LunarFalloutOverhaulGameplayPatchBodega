@@ -1,0 +1,11 @@
+{
+  "FormKey": "03C0FD:Fallout4.esm",
+  "EditorID": "ShawHighSchoolZone",
+  "FormVersion": 128,
+  "Location": "03C0FC:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

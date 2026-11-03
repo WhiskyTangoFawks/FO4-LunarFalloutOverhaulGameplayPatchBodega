@@ -1,0 +1,12 @@
+{
+  "FormKey": "072216:Fallout4.esm",
+  "EditorID": "NHMFreightDepotZone",
+  "FormVersion": 128,
+  "Location": "072215:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 24
+}

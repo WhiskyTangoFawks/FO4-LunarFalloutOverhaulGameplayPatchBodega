@@ -1,0 +1,208 @@
+{
+  "FormKey": "04BC7F:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC04EncNukatron04",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats",
+    "0x100"
+  ],
+  "XpValueOffset": 37,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 36,
+  "CalcMaxLevel": 45,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7988",
+  "Factions": [
+    {
+      "Faction": "058304:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "01B344:Fallout4.esm",
+  "Voice": "0392A5:DLCNukaWorld.esm",
+  "DefaultTemplate": "00EFF2:DLCNukaWorld.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "00EFF2:DLCNukaWorld.esm",
+    "AiDataTemplate": "00EFF2:DLCNukaWorld.esm",
+    "AiPackagesTemplate": "00EFF2:DLCNukaWorld.esm",
+    "InventoryTemplate": "00EFF2:DLCNukaWorld.esm",
+    "ScriptTemplate": "00EFF2:DLCNukaWorld.esm",
+    "DefPackListTemplate": "00EFF2:DLCNukaWorld.esm",
+    "AttackDataTemplate": "00EFF2:DLCNukaWorld.esm",
+    "KeywordsTemplate": "00EFF2:DLCNukaWorld.esm"
+  },
+  "Race": "0DFB33:Fallout4.esm",
+  "AttackRace": "0DFB33:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1C346F:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 7.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 175.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 90.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "1C5A31:Fallout4.esm"
+    }
+  ],
+  "NativeTerminal": "0F39DD:Fallout4.esm",
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsFriendsAndAllies",
+  "Packages": [
+    "0F39E4:Fallout4.esm"
+  ],
+  "Keywords": [
+    "0F9E1B:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "22DB8F:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "enc01"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "00EFF1:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC70:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0E02FA:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3169:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B316A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3167:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3168:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3166:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3165:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3161:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3162:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "02020B:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00EFF6:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "02020C:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00EFF8:DLCNukaWorld.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "010F28:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "0B287C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Nukatron Defender"
+  },
+  "CalculatedHealth": 20,
+  "CalculatedActionPoints": 10,
+  "GearedUpWeapons": 1,
+  "Unused": 2,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "02136F:DLCNukaWorld.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "Sounds": [
+    {
+      "Sound": "Null"
+    }
+  ],
+  "SoundsFinalize": "0x00",
+  "DefaultPackageList": "22D9EB:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

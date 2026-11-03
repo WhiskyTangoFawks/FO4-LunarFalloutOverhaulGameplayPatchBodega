@@ -1,0 +1,687 @@
+{
+  "FormKey": "146CDF:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "encMrGutsy01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-27, -27, 0",
+    "Second": "27, 27, 120"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 32,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 22,
+  "CalcMaxLevel": 31,
+  "DispositionBase": 35,
+  "Unknown": 12,
+  "Factions": [
+    {
+      "Faction": "058304:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "01B346:Fallout4.esm",
+  "Voice": "06E59F:Fallout4.esm",
+  "Race": "0359F4:Fallout4.esm",
+  "AttackRace": "0359F4:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 60.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 95.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 6.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "22DB8F:Fallout4.esm",
+    "1C5020:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Default"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "047E19:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E23:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E35:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "072B4E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC72:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "2244D1:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "2244D2:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "2244D3:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC71:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "230F04:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1BE2DC:Fallout4.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Gutsy01"
+      },
+      "Keywords": [
+        "15B0C2:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "047E19:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E23:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E35:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "072B4E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC72:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "155859:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "155860:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "15585C:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC71:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "230F04:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1BE2DC:Fallout4.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Right"
+      },
+      "AddonIndex": 1,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Left"
+      },
+      "AddonIndex": 1,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 3,
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Middle"
+      },
+      "AddonIndex": 1,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Right & Left"
+      },
+      "AddonIndex": 1,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Gutsy01"
+      },
+      "Keywords": [
+        "15B0C1:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "047E19:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E23:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E35:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "072B4E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC72:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "155860:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "15585C:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC71:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "230F04:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1BE2DC:Fallout4.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Right"
+      },
+      "AddonIndex": 6,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Left"
+      },
+      "AddonIndex": 6,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 3,
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Middle"
+      },
+      "AddonIndex": 6,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Right & Left"
+      },
+      "AddonIndex": 6,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Gutsy01"
+      },
+      "Keywords": [
+        "15B0C0:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "047E19:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E23:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E35:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E29:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "072B4E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC72:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1E094E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "155860:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "047E36:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC71:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "230F04:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1BE2DC:Fallout4.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Right"
+      },
+      "AddonIndex": 11,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Left"
+      },
+      "AddonIndex": 11,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 3,
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Middle"
+      },
+      "AddonIndex": 11,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Missing Eyes: Right & Left"
+      },
+      "AddonIndex": 11,
+      "Includes": [
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "157C66:Fallout4.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "0B287C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mr. Gutsy"
+  },
+  "CalculatedHealth": 200,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "149C9D:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "037005:Fallout4.esm",
+  "DefaultPackageList": "22D9EB:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

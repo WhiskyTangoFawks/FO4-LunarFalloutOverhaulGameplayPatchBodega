@@ -1,0 +1,11 @@
+{
+  "FormKey": "225DD6:Fallout4.esm",
+  "EditorID": "SouthBostonHighSchoolZone",
+  "FormVersion": 130,
+  "Location": "225DD5:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

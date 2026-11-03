@@ -1,0 +1,11 @@
+{
+  "FormKey": "04ABAF:DLCNukaWorld.esm",
+  "EditorID": "DLC04GalacticZone_StarportNukaZone",
+  "Location": "04ABAE:DLCNukaWorld.esm",
+  "MinLevel": 50,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

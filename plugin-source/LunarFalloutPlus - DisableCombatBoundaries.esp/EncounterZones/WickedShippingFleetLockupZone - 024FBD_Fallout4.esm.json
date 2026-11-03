@@ -1,0 +1,10 @@
+{
+  "FormKey": "024FBD:Fallout4.esm",
+  "EditorID": "WickedShippingFleetLockupZone",
+  "Location": "024FB0:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 5
+}

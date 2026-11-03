@@ -1,0 +1,136 @@
+{
+  "FormKey": "1832F8:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncMolerat04",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-13, -49, 0",
+    "Second": "13, 35, 39"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 31,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 21,
+  "CalcMaxLevel": 30,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3644",
+  "Unknown": 8,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "031B22:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "02EF68:Fallout4.esm",
+  "Voice": "01D968:Fallout4.esm",
+  "DefaultTemplate": "01D966:Fallout4.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "01D966:Fallout4.esm",
+    "SpellListTemplate": "01D966:Fallout4.esm",
+    "AiDataTemplate": "01D966:Fallout4.esm",
+    "AiPackagesTemplate": "01D966:Fallout4.esm",
+    "ScriptTemplate": "01D966:Fallout4.esm",
+    "DefPackListTemplate": "01D966:Fallout4.esm",
+    "AttackDataTemplate": "01D966:Fallout4.esm"
+  },
+  "Race": "01D810:Fallout4.esm",
+  "Skin": "0498E0:Fallout4.esm",
+  "AttackRace": "01D810:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 130.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 35.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 25.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 25.0
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 1250,
+  "AggroRadiusWarnOrAttack": 1000,
+  "AggroRadiusAttack": 750,
+  "Class": "05F96E:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mole Rat Brood Mother"
+  },
+  "CalculatedHealth": 300,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "04291C:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.5,
+  "Weight": {},
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "07BB24:Fallout4.esm",
+  "DefaultOutfit": "1C2063:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

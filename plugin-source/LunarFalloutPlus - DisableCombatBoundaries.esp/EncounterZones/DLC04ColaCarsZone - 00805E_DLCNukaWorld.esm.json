@@ -1,0 +1,12 @@
+{
+  "FormKey": "00805E:DLCNukaWorld.esm",
+  "EditorID": "DLC04ColaCarsZone",
+  "Location": "00805D:DLCNukaWorld.esm",
+  "MinLevel": 99,
+  "Flags": [
+    "NeverResets",
+    "MatchPcBelowMinimumLevel",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

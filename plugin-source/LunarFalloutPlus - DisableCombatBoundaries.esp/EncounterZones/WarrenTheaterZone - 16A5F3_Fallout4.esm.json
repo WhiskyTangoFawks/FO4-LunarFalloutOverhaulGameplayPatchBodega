@@ -1,0 +1,11 @@
+{
+  "FormKey": "16A5F3:Fallout4.esm",
+  "EditorID": "WarrenTheaterZone",
+  "FormVersion": 119,
+  "Location": "16A5F2:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

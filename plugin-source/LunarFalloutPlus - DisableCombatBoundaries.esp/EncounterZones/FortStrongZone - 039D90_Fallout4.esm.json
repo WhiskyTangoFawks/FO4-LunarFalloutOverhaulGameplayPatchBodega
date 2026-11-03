@@ -1,0 +1,12 @@
+{
+  "FormKey": "039D90:Fallout4.esm",
+  "EditorID": "FortStrongZone",
+  "FormVersion": 128,
+  "Location": "039D8F:Fallout4.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

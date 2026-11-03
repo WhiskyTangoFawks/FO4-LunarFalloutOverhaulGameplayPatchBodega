@@ -1,0 +1,57 @@
+{
+  "FormKey": "1C32C8:Fallout4.esm",
+  "EditorID": "ClothesDog_ArmorMedium",
+  "ObjectBounds": {
+    "First": "-9, -13, 0",
+    "Second": "9, 13, 13"
+  },
+  "PreviewTransform": "249520:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Dog Armor"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Armor\\DogGear\\ArmorGO.nif",
+        "Data": "0x0400000004000000000000000200000001000000116296CA64647300F3D0C2A5C80E90A964647300F3D0C2A5D6E7454964647300F3D0C2A571D5D693646473001CDB88C5E10905796267736D67AE9A6F"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "TorsoArmor"
+    ]
+  },
+  "PickUpSound": "034924:Fallout4.esm",
+  "PutDownSound": "03C7C0:Fallout4.esm",
+  "Race": "01D698:Fallout4.esm",
+  "Keywords": [
+    "09C45B:Fallout4.esm",
+    "1CF299:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Metal \"armor\" for a dog.  Appears to offer no meaningful protection."
+  },
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "1B5ACA:Fallout4.esm"
+    },
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "212DB7:Fallout4.esm"
+    }
+  ],
+  "Value": 20,
+  "Weight": 4.0,
+  "ArmorRating": 20,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 10
+    }
+  ]
+}

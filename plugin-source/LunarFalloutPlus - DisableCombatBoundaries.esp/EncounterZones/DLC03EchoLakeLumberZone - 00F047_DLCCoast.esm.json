@@ -1,0 +1,12 @@
+{
+  "FormKey": "00F047:DLCCoast.esm",
+  "EditorID": "DLC03EchoLakeLumberZone",
+  "Location": "00F101:DLCCoast.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 255
+}

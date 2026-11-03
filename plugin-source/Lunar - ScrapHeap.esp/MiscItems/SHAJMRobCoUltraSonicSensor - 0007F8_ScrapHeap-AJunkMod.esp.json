@@ -1,0 +1,37 @@
+{
+  "FormKey": "0007F8:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMRobCoUltraSonicSensor",
+  "ObjectBounds": {
+    "First": "-4, -1, -2",
+    "Second": "2, 0, 1"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "RobCo Ultra Sonic Sensor"
+  },
+  "Model": {
+    "File": "Props\\RobCoUltraSonicSensor\\RobCoUltraSonicSensor.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 45,
+  "Weight": 0.6,
+  "Components": [
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAA0:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

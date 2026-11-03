@@ -1,0 +1,9 @@
+{
+  "FormKey": "2196DD:Fallout4.esm",
+  "EditorID": "WarehouseTrapsZone",
+  "FormVersion": 128,
+  "Location": "2196DC:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "056108:Fallout4.esm",
+  "EditorID": "GreatLinks18Zone",
+  "FormVersion": 109,
+  "Location": "056109:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 34
+}

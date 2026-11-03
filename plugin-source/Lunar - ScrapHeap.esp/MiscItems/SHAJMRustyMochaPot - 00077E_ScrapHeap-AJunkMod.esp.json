@@ -1,0 +1,32 @@
+{
+  "FormKey": "00077E:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMRustyMochaPot",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-4, -5, 0",
+    "Second": "4, 6, 21"
+  },
+  "PreviewTransform": "23E9E8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rusty Mocha Pot"
+  },
+  "Model": {
+    "File": "Props\\RustyMochaPot\\RustyMochaPot.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 5,
+  "Weight": 1.0,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

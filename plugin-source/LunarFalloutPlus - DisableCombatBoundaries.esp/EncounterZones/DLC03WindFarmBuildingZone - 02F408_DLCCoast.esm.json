@@ -1,0 +1,9 @@
+{
+  "FormKey": "02F408:DLCCoast.esm",
+  "EditorID": "DLC03WindFarmBuildingZone",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

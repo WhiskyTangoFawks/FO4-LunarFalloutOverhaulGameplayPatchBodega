@@ -1,0 +1,4 @@
+{"version":1,"steps":[
+{"copy":["Scripts"]},
+{"compile":["Chem Redux.esp","Lunar - CommunityFixesMerged.esp","Lunar - EverybodiesBestFriend.esp","Lunar - KetarosWorld.esp","Lunar - SCM.esp","Lunar - ScrapHeap.esp","Lunar - True Storms.esp","Lunar - UFO4.esp","LunarFalloutPlus - DisableCombatBoundaries.esp","LunarScaling-SMR.esp","ScalingTweakLunar.esp"]}
+]}

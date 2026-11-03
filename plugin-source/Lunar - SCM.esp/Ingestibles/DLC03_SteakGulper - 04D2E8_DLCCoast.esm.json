@@ -1,0 +1,61 @@
+{
+  "FormKey": "04D2E8:DLCCoast.esm",
+  "EditorID": "DLC03_SteakGulper",
+  "ObjectBounds": {
+    "First": "-4, -4, 0",
+    "Second": "4, 4, 7"
+  },
+  "PreviewTransform": "239FBC:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gulper Slurry"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "09AC96:Fallout4.esm",
+    "05775E:DLCCoast.esm",
+    "000884:Fallout4.esm",
+    "007281:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\RadStagStew.nif",
+    "Data": "0x04000000030000000000000001000000020000008753BE4364647300B64C8CDC5E3FB82064647300B64C8CDCB445C46B64647300B64C8CDCF6785B1E6267736D11388219056C301F6267736DD550C98A",
+    "MaterialSwap": "04D2E9:DLCCoast.esm"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Invisible for 15 Seconds."
+  },
+  "Weight": 0.5,
+  "Value": 80,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "102B70:Fallout4.esm",
+      "Data": {
+        "Magnitude": 99.0,
+        "Duration": 15
+      }
+    },
+    {
+      "BaseEffect": "106E53:Fallout4.esm",
+      "Data": {
+        "Duration": 15
+      }
+    },
+    {
+      "BaseEffect": "04D2EB:DLCCoast.esm",
+      "Data": {
+        "Duration": 10
+      }
+    }
+  ]
+}

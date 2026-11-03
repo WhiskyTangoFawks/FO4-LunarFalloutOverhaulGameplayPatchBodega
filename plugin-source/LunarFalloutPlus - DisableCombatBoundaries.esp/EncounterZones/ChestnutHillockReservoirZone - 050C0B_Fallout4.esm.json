@@ -1,0 +1,11 @@
+{
+  "FormKey": "050C0B:Fallout4.esm",
+  "EditorID": "ChestnutHillockReservoirZone",
+  "FormVersion": 128,
+  "Location": "050C0A:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

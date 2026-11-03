@@ -1,0 +1,11 @@
+{
+  "FormKey": "03F2C6:Fallout4.esm",
+  "EditorID": "LakeCochituateZone",
+  "FormVersion": 128,
+  "Location": "03F2C5:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

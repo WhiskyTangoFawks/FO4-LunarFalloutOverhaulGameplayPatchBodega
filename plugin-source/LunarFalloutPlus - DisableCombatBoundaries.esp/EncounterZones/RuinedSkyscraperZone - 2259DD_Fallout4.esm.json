@@ -1,0 +1,11 @@
+{
+  "FormKey": "2259DD:Fallout4.esm",
+  "EditorID": "RuinedSkyscraperZone",
+  "FormVersion": 128,
+  "Location": "2259DC:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

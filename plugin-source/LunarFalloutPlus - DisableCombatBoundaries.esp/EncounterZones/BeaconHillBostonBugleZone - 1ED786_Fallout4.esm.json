@@ -1,0 +1,9 @@
+{
+  "FormKey": "1ED786:Fallout4.esm",
+  "EditorID": "BeaconHillBostonBugleZone",
+  "FormVersion": 126,
+  "Location": "1ED784:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

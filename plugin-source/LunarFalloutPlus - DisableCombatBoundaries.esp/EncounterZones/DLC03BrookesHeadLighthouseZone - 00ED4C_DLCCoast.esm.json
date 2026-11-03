@@ -1,0 +1,10 @@
+{
+  "FormKey": "00ED4C:DLCCoast.esm",
+  "EditorID": "DLC03BrookesHeadLighthouseZone",
+  "Location": "00ED4B:DLCCoast.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

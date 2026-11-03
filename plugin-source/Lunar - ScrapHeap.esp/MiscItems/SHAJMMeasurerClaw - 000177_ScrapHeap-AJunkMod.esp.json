@@ -1,0 +1,32 @@
+{
+  "FormKey": "000177:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMMeasurerClaw",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-2, -15, -1",
+    "Second": "8, 10, 1"
+  },
+  "PreviewTransform": "23CA37:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Measurer Claw"
+  },
+  "Model": {
+    "File": "Props\\GluePliers\\GluePliers.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 83,
+  "Weight": 1.0,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

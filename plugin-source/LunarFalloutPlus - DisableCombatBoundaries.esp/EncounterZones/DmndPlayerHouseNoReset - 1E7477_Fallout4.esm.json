@@ -1,0 +1,9 @@
+{
+  "FormKey": "1E7477:Fallout4.esm",
+  "EditorID": "DmndPlayerHouseNoReset",
+  "Location": "003967:Fallout4.esm",
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ]
+}

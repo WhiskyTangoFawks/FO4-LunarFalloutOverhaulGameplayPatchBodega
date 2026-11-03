@@ -1,0 +1,36 @@
+{
+  "FormKey": "00023B:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMTalc",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-4, -2, 0",
+    "Second": "4, 2, 14"
+  },
+  "PreviewTransform": "215063:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Shaving Sticks"
+  },
+  "Model": {
+    "File": "Props\\Talc\\Talc.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 7,
+  "Weight": 1.0,
+  "Components": [
+    {
+      "Component": "01FA96:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

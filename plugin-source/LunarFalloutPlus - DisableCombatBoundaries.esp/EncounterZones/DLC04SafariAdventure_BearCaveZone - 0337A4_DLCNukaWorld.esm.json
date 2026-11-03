@@ -1,0 +1,10 @@
+{
+  "FormKey": "0337A4:DLCNukaWorld.esm",
+  "EditorID": "DLC04SafariAdventure_BearCaveZone",
+  "Location": "0337A2:DLCNukaWorld.esm",
+  "MinLevel": 50,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

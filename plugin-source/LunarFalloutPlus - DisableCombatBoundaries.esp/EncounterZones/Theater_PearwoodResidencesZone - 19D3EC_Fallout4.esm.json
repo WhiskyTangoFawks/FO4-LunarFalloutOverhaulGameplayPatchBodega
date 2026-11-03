@@ -1,0 +1,8 @@
+{
+  "FormKey": "19D3EC:Fallout4.esm",
+  "EditorID": "Theater_PearwoodResidencesZone",
+  "Location": "19D3E8:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

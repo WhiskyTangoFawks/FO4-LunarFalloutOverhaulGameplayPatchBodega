@@ -1,0 +1,11 @@
+{
+  "FormKey": "22FC5E:Fallout4.esm",
+  "EditorID": "MassContainmentShedZone",
+  "FormVersion": 128,
+  "Location": "22FC5F:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

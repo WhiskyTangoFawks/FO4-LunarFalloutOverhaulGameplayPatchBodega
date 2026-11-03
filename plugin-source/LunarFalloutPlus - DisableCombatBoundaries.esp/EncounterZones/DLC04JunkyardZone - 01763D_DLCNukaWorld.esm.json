@@ -1,0 +1,10 @@
+{
+  "FormKey": "01763D:DLCNukaWorld.esm",
+  "EditorID": "DLC04JunkyardZone",
+  "Location": "01763E:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

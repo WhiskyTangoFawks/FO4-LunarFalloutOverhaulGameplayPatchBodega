@@ -1,0 +1,9 @@
+{
+  "FormKey": "0A6B1E:Fallout4.esm",
+  "EditorID": "IvansZone",
+  "FormVersion": 83,
+  "Location": "0A6B1D:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "FormKey": "02B342:LunarFalloutOverhaul.esp",
+  "EditorID": "MR_ContainerIcebin",
+  "ChanceNone": 0.75,
+  "MaxCount": 0,
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0366BF:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "06907F:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

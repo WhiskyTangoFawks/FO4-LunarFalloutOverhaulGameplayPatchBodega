@@ -1,0 +1,12 @@
+{
+  "FormKey": "22CD48:Fallout4.esm",
+  "EditorID": "AbernathyFarmZone",
+  "Location": "06B4D0:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 20
+}

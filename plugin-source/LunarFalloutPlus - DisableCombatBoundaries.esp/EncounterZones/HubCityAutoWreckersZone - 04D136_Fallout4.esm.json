@@ -1,0 +1,11 @@
+{
+  "FormKey": "04D136:Fallout4.esm",
+  "EditorID": "HubCityAutoWreckersZone",
+  "FormVersion": 128,
+  "Location": "04D135:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

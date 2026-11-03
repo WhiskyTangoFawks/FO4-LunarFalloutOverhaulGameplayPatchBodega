@@ -1,0 +1,12 @@
+{
+  "FormKey": "06A37E:Fallout4.esm",
+  "EditorID": "InstituteConcourseZone",
+  "FormVersion": 128,
+  "Location": "1BBC25:Fallout4.esm",
+  "MinLevel": 10,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

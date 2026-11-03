@@ -1,0 +1,11 @@
+{
+  "FormKey": "1680C5:Fallout4.esm",
+  "EditorID": "LibertaliaZone",
+  "FormVersion": 128,
+  "Location": "0E3746:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

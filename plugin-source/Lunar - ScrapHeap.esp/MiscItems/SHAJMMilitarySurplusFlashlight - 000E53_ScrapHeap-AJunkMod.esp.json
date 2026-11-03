@@ -1,0 +1,44 @@
+{
+  "FormKey": "000E53:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMMilitarySurplusFlashlight",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-2, -5, 0",
+    "Second": "2, 3, 3"
+  },
+  "PreviewTransform": "23E9F5:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Military Surplus Flashlight"
+  },
+  "Model": {
+    "File": "Props\\MilitarySurplusFlashlight\\MilitarySurplusFlashlight.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 45,
+  "Weight": 0.3,
+  "Components": [
+    {
+      "Component": "03D294:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

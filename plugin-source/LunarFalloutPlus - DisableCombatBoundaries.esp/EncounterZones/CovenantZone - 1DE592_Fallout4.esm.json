@@ -1,0 +1,12 @@
+{
+  "FormKey": "1DE592:Fallout4.esm",
+  "EditorID": "CovenantZone",
+  "Location": "0397DC:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 20
+}

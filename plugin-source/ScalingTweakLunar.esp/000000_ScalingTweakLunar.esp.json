@@ -1,0 +1,11 @@
+{
+  "ModKey": "ScalingTweakLunar.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 2048
+    },
+    "Author": ""
+  }
+}

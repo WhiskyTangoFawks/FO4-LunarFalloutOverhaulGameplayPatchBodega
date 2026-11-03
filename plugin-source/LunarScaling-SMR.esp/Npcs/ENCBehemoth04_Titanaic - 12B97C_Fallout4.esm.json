@@ -1,0 +1,247 @@
+{
+  "FormKey": "12B97C:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "ENCBehemoth04_Titanaic",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-56, -24, 0",
+    "Second": "56, 65, 313"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 135,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.25
+  },
+  "CalcMinLevel": 95,
+  "CalcMaxLevel": 110,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7740",
+  "Factions": [
+    {
+      "Faction": "019F7E:Fallout4.esm"
+    },
+    {
+      "Faction": "030342:SuperMutantRedux.esp"
+    }
+  ],
+  "DeathItem": "00094E:SuperMutantRedux.esp",
+  "Voice": "0E12C1:Fallout4.esm",
+  "DefaultTemplate": "023557:SuperMutantRedux.esp",
+  "TemplateActors": {
+    "FactionsTemplate": "0BB7DD:Fallout4.esm",
+    "SpellListTemplate": "0BB7DD:Fallout4.esm",
+    "AiDataTemplate": "0BB7DD:Fallout4.esm",
+    "AiPackagesTemplate": "0BB7DD:Fallout4.esm",
+    "ScriptTemplate": "0BB7DD:Fallout4.esm",
+    "DefPackListTemplate": "0BB7DD:Fallout4.esm",
+    "AttackDataTemplate": "0BB7DD:Fallout4.esm",
+    "KeywordsTemplate": "0BB7DD:Fallout4.esm"
+  },
+  "Race": "0BB7D9:Fallout4.esm",
+  "Skin": "0BB7DA:Fallout4.esm",
+  "AttackRace": "0BB7D9:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0E1A4C:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0008AB:SuperMutantRedux.esp",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 13.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 6.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm",
+      "Value": 2.0
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 1500.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 1000.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 350.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 275.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "0366C6:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Item": {
+        "Item": "06738B:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Item": {
+        "Item": "0673A1:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0673AF:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "09AC3F:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Item": {
+        "Item": "165792:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0230F3:SuperMutantRedux.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "023117:SuperMutantRedux.esp",
+        "Count": 2
+      }
+    },
+    {
+      "Item": {
+        "Item": "02326E:SuperMutantRedux.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0232A6:SuperMutantRedux.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "02352F:SuperMutantRedux.esp",
+        "Count": 2
+      }
+    },
+    {
+      "Item": {
+        "Item": "023530:SuperMutantRedux.esp",
+        "Count": 2
+      }
+    },
+    {
+      "Item": {
+        "Item": "023531:SuperMutantRedux.esp",
+        "Count": 2
+      }
+    },
+    {
+      "Item": {
+        "Item": "02BEBD:SuperMutantRedux.esp",
+        "Count": 2
+      }
+    },
+    {
+      "Item": {
+        "Item": "02BEC5:SuperMutantRedux.esp",
+        "Count": 2
+      }
+    },
+    {
+      "Item": {
+        "Item": "034C33:SuperMutantRedux.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "05BA48:Fallout4.esm",
+    "0A56F5:Fallout4.esm",
+    "0F23C5:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "2049E5:Fallout4.esm",
+    "2243AA:Fallout4.esm",
+    "2243AB:Fallout4.esm",
+    "22DB8F:Fallout4.esm"
+  ],
+  "Class": "00D89D:SuperMutantRedux.esp",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Titantic  Behemoth"
+  },
+  "CalculatedHealth": 2745,
+  "CalculatedActionPoints": 1050,
+  "GearedUpWeapons": 1,
+  "Unused": 66,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0E4DD7:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.05,
+  "NAM7": 0.0,
+  "HeightMax": 1.15,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "InheritsSoundsFrom": "0FC875:Fallout4.esm",
+  "DefaultOutfit": "023593:SuperMutantRedux.esp",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

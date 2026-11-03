@@ -1,0 +1,167 @@
+{
+  "FormKey": "0EDCC9:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncSuperMutant04Rifle",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-23, -20, 0",
+    "Second": "23, 20, 149"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 36,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 28,
+  "CalcMaxLevel": 34,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7989",
+  "Factions": [
+    {
+      "Faction": "058305:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "249196:Fallout4.esm",
+  "Voice": "06D7B7:Fallout4.esm",
+  "DefaultTemplate": "01A00C:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "01A00C:Fallout4.esm",
+    "FactionsTemplate": "01A00C:Fallout4.esm",
+    "AiDataTemplate": "01A00C:Fallout4.esm",
+    "AiPackagesTemplate": "01A00C:Fallout4.esm",
+    "InventoryTemplate": "01A00C:Fallout4.esm",
+    "ScriptTemplate": "01A00C:Fallout4.esm",
+    "DefPackListTemplate": "01A00C:Fallout4.esm",
+    "AttackDataTemplate": "01A00C:Fallout4.esm",
+    "KeywordsTemplate": "01A00C:Fallout4.esm"
+  },
+  "Race": "01A009:Fallout4.esm",
+  "Skin": "01A00B:Fallout4.esm",
+  "AttackRace": "01A009:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0E1A4B:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 6.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 375.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 25.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 45.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "0585A6:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0EDCDF:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0F2E1E:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1081B9:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "146153:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "Class": "0424ED:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Super Mutant Enforcer"
+  },
+  "CalculatedHealth": 510,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "1284D6:Fallout4.esm",
+    "1284D7:Fallout4.esm",
+    "034C3D:SuperMutantRedux.esp"
+  ],
+  "CombatStyle": "0A881F:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.05,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0A73A1:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

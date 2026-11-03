@@ -1,0 +1,10 @@
+{
+  "FormKey": "01FA50:Fallout4.esm",
+  "EditorID": "CambridgePDZone",
+  "Location": "01FA4A:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

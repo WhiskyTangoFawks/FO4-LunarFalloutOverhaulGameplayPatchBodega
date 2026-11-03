@@ -1,0 +1,12 @@
+{
+  "FormKey": "16FCE1:Fallout4.esm",
+  "EditorID": "POIJoel06zone",
+  "FormVersion": 109,
+  "Location": "16FCE0:Fallout4.esm",
+  "MinLevel": 10,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

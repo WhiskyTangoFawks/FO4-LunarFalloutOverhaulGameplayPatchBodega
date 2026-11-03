@@ -1,0 +1,32 @@
+{
+  "FormKey": "00027C:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMToyAtomicDisintegrator",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-12, -3, 0",
+    "Second": "11, 3, 17"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Toy Atomic Disintegrator"
+  },
+  "Model": {
+    "File": "Props\\AtomicDisintegrator\\AtomicDisintegrator.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 12,
+  "Weight": 2.0,
+  "Components": [
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

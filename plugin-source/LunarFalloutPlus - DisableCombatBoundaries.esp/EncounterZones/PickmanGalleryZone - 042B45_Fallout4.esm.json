@@ -1,0 +1,12 @@
+{
+  "FormKey": "042B45:Fallout4.esm",
+  "EditorID": "PickmanGalleryZone",
+  "FormVersion": 128,
+  "Location": "042B44:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

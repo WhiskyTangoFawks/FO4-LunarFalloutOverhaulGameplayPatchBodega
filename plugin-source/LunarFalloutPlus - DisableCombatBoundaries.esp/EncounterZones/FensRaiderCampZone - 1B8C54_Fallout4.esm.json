@@ -1,0 +1,12 @@
+{
+  "FormKey": "1B8C54:Fallout4.esm",
+  "EditorID": "FensRaiderCampZone",
+  "Location": "1B8C53:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 45
+}

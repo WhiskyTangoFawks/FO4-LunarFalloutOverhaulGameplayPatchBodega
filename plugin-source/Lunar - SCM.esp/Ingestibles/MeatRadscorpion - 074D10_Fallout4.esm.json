@@ -1,0 +1,54 @@
+{
+  "FormKey": "074D10:Fallout4.esm",
+  "EditorID": "MeatRadscorpion",
+  "ObjectBounds": {
+    "First": "-23, -18, 0",
+    "Second": "23, 46, 31"
+  },
+  "PreviewTransform": "2495E9:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Radscorpion Meat"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000899:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "Props\\CreatureParts\\RadscorpioMeat.nif",
+    "Data": "0x0400000004000000000000000200000001000000E1B8622364647300F700AD6138D4644064647300F700AD61263DB1A064647300F700AD615BC83A77000000001CDB88C5D6C9DEAC6267736D4416719D"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.7,
+  "Value": 55,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 13.0
+      }
+    }
+  ]
+}

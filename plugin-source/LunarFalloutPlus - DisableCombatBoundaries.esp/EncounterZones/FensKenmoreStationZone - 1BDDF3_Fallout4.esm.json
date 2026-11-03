@@ -1,0 +1,9 @@
+{
+  "FormKey": "1BDDF3:Fallout4.esm",
+  "EditorID": "FensKenmoreStationZone",
+  "FormVersion": 120,
+  "Location": "1BDDF2:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

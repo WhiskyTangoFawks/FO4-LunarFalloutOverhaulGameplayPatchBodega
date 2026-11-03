@@ -1,0 +1,88 @@
+{
+  "FormKey": "058AA8:Fallout4.esm",
+  "EditorID": "PsychoJet",
+  "ObjectBounds": {
+    "First": "-6, -14, 0",
+    "Second": "6, 14, 5"
+  },
+  "PreviewTransform": "248D5E:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Psycho Jet"
+  },
+  "Keywords": [
+    "0A7296:Fallout4.esm",
+    "0F4AE7:Fallout4.esm",
+    "245F07:Fallout4.esm",
+    "249F52:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "Props\\Psychojet.nif",
+    "Data": "0x04000000040000000000000002000000000000005E3859CA64647300B7D70CE187545FA964647300B7D70CE199BD8A4964647300B7D70CE1B92277AE646473001CDB88C5"
+  },
+  "PickUpSound": "249C47:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Slow Time, +25% Damage, +35 Damage Resist and +40 Max AP for 18 seconds."
+  },
+  "Weight": 0.1,
+  "Value": 70,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "Addiction": "04BAE3:Fallout4.esm",
+  "AddictionChance": 0.07,
+  "ConsumeSound": "245D01:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": "all Psycho chems"
+  },
+  "Effects": [
+    {
+      "BaseEffect": "24672C:Fallout4.esm",
+      "Data": {
+        "Magnitude": 25.0,
+        "Duration": 30
+      }
+    },
+    {
+      "BaseEffect": "24672E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 35.0,
+        "Duration": 30
+      }
+    },
+    {
+      "BaseEffect": "24672F:Fallout4.esm",
+      "Data": {
+        "Magnitude": 35.0,
+        "Duration": 30
+      }
+    },
+    {
+      "BaseEffect": "245EFB:Fallout4.esm",
+      "Data": {
+        "Magnitude": 35.0
+      }
+    },
+    {
+      "BaseEffect": "248900:Fallout4.esm",
+      "Data": {
+        "Magnitude": 0.3,
+        "Duration": 18
+      }
+    },
+    {
+      "BaseEffect": "249FF7:Fallout4.esm",
+      "Data": {}
+    },
+    {
+      "BaseEffect": "047665:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 400
+      }
+    }
+  ]
+}

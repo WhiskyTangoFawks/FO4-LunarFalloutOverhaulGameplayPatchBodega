@@ -1,0 +1,12 @@
+{
+  "FormKey": "046872:Fallout4.esm",
+  "EditorID": "BostonAirportRuinsZone",
+  "FormVersion": 94,
+  "Location": "046871:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 50
+}

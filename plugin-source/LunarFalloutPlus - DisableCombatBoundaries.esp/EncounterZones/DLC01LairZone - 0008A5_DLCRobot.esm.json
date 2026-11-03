@@ -1,0 +1,12 @@
+{
+  "FormKey": "0008A5:DLCRobot.esm",
+  "EditorID": "DLC01LairZone",
+  "Location": "0008A4:DLCRobot.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 99
+}

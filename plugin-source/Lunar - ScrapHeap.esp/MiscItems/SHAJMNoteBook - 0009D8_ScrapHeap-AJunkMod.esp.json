@@ -1,0 +1,25 @@
+{
+  "FormKey": "0009D8:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMNoteBook",
+  "ObjectBounds": {
+    "First": "-6, -9, 0",
+    "Second": "6, 9, 2"
+  },
+  "PreviewTransform": "248517:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Note Book"
+  },
+  "Model": {
+    "File": "Props\\NoteBook\\NoteBook.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 6,
+  "Weight": 0.6,
+  "Components": [
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

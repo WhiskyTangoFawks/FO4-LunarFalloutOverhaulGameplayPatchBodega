@@ -1,0 +1,52 @@
+{
+  "FormKey": "046952:Fallout4.esm",
+  "EditorID": "steakRadStag",
+  "ObjectBounds": {
+    "First": "-3, -10, 0",
+    "Second": "3, 10, 9"
+  },
+  "PreviewTransform": "2495F2:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Grilled Radstag"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007280:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\RadStagSteak.nif",
+    "Data": "0x0400000003000000000000000100000001000000F7A6B2D564647300B64C8CDC2ECAB4B664647300B64C8CDC3023615664647300B64C8CDC79AC96EA6267736D11388219"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 1.0,
+  "Value": 25,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 6.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 7.0
+      }
+    }
+  ]
+}

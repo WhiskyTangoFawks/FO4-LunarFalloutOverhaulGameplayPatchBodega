@@ -1,0 +1,41 @@
+{
+  "FormKey": "001ECD:Unofficial Fallout 4 Patch.esp",
+  "EditorID": "UFO4P_co_mod_CombatShotgun_Scope_SightsIronImprovedGlow",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04A0DA:Fallout4.esm",
+        "ParameterOneNumber": 303322
+      }
+    }
+  ],
+  "CreatedObject": "152A5F:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

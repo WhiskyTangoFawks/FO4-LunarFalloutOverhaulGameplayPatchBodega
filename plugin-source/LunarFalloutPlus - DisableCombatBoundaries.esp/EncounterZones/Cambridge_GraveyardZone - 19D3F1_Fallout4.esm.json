@@ -1,0 +1,9 @@
+{
+  "FormKey": "19D3F1:Fallout4.esm",
+  "EditorID": "Cambridge_GraveyardZone",
+  "FormVersion": 119,
+  "Location": "19D3F0:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

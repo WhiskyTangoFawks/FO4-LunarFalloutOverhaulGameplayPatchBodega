@@ -1,0 +1,10 @@
+{
+  "FormKey": "017E01:Fallout4.esm",
+  "EditorID": "ConcordMuseumZone",
+  "Location": "01D807:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 16
+}

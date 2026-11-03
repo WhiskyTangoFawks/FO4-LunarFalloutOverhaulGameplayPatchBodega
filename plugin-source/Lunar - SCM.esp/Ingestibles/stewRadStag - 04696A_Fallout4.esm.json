@@ -1,0 +1,54 @@
+{
+  "FormKey": "04696A:Fallout4.esm",
+  "EditorID": "stewRadStag",
+  "ObjectBounds": {
+    "First": "-4, -4, 0",
+    "Second": "4, 4, 7"
+  },
+  "PreviewTransform": "239FBC:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Radstag Stew"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000884:Fallout4.esm",
+    "007283:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\RadStagStew.nif",
+    "Data": "0x04000000040000000000000002000000010000008753BE4364647300B64C8CDC5E3FB82064647300B64C8CDC40D66DC064647300B64C8CDCF908D512646473001CDB88C5BEF53FB76267736D11388219"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+25 Carry weight for 2 hours."
+  },
+  "Weight": 1.0,
+  "Value": 70,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 15.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "150733:Fallout4.esm",
+      "Data": {
+        "Magnitude": 25.0,
+        "Duration": 7200
+      }
+    }
+  ]
+}

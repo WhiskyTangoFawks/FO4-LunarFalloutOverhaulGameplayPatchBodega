@@ -1,0 +1,10 @@
+{
+  "FormKey": "22CD51:Fallout4.esm",
+  "EditorID": "SKK_RRFHFortHagenRedRocketZone",
+  "FormVersion": 128,
+  "Location": "165595:Fallout4.esm",
+  "Flags": [
+    "NeverResets",
+    "Workshop"
+  ]
+}

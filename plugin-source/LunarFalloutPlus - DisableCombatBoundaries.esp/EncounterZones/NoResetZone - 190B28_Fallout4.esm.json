@@ -1,0 +1,9 @@
+{
+  "FormKey": "190B28:Fallout4.esm",
+  "EditorID": "NoResetZone",
+  "FormVersion": 111,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ]
+}

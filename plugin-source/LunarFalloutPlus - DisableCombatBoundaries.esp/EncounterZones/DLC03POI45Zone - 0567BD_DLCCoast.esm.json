@@ -1,0 +1,10 @@
+{
+  "FormKey": "0567BD:DLCCoast.esm",
+  "EditorID": "DLC03POI45Zone",
+  "Location": "0567BC:DLCCoast.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

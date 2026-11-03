@@ -1,0 +1,10 @@
+{
+  "FormKey": "0233C4:Fallout4.esm",
+  "EditorID": "CollegeSquareZone",
+  "Location": "0233C3:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

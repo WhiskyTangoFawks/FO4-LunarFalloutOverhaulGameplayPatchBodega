@@ -1,0 +1,10 @@
+{
+  "FormKey": "017642:DLCNukaWorld.esm",
+  "EditorID": "DLC04KiddieKingdomTunnelsZone",
+  "Location": "017646:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

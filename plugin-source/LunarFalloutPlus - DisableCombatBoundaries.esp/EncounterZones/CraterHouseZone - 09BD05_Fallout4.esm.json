@@ -1,0 +1,11 @@
+{
+  "FormKey": "09BD05:Fallout4.esm",
+  "EditorID": "CraterHouseZone",
+  "FormVersion": 128,
+  "Location": "09BD04:Fallout4.esm",
+  "MinLevel": 45,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

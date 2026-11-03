@@ -1,0 +1,11 @@
+{
+  "FormKey": "03C0FF:Fallout4.esm",
+  "EditorID": "CroupManorZone",
+  "Location": "03C0FE:Fallout4.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

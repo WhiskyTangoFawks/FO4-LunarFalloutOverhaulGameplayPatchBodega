@@ -1,0 +1,123 @@
+{
+  "FormKey": "0138B8:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC04_EncCaveCricket01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 3,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 30,
+  "CalcMaxLevel": 37,
+  "DispositionBase": 35,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "028670:Fallout4.esm"
+    },
+    {
+      "Faction": "0EDCE1:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "0138BF:DLCNukaWorld.esm",
+  "Voice": "0138B1:DLCNukaWorld.esm",
+  "Race": "00AAFE:DLCNukaWorld.esm",
+  "Skin": "00AAFF:DLCNukaWorld.esm",
+  "AttackRace": "00AAFE:DLCNukaWorld.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 8.0
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 30.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 75,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "013795:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true
+    }
+  ],
+  "Class": "05F971:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Cave Cricket"
+  },
+  "CalculatedHealth": 495,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0138B4:DLCNukaWorld.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.75,
+  "NAM7": 0.0,
+  "HeightMax": 0.75,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "02EBB2:DLCNukaWorld.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

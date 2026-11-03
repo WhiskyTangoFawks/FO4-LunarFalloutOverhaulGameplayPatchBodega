@@ -1,0 +1,60 @@
+{
+  "FormKey": "04AA1D:DLCNukaWorld.esm",
+  "EditorID": "DLC04_steakNukalurk",
+  "ObjectBounds": {
+    "First": "-14, -9, 0",
+    "Second": "13, 9, 4"
+  },
+  "PreviewTransform": "2495F3:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Grilled Nukalurk"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007281:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\MirelurkRoast.nif",
+    "Data": "0x0400000004000000000000000100000002000000A26A6DE7646473005B6A8510DFBEB7FD646473005B6A85107B066B84646473005B6A851065EFBE64646473005B6A85107D99E4276267736D03F7933E056C301F6267736DD550C98A",
+    "MaterialSwap": "04FA60:DLCNukaWorld.esm"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+15 AP for 30 minutes."
+  },
+  "Weight": 0.5,
+  "Value": 60,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 8.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "150732:Fallout4.esm",
+      "Data": {
+        "Magnitude": 15.0,
+        "Duration": 1800
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "08BDAF:Fallout4.esm",
+  "EditorID": "FairlineHillEstatesZone",
+  "FormVersion": 128,
+  "Location": "08BDB0:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

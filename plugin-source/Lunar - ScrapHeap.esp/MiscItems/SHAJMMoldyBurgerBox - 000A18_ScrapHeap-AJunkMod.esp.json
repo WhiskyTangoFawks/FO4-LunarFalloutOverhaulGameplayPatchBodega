@@ -1,0 +1,18 @@
+{
+  "FormKey": "000A18:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMMoldyBurgerBox",
+  "ObjectBounds": {
+    "First": "-8, -8, 0",
+    "Second": "8, 8, 7"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Moldy Burger Box"
+  },
+  "Model": {
+    "File": "Props\\MoldyBurgerBox\\MoldyBurgerBox.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Weight": 0.4
+}

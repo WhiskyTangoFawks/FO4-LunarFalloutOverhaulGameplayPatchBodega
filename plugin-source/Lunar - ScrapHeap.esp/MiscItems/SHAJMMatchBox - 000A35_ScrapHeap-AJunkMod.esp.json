@@ -1,0 +1,25 @@
+{
+  "FormKey": "000A35:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMMatchBox",
+  "ObjectBounds": {
+    "First": "-5, -3, 0",
+    "Second": "5, 3, 3"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Match Box"
+  },
+  "Model": {
+    "File": "Props\\MatchBox\\MatchBox.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 3,
+  "Weight": 0.4,
+  "Components": [
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 2
+    }
+  ]
+}

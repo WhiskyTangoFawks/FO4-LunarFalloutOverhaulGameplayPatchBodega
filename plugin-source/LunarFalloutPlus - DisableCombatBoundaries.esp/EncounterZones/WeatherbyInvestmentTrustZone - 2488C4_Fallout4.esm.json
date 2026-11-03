@@ -1,0 +1,10 @@
+{
+  "FormKey": "2488C4:Fallout4.esm",
+  "EditorID": "WeatherbyInvestmentTrustZone",
+  "Location": "2488C2:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

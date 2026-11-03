@@ -1,0 +1,12 @@
+{
+  "FormKey": "05885D:Fallout4.esm",
+  "EditorID": "EasyCityDownsZone",
+  "FormVersion": 128,
+  "Location": "05885C:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

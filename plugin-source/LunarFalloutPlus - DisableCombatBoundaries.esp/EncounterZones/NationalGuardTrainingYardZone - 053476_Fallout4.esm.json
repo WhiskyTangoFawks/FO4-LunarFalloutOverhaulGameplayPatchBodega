@@ -1,0 +1,11 @@
+{
+  "FormKey": "053476:Fallout4.esm",
+  "EditorID": "NationalGuardTrainingYardZone",
+  "FormVersion": 109,
+  "Location": "0533A8:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 34
+}

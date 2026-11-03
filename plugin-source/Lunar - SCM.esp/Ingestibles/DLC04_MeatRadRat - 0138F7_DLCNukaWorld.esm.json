@@ -1,0 +1,55 @@
+{
+  "FormKey": "0138F7:DLCNukaWorld.esm",
+  "EditorID": "DLC04_MeatRadRat",
+  "ObjectBounds": {
+    "First": "-5, -9, -12",
+    "Second": "5, 10, 12"
+  },
+  "PreviewTransform": "2495E4:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Radrat Meat"
+  },
+  "Keywords": [
+    "00089A:Fallout4.esm",
+    "055ECC:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "DLC04\\Props\\DLC04_RadratMeat.nif",
+    "Data": "0x0400000008000000000000000300000002000000A81E8EF764647300295146A37172889464647300295146A3501D693D6464730038973CEA2DC9B3276464730038973CEA89716F5E6464730038973CEA9798BABE6464730038973CEADA8E9291646473001CDB88C56F9B5D7464647300295146A3C5A530726267736D170858096E29669B6267736D096FD2F1"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.4,
+  "Value": 5,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.125,
+        "Duration": 8
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9.0
+      }
+    }
+  ]
+}

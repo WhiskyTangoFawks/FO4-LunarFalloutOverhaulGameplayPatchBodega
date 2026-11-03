@@ -1,0 +1,12 @@
+{
+  "FormKey": "148C5F:Fallout4.esm",
+  "EditorID": "FortHagenInteriorZone",
+  "FormVersion": 128,
+  "Location": "148C5E:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

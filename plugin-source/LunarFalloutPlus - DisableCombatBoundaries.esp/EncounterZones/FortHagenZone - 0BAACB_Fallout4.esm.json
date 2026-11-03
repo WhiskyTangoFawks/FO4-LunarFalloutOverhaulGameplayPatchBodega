@@ -1,0 +1,13 @@
+{
+  "FormKey": "0BAACB:Fallout4.esm",
+  "EditorID": "FortHagenZone",
+  "FormVersion": 128,
+  "Location": "0BAACA:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "MatchPcBelowMinimumLevel",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

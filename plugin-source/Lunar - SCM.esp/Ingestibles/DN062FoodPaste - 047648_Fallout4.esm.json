@@ -1,0 +1,51 @@
+{
+  "FormKey": "047648:Fallout4.esm",
+  "EditorID": "DN062FoodPaste",
+  "ObjectBounds": {
+    "First": "-18, -12, 0",
+    "Second": "18, 12, 8"
+  },
+  "PreviewTransform": "2495EA:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Food Paste"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "Props\\FoodPasteTray.nif",
+    "Data": "0x0400000007000000000000000300000002000000642A2A8064647300B7D70CE1BD462CE364647300B7D70CE19C9093A464647300B7D70CE145FC95C764647300B7D70CE15B15402764647300B7D70CE1F38E12C4646473001CDB88C5A3AFF90364647300B7D70CE1767969E66267736DAEEF2E19FCB45D926267736DAEEF2E19"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+1 Endurance for 1 hour."
+  },
+  "Weight": 0.3,
+  "Value": 50,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "15072D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 3600
+      }
+    }
+  ]
+}

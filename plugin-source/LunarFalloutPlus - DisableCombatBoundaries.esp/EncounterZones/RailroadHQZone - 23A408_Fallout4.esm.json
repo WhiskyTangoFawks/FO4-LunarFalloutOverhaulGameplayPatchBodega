@@ -1,0 +1,12 @@
+{
+  "FormKey": "23A408:Fallout4.esm",
+  "EditorID": "RailroadHQZone",
+  "FormVersion": 129,
+  "Location": "0482C2:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

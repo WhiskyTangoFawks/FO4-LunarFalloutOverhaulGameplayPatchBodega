@@ -1,0 +1,172 @@
+{
+  "FormKey": "0170C2:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC04EncSpaceSentryBot01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 43,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.1
+  },
+  "CalcMinLevel": 30,
+  "CalcMaxLevel": 39,
+  "DispositionBase": 35,
+  "Unknown": 24,
+  "Factions": [
+    {
+      "Faction": "058304:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "01B34C:Fallout4.esm",
+  "Voice": "06E5A3:Fallout4.esm",
+  "Race": "0AE0B7:Fallout4.esm",
+  "AttackRace": "0AE0B7:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 30.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 8.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 605.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 125.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 85.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "05BA48:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "2243AA:Fallout4.esm",
+    "2243AB:Fallout4.esm",
+    "22DB8F:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Includes": [
+        {
+          "Mod": "0C366E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C366C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C366D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0170BE:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C3672:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0170C1:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0170C0:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C862E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0170BF:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0170BD:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0170BC:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0170BB:DLCNukaWorld.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "0170C3:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "0B287C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Space Sentry"
+  },
+  "CalculatedHealth": 300,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 2,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0B9D66:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0B6E0E:Fallout4.esm",
+  "DefaultPackageList": "22D9EB:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

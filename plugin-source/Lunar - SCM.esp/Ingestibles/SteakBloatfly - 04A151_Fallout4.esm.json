@@ -1,0 +1,51 @@
+{
+  "FormKey": "04A151:Fallout4.esm",
+  "EditorID": "SteakBloatfly",
+  "ObjectBounds": {
+    "First": "-4, -3, 0",
+    "Second": "4, 4, 4"
+  },
+  "PreviewTransform": "2495EF:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Crispy Bloatfly Bits"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "00727E:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\SquirrelCrispy.nif",
+    "Data": "0x0400000004000000000000000200000001000000D1C0786264647300B64C8CDC08AC7E0164647300B64C8CDC1645ABE164647300B64C8CDC2C4BF9B2646473001CDB88C57844BBD76267736D11388219"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.3,
+  "Value": 5,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 10.0
+      }
+    }
+  ]
+}

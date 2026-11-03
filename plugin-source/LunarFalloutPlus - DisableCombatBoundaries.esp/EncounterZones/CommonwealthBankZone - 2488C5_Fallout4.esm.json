@@ -1,0 +1,10 @@
+{
+  "FormKey": "2488C5:Fallout4.esm",
+  "EditorID": "CommonwealthBankZone",
+  "Location": "2488C3:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

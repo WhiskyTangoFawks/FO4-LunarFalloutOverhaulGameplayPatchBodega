@@ -1,0 +1,33 @@
+{
+  "FormKey": "000058:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMFissionBattery01",
+  "ObjectBounds": {
+    "First": "-1, -2, 0",
+    "Second": "1, 2, 8"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fission Battery"
+  },
+  "Model": {
+    "File": "Props\\FissionBattery\\FissionBattery01.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 80,
+  "Weight": 0.3,
+  "Components": [
+    {
+      "Component": "01FA8C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

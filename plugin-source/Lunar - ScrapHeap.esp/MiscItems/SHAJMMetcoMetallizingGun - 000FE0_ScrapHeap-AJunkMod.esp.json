@@ -1,0 +1,40 @@
+{
+  "FormKey": "000FE0:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMMetcoMetallizingGun",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-5, -17, 0",
+    "Second": "4, 11, 16"
+  },
+  "PreviewTransform": "1F97D0:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Metco Metallizing Gun"
+  },
+  "Model": {
+    "File": "Props\\H&HLazerWelderPistol\\H&HLazerWelderPistol.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 248,
+  "Weight": 3.0,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA9F:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

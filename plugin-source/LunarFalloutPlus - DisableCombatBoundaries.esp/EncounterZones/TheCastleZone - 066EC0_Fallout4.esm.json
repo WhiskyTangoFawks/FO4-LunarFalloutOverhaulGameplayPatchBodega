@@ -1,0 +1,11 @@
+{
+  "FormKey": "066EC0:Fallout4.esm",
+  "EditorID": "TheCastleZone",
+  "Location": "066EBA:Fallout4.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

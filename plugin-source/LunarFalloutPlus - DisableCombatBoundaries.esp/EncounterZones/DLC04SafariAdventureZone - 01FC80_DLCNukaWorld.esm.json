@@ -1,0 +1,11 @@
+{
+  "FormKey": "01FC80:DLCNukaWorld.esm",
+  "EditorID": "DLC04SafariAdventureZone",
+  "Location": "01FC7F:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

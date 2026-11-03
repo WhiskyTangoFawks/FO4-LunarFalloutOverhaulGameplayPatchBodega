@@ -1,0 +1,54 @@
+{
+  "FormKey": "074D0F:Fallout4.esm",
+  "EditorID": "MeatStingwing",
+  "ObjectBounds": {
+    "First": "-8, -12, 0",
+    "Second": "9, 15, 13"
+  },
+  "PreviewTransform": "2495E2:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Stingwing Meat"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "00089A:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "Props\\CreatureParts\\StingWingMeat.nif",
+    "Data": "0x040000000300000000000000010000000100000022DCD87B6464730025DEE54DFBB0DE186464730025DEE54DE5590BF86464730025DEE54DD6C9DEAC6267736D7D43F363"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.5,
+  "Value": 30,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 2.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9.0
+      }
+    }
+  ]
+}

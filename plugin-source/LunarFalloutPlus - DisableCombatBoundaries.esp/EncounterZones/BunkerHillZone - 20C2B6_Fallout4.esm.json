@@ -1,0 +1,12 @@
+{
+  "FormKey": "20C2B6:Fallout4.esm",
+  "EditorID": "BunkerHillZone",
+  "Location": "0456FA:Fallout4.esm",
+  "Rank": 255,
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

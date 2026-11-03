@@ -1,0 +1,66 @@
+{
+  "FormKey": "05406E:DLCCoast.esm",
+  "EditorID": "DLC03_ThrowingCaltropWeapon",
+  "ObjectBounds": {
+    "First": "-5, -3, -2",
+    "Second": "5, 6, 7"
+  },
+  "PreviewTransform": "12EF96:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Caltrops"
+  },
+  "Model": {
+    "File": "DLC03\\Weapons\\Caltrops\\CaltropTrap01.nif",
+    "Data": "0x040000000400000000000000020000000100000003AA74AF64647300B92A6FC6DAC672CC64647300B92A6FC6C42FA72C64647300B92A6FC60F2C2A00646473001CDB88C5526733006267736D2D54370C"
+  },
+  "EquipmentType": "046AAC:Fallout4.esm",
+  "BlockBashImpactDataSet": "0183FF:Fallout4.esm",
+  "Keywords": [
+    "04A0A6:Fallout4.esm",
+    "0E56C4:Fallout4.esm",
+    "10C414:Fallout4.esm",
+    "1CC46A:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Minor damage when walked over, chance to stagger."
+  },
+  "Speed": 1.0,
+  "ReloadSpeed": 1.0,
+  "Reach": 1.0,
+  "MinRange": 1000.0,
+  "MaxRange": 2000.0,
+  "DamageOutOfRangeMult": 1.0,
+  "Flags": [
+    "CritEffectOnDeath",
+    "HoldInputToPower"
+  ],
+  "AnimationType": "Mine",
+  "SecondaryDamage": 3.0,
+  "Weight": 0.5,
+  "Value": 25,
+  "BaseDamage": 15,
+  "SoundLevel": "Silent",
+  "AttackFailSound": "01DACD:Fallout4.esm",
+  "UnequipSound": "1526AC:Fallout4.esm",
+  "AnimationAttackSeconds": 1.833333,
+  "ActionPointCost": 5.0,
+  "Stagger": "Small",
+  "Unknown3": 2139095039,
+  "ExtraData": {
+    "AnimationFireSeconds": 0.7,
+    "RumbleLeftMotorStrength": 0.1,
+    "RumbleRightMotorStrength": 0.3,
+    "RumbleDuration": 0.15,
+    "AnimationReloadSeconds": 2.3333,
+    "SightedTransitionSeconds": 0.25,
+    "NumProjectiles": 5,
+    "ProjectileOverride": "05406F:DLCCoast.esm"
+  },
+  "CritDamageMult": 2.0,
+  "CritChargeBonus": 1.0,
+  "ImpactDataSet": "0E41E6:Fallout4.esm",
+  "AimModel": "054071:DLCCoast.esm",
+  "Zoom": "04B246:Fallout4.esm"
+}

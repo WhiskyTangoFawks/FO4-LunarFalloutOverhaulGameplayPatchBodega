@@ -1,0 +1,143 @@
+{
+  "FormKey": "1846D6:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncYaoGuai06Legendary",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 109,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 76,
+  "CalcMaxLevel": 94,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3902",
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "0B3D82:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "08E3B8:Fallout4.esm",
+  "Voice": "0B3D80:Fallout4.esm",
+  "DefaultTemplate": "1437F6:Fallout4.esm",
+  "TemplateActors": {
+    "StatsTemplate": "1437F6:Fallout4.esm",
+    "FactionsTemplate": "1437F6:Fallout4.esm",
+    "SpellListTemplate": "18458B:Fallout4.esm",
+    "AiDataTemplate": "1437F6:Fallout4.esm",
+    "AiPackagesTemplate": "1437F6:Fallout4.esm",
+    "InventoryTemplate": "1437F6:Fallout4.esm",
+    "ScriptTemplate": "1437F6:Fallout4.esm",
+    "DefPackListTemplate": "1437F6:Fallout4.esm",
+    "AttackDataTemplate": "1437F6:Fallout4.esm"
+  },
+  "Race": "0A0F2F:Fallout4.esm",
+  "ActorEffect": [
+    "1FA242:Fallout4.esm"
+  ],
+  "Skin": "08290A:Fallout4.esm",
+  "AttackRace": "0A0F2F:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 6.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 1100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 250.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 125.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarnOrAttack": 3000,
+  "AggroRadiusAttack": 1024,
+  "Keywords": [
+    "013795:Fallout4.esm",
+    "013798:Fallout4.esm",
+    "0B3D83:Fallout4.esm",
+    "1CF26C:Fallout4.esm",
+    "1C5020:Fallout4.esm"
+  ],
+  "Class": "0B3D81:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Legendary Dusky Yao Guai"
+  },
+  "CalculatedHealth": 1475,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0B3D84:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0BEBA4:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

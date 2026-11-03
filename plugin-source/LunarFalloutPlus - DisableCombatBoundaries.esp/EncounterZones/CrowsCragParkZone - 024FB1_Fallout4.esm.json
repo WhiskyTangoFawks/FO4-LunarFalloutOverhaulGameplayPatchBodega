@@ -1,0 +1,9 @@
+{
+  "FormKey": "024FB1:Fallout4.esm",
+  "EditorID": "CrowsCragParkZone",
+  "FormVersion": 52,
+  "Location": "024FA4:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

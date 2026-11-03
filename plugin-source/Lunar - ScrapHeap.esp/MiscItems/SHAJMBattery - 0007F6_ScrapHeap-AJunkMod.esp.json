@@ -1,0 +1,43 @@
+{
+  "FormKey": "0007F6:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMBattery",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "Second": "0, 0, 2"
+  },
+  "PreviewTransform": "23A959:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Battery"
+  },
+  "Model": {
+    "File": "Props\\Battery\\Battery.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 44,
+  "Weight": 0.1,
+  "Components": [
+    {
+      "Component": "01FA8C:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

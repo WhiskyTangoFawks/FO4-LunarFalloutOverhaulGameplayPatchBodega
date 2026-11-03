@@ -1,0 +1,11 @@
+{
+  "FormKey": "05885E:Fallout4.esm",
+  "EditorID": "FaneuilHallZone",
+  "FormVersion": 111,
+  "Location": "05885F:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

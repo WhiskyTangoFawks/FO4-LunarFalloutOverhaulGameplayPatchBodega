@@ -1,0 +1,54 @@
+{
+  "FormKey": "056A49:DLCCoast.esm",
+  "EditorID": "DLC03_MeatRabbit",
+  "ObjectBounds": {
+    "First": "-4, -3, 0",
+    "Second": "4, 4, 4"
+  },
+  "PreviewTransform": "239FB8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rabbit Leg"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000899:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\SquirrelCrispy.nif",
+    "Data": "0x040000000300000000000000010000000100000065722F3D64647300B64C8CDCBC1E295E64647300B64C8CDCA2F7FCBE64647300B64C8CDCCB4BE5856267736D11388219"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.3,
+  "Value": 7,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 8.0
+      }
+    }
+  ]
+}

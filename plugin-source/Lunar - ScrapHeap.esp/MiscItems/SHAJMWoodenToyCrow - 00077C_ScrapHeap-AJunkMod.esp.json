@@ -1,0 +1,32 @@
+{
+  "FormKey": "00077C:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMWoodenToyCrow",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-3, -6, 0",
+    "Second": "3, 5, 14"
+  },
+  "PreviewTransform": "239BDA:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wooden Toy Crow"
+  },
+  "Model": {
+    "File": "Props\\WoodenToyCrow\\WoodenToyCrow.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 6,
+  "Weight": 1.0,
+  "Components": [
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

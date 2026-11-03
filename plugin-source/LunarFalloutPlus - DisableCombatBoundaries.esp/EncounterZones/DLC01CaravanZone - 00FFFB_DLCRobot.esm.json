@@ -1,0 +1,11 @@
+{
+  "FormKey": "00FFFB:DLCRobot.esm",
+  "EditorID": "DLC01CaravanZone",
+  "Location": "00FFFA:DLCRobot.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

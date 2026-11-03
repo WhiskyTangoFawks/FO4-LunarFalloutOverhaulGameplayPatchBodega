@@ -1,0 +1,11 @@
+{
+  "FormKey": "0254B9:Fallout4.esm",
+  "EditorID": "AtomatoysFactoryZone",
+  "FormVersion": 128,
+  "Location": "0254B8:Fallout4.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

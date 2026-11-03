@@ -1,0 +1,60 @@
+{
+  "FormKey": "04693D:Fallout4.esm",
+  "EditorID": "OmeletteEggRadscorpion",
+  "ObjectBounds": {
+    "First": "-9, -8, 0",
+    "Second": "7, 6, 1"
+  },
+  "PreviewTransform": "2495F5:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Radscorpion Egg Omelette"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007281:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\RadscorpionOmelette.nif",
+    "Data": "0x040000000300000000000000010000000100000012F8DB7664647300B64C8CDCCB94DD1564647300B64C8CDCD57D08F564647300B64C8CDC5B2A46D46267736D11388219"
+  },
+  "CraftingSound": "112870:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+15 Damage resist for 1 hour."
+  },
+  "Weight": 0.5,
+  "Value": 80,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "150734:Fallout4.esm",
+      "Data": {
+        "Magnitude": 15.0,
+        "Duration": 3600
+      }
+    },
+    {
+      "BaseEffect": "21188C:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0,
+        "Duration": 2
+      }
+    }
+  ]
+}

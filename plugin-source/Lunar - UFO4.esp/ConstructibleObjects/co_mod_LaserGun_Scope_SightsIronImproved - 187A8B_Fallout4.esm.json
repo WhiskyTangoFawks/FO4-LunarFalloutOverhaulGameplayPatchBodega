@@ -1,0 +1,37 @@
+{
+  "FormKey": "187A8B:Fallout4.esm",
+  "EditorID": "co_mod_LaserGun_Scope_SightsIronImproved",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04A0DA:Fallout4.esm",
+        "ParameterOneNumber": 303322
+      }
+    }
+  ],
+  "CreatedObject": "1877FB:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

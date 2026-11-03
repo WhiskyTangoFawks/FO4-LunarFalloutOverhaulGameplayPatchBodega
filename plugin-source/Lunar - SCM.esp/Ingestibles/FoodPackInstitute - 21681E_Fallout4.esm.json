@@ -1,0 +1,77 @@
+{
+  "FormKey": "21681E:Fallout4.esm",
+  "EditorID": "FoodPackInstitute",
+  "ObjectBounds": {
+    "First": "-4, -7, 0",
+    "Second": "4, 7, 5"
+  },
+  "PreviewTransform": "24983C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Institute Food Packet"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007A1D:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\Institute_MRE.nif",
+    "Data": "0x0400000003000000000000000100000001000000892F05F564647300B64C8CDC5043039664647300B64C8CDC4EAAD67664647300B64C8CDCD10370EB6267736D11388219"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.5,
+  "Value": 75,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0B9B61:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 8.0,
+        "Duration": 10
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0xE4A8DA",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "HasPerk",
+            "ParameterOneRecord": "1C63E7:Fallout4.esm",
+            "ParameterOneNumber": 1860583
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 12.0,
+        "Duration": 10
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "HasPerk",
+            "ParameterOneRecord": "1C63E7:Fallout4.esm",
+            "ParameterOneNumber": 1860583
+          }
+        }
+      ]
+    }
+  ]
+}

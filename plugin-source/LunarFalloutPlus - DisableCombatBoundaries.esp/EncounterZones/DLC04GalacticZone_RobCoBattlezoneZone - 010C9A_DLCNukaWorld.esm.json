@@ -1,0 +1,11 @@
+{
+  "FormKey": "010C9A:DLCNukaWorld.esm",
+  "EditorID": "DLC04GalacticZone_RobCoBattlezoneZone",
+  "Location": "010CA2:DLCNukaWorld.esm",
+  "MinLevel": 50,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

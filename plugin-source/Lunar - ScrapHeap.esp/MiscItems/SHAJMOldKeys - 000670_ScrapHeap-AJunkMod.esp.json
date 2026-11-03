@@ -1,0 +1,31 @@
+{
+  "FormKey": "000670:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMOldKeys",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-2, -6, -8",
+    "Second": "0, 8, 5"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Old Keys"
+  },
+  "Model": {
+    "File": "Props\\OldKeys\\OldKeys.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Weight": 0.3,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

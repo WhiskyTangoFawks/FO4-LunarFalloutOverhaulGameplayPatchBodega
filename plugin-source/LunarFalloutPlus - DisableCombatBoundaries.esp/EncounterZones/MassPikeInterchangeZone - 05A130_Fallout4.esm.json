@@ -1,0 +1,11 @@
+{
+  "FormKey": "05A130:Fallout4.esm",
+  "EditorID": "MassPikeInterchangeZone",
+  "FormVersion": 128,
+  "Location": "04788D:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

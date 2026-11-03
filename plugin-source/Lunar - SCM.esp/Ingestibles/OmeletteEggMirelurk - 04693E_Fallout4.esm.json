@@ -1,0 +1,60 @@
+{
+  "FormKey": "04693E:Fallout4.esm",
+  "EditorID": "OmeletteEggMirelurk",
+  "ObjectBounds": {
+    "First": "-11, -13, 0",
+    "Second": "12, 12, 3"
+  },
+  "PreviewTransform": "2495F4:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mirelurk Egg Omelette"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007281:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\MirelurkOmellete.nif",
+    "Data": "0x04000000030000000000000001000000010000004550E3C664647300B64C8CDC9C3CE5A564647300B64C8CDC82D5304564647300B64C8CDC1C63E75C6267736D11388219"
+  },
+  "CraftingSound": "112870:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Fortify AP +5 for 10 minutes."
+  },
+  "Weight": 0.4,
+  "Value": 30,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 8.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "150732:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0,
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "21188C:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0,
+        "Duration": 2
+      }
+    }
+  ]
+}

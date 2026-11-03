@@ -1,0 +1,10 @@
+{
+  "FormKey": "248D8B:Fallout4.esm",
+  "EditorID": "LexingtonLaundromatZone",
+  "Location": "248D8F:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 20
+}

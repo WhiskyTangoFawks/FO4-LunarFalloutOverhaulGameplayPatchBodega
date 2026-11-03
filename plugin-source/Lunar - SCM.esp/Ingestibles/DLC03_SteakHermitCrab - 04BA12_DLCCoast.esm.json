@@ -1,0 +1,60 @@
+{
+  "FormKey": "04BA12:DLCCoast.esm",
+  "EditorID": "DLC03_SteakHermitCrab",
+  "ObjectBounds": {
+    "First": "-5, -11, 0",
+    "Second": "5, 10, 6"
+  },
+  "PreviewTransform": "24919A:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Grilled Hermit Crab"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "05775E:DLCCoast.esm",
+    "007280:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\DeathclawSteak.nif",
+    "Data": "0x04000000030000000000000001000000010000009CE9BE1964647300B64C8CDC4585B87A64647300B64C8CDC5B6C6D9A64647300B64C8CDC791868D26267736D11388219"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+2 Strength and +2 Endurance for 1 hour."
+  },
+  "Weight": 0.8,
+  "Value": 130,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 10.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "15072D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 2.0,
+        "Duration": 3600
+      }
+    },
+    {
+      "BaseEffect": "15072E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 2.0,
+        "Duration": 3600
+      }
+    }
+  ]
+}

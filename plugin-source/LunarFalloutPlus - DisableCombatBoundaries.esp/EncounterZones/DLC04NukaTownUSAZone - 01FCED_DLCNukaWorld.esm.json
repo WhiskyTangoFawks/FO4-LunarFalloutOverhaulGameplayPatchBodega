@@ -1,0 +1,12 @@
+{
+  "FormKey": "01FCED:DLCNukaWorld.esm",
+  "EditorID": "DLC04NukaTownUSAZone",
+  "Location": "01FCEC:DLCNukaWorld.esm",
+  "Rank": 255,
+  "MinLevel": 30,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

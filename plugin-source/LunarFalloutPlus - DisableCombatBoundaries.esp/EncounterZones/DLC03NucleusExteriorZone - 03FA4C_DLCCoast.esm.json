@@ -1,0 +1,10 @@
+{
+  "FormKey": "03FA4C:DLCCoast.esm",
+  "EditorID": "DLC03NucleusExteriorZone",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

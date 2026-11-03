@@ -1,0 +1,123 @@
+{
+  "FormKey": "146CE0:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "encMrGutsy02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-27, -27, 0",
+    "Second": "27, 27, 120"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 51,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 32,
+  "CalcMaxLevel": 49,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7477",
+  "Factions": [
+    {
+      "Faction": "058304:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "01B346:Fallout4.esm",
+  "Voice": "06E59F:Fallout4.esm",
+  "DefaultTemplate": "146CDF:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "146CDF:Fallout4.esm",
+    "FactionsTemplate": "146CDF:Fallout4.esm",
+    "AiDataTemplate": "146CDF:Fallout4.esm",
+    "AiPackagesTemplate": "146CDF:Fallout4.esm",
+    "InventoryTemplate": "146CDF:Fallout4.esm",
+    "DefPackListTemplate": "146CDF:Fallout4.esm",
+    "AttackDataTemplate": "146CDF:Fallout4.esm",
+    "KeywordsTemplate": "146CDF:Fallout4.esm"
+  },
+  "Race": "0359F4:Fallout4.esm",
+  "AttackRace": "0359F4:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1C346F:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 145.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 7.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "22DB8F:Fallout4.esm",
+    "1C5020:Fallout4.esm"
+  ],
+  "Class": "0EF217:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Lieutenant Gutsy"
+  },
+  "ShortName": {
+    "TargetLanguage": "English",
+    "Value": "Lt. Gutsy"
+  },
+  "CalculatedHealth": 200,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "149C9D:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "037005:Fallout4.esm",
+  "DefaultPackageList": "22D9EB:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

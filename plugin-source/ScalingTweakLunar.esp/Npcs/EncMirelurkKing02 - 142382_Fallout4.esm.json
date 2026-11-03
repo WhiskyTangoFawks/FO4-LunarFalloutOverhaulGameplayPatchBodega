@@ -1,0 +1,151 @@
+{
+  "FormKey": "142382:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncMirelurkKing02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-23, -20, 0",
+    "Second": "23, 20, 157"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 57,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 40,
+  "CalcMaxLevel": 49,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3900",
+  "Unknown": -11911,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "02689D:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "02EF69:Fallout4.esm",
+  "Voice": "0D8E1B:Fallout4.esm",
+  "DefaultTemplate": "0B7F95:Fallout4.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "0B7F95:Fallout4.esm",
+    "SpellListTemplate": "0B7F95:Fallout4.esm",
+    "AiDataTemplate": "0B7F95:Fallout4.esm",
+    "AiPackagesTemplate": "0B7F95:Fallout4.esm",
+    "InventoryTemplate": "0B7F95:Fallout4.esm",
+    "ScriptTemplate": "0B7F95:Fallout4.esm",
+    "DefPackListTemplate": "0B7F95:Fallout4.esm",
+    "AttackDataTemplate": "0B7F95:Fallout4.esm"
+  },
+  "Race": "0B7F91:Fallout4.esm",
+  "Skin": "1A4B24:Fallout4.esm",
+  "AttackRace": "0B7F91:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1504FC:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 110.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 175.0
+    },
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 8.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 205.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 35.0
+    },
+    {
+      "ActorValue": "1504FB:Fallout4.esm",
+      "Value": 10.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "0FC3EC:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0FC3EE:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "042A1C:Fallout4.esm"
+  ],
+  "Keywords": [
+    "1BF727:Fallout4.esm",
+    "115A92:Fallout4.esm"
+  ],
+  "Class": "05F96F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mirelurk Deep King"
+  },
+  "CalculatedHealth": 300,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 66,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0CA02A:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0D8E1A:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

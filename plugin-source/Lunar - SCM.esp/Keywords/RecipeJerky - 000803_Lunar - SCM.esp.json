@@ -1,0 +1,10 @@
+{
+  "FormKey": "000803:Lunar - SCM.esp",
+  "EditorID": "RecipeJerky",
+  "Color": "#00FFFFFF",
+  "Type": "RecipeFilter",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "JERKY"
+  }
+}

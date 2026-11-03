@@ -1,0 +1,746 @@
+{
+  "FormKey": "1A03F8:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncSynth07",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 87,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 61,
+  "CalcMaxLevel": 70,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7988",
+  "Unknown": 77,
+  "Factions": [
+    {
+      "Faction": "05E558:Fallout4.esm"
+    },
+    {
+      "Faction": "083B31:Fallout4.esm"
+    },
+    {
+      "Faction": "24903B:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "2483DF:Fallout4.esm",
+  "Voice": "0BBBF0:Fallout4.esm",
+  "DefaultTemplate": "15F03C:Fallout4.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "15F03C:Fallout4.esm",
+    "AiDataTemplate": "15F03C:Fallout4.esm",
+    "AiPackagesTemplate": "15F03C:Fallout4.esm",
+    "InventoryTemplate": "15F03C:Fallout4.esm",
+    "ScriptTemplate": "15F03C:Fallout4.esm",
+    "DefPackListTemplate": "15F03C:Fallout4.esm",
+    "AttackDataTemplate": "15F03C:Fallout4.esm",
+    "KeywordsTemplate": "15F03C:Fallout4.esm"
+  },
+  "Race": "0E8D09:Fallout4.esm",
+  "Skin": "1A7C2C:Fallout4.esm",
+  "AttackRace": "013746:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0E1A4B:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002CD:Fallout4.esm",
+      "Value": 30.0
+    },
+    {
+      "ActorValue": "0002CC:Fallout4.esm",
+      "Value": 15.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 250.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 60.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 40.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "05859B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1A7777:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "8C6BD5:LunarFalloutOverhaul.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsFriendsAndAllies",
+  "Keywords": [
+    "1ABC07:Fallout4.esm"
+  ],
+  "AttachParentSlots": [
+    "18AC54:Fallout4.esm",
+    "18AC60:Fallout4.esm",
+    "18AC61:Fallout4.esm",
+    "18AC62:Fallout4.esm",
+    "18AC63:Fallout4.esm",
+    "18AC65:Fallout4.esm",
+    "1A0021:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 1"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C30:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C31:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C32:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A7C38:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 2"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C30:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C31:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C32:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 3"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C30:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 4"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C30:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C31:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C32:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A7C38:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 5"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C30:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C31:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A7C38:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 6"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A7C38:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 7"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C31:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C32:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A7C38:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 8"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C30:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C31:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C32:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A8B4E:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 9"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C30:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C31:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C32:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A8B4F:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 10"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C30:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A8B4E:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 11"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C30:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C32:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A8B4F:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 12"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C30:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A8B4F:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Lost Synth 13"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1A7C2E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C31:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C32:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1A7C2D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1C6440:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1A8B4E:Fallout4.esm",
+          "Value": 379
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C3B0F:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F970:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Synth Stormer"
+  },
+  "CalculatedHealth": 250,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "CombatStyle": "119BB3:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0608EB:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "CrimeFaction": "24903B:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

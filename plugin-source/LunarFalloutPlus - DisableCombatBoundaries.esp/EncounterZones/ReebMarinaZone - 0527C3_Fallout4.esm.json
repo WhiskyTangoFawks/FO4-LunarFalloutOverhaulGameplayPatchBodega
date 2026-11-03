@@ -1,0 +1,11 @@
+{
+  "FormKey": "0527C3:Fallout4.esm",
+  "EditorID": "ReebMarinaZone",
+  "FormVersion": 128,
+  "Location": "0527C2:Fallout4.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

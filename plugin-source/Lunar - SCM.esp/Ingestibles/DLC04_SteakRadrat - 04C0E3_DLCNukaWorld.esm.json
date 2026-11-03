@@ -1,0 +1,58 @@
+{
+  "FormKey": "04C0E3:DLCNukaWorld.esm",
+  "EditorID": "DLC04_SteakRadrat",
+  "ObjectBounds": {
+    "First": "-4, -8, 0",
+    "Second": "4, 8, 3"
+  },
+  "PreviewTransform": "24919A:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rad-Rat Steak"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "00727E:SCM.esp"
+  ],
+  "Model": {
+    "File": "DLC04\\Props\\DLC04_RadratSteak.nif",
+    "Data": "0x0400000004000000000000000200000001000000241C17A064647300B64C8CDCFD7011C364647300B64C8CDCE399C42364647300B64C8CDC7F9C89C2646473001CDB88C54FF74C496267736D11388219"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+10 AP for 20 minutes."
+  },
+  "Weight": 0.4,
+  "Value": 35,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 6.0,
+        "Duration": 8
+      }
+    },
+    {
+      "BaseEffect": "03693F:Fallout4.esm",
+      "Data": {
+        "Magnitude": 10.0,
+        "Duration": 1200
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 7.0
+      }
+    }
+  ]
+}

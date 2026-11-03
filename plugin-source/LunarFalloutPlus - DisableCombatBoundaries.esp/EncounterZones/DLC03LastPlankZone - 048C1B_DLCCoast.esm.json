@@ -1,0 +1,10 @@
+{
+  "FormKey": "048C1B:DLCCoast.esm",
+  "EditorID": "DLC03LastPlankZone",
+  "Location": "005CB6:DLCCoast.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

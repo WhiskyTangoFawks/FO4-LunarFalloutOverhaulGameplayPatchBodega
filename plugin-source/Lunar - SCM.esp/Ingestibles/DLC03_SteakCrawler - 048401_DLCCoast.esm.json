@@ -1,0 +1,238 @@
+{
+  "FormKey": "048401:DLCCoast.esm",
+  "EditorID": "DLC03_SteakCrawler",
+  "ObjectBounds": {
+    "First": "-7, -7, 0",
+    "Second": "6, 7, 6"
+  },
+  "PreviewTransform": "01C71C:DLCCoast.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fried Fog Crawler"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "05775E:DLCCoast.esm",
+    "007280:SCM.esp"
+  ],
+  "Model": {
+    "File": "DLC03\\Props\\DLC03_Prawn.nif",
+    "Data": "0x040000000300000000000000010000000200000056489D5D64647300005216948F249B3E646473000052169491CD4EDE646473000052169408DE905C6267736DC9B77290056C301F6267736DD550C98A",
+    "MaterialSwap": "048BD2:DLCCoast.esm"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Damage Resistance greatly increases in Foggy and Rainy weather conditions for 30 minutes."
+  },
+  "Weight": 0.6,
+  "Value": 120,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 6.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "048406:DLCCoast.esm",
+      "Data": {
+        "Magnitude": 30.0,
+        "Duration": 1800
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "0074F5:DLCCoast.esm",
+            "ParameterOneNumber": 16807157
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "0074FA:DLCCoast.esm",
+            "ParameterOneNumber": 16807162
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "1CC186:Fallout4.esm",
+            "ParameterOneNumber": 1884550
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "1CD096:Fallout4.esm",
+            "ParameterOneNumber": 1888406
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "1CA7E4:Fallout4.esm",
+            "ParameterOneNumber": 1877988
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "048406:DLCCoast.esm",
+      "Data": {
+        "Magnitude": 50.0,
+        "Duration": 1800
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "007FBA:DLCCoast.esm",
+            "ParameterOneNumber": 16809914
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "1C3473:Fallout4.esm",
+            "ParameterOneNumber": 1848435
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "1BD481:Fallout4.esm",
+            "ParameterOneNumber": 1823873
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "048406:DLCCoast.esm",
+      "Data": {
+        "Magnitude": 70.0,
+        "Duration": 1800
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "0074C6:DLCCoast.esm",
+            "ParameterOneNumber": 16807110
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "1C3D5E:Fallout4.esm",
+            "ParameterOneNumber": 1850718
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "0247B6:DLCCoast.esm",
+            "ParameterOneNumber": 16926646
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "048407:DLCCoast.esm",
+      "Data": {}
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 7.0
+      }
+    }
+  ]
+}

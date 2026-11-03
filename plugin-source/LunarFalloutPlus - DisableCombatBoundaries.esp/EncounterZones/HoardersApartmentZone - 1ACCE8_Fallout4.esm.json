@@ -1,0 +1,11 @@
+{
+  "FormKey": "1ACCE8:Fallout4.esm",
+  "EditorID": "HoardersApartmentZone",
+  "FormVersion": 128,
+  "Location": "1ACCE7:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 24
+}

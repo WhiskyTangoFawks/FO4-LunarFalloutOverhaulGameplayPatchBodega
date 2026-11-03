@@ -1,0 +1,11 @@
+{
+  "FormKey": "1B3F3A:Fallout4.esm",
+  "EditorID": "HaymarketMallZone",
+  "FormVersion": 128,
+  "Location": "1B3F3B:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 50
+}

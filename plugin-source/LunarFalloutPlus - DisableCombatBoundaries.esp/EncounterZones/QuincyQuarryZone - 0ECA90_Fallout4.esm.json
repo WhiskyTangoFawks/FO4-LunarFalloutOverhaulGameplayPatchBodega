@@ -1,0 +1,12 @@
+{
+  "FormKey": "0ECA90:Fallout4.esm",
+  "EditorID": "QuincyQuarryZone",
+  "FormVersion": 128,
+  "Location": "0ECA8F:Fallout4.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

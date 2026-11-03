@@ -1,0 +1,11 @@
+{
+  "FormKey": "2263B6:Fallout4.esm",
+  "EditorID": "SouthBostonChurch",
+  "FormVersion": 128,
+  "Location": "2263B7:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

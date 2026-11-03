@@ -1,0 +1,12 @@
+{
+  "FormKey": "03FA54:Fallout4.esm",
+  "EditorID": "BarneysBunkerZone",
+  "FormVersion": 128,
+  "Location": "03FA53:Fallout4.esm",
+  "MinLevel": 45,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

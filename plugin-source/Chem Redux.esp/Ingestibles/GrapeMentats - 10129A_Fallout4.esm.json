@@ -1,0 +1,61 @@
+{
+  "FormKey": "10129A:Fallout4.esm",
+  "EditorID": "GrapeMentats",
+  "ObjectBounds": {
+    "First": "-8, -4, 0",
+    "Second": "8, 4, 3"
+  },
+  "PreviewTransform": "248D5F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Grape Mentats"
+  },
+  "Keywords": [
+    "0A7296:Fallout4.esm",
+    "0F4AE7:Fallout4.esm",
+    "245EF4:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "Props\\GrapeMentats.nif",
+    "Data": "0x0400000003000000000000000100000000000000616E8A9C64647300B7D70CE1B8028CFF64647300B7D70CE1A6EB591F64647300B7D70CE1"
+  },
+  "PickUpSound": "249C44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+5 Charisma, barter 10% better for 10 minutes."
+  },
+  "Weight": 0.1,
+  "Value": 60,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "Addiction": "04BAE2:Fallout4.esm",
+  "AddictionChance": 0.06,
+  "ConsumeSound": "0BB043:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": "all Mentats chems"
+  },
+  "Effects": [
+    {
+      "BaseEffect": "2466F9:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0,
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "2466FC:Fallout4.esm",
+      "Data": {
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "245EF5:Fallout4.esm",
+      "Data": {
+        "Magnitude": 25.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "FormKey": "0628EF:Fallout4.esm",
+  "EditorID": "StingwingBarb",
+  "ObjectBounds": {
+    "First": "-1, -4, 0",
+    "Second": "1, 3, 3"
+  },
+  "PreviewTransform": "248889:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Stingwing Barb"
+  },
+  "Model": {
+    "File": "Actors\\Bloatfly\\Gland.nif",
+    "Data": "0x04000000030000000000000001000000010000005109D3B86464730063AA7A468865D5DB6464730063AA7A46968C003B6464730063AA7A46C8A358C76267736D1E73EAE4"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "Value": 6
+}

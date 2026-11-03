@@ -1,0 +1,10 @@
+{
+  "FormKey": "01955A:DLCNukaWorld.esm",
+  "EditorID": "DLC04FunhouseZone",
+  "Location": "019559:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

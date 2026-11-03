@@ -1,0 +1,73 @@
+{
+  "FormKey": "101299:Fallout4.esm",
+  "EditorID": "UltraJet",
+  "ObjectBounds": {
+    "First": "-4, -5, 0",
+    "Second": "9, 2, 3"
+  },
+  "PreviewTransform": "248D61:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Ultra Jet"
+  },
+  "Keywords": [
+    "0A7296:Fallout4.esm",
+    "0F4AE7:Fallout4.esm",
+    "245F04:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "Props\\UltraJet.nif",
+    "Data": "0x04000000040000000000000002000000000000004CC9AD7864647300B7D70CE195A5AB1B64647300B7D70CE18B4C7EFB64647300B7D70CE124389F9F646473001CDB88C5"
+  },
+  "PickUpSound": "249C45:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Slow Time and +100 max AP for 20 seconds."
+  },
+  "Weight": 0.1,
+  "Value": 67,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "Addiction": "04BAE1:Fallout4.esm",
+  "AddictionChance": 0.06,
+  "ConsumeSound": "1C2059:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": "all Jet chems"
+  },
+  "Effects": [
+    {
+      "BaseEffect": "2466F3:Fallout4.esm",
+      "Data": {
+        "Magnitude": 100.0,
+        "Duration": 25
+      }
+    },
+    {
+      "BaseEffect": "248900:Fallout4.esm",
+      "Data": {
+        "Magnitude": 0.3,
+        "Duration": 25
+      }
+    },
+    {
+      "BaseEffect": "245F06:Fallout4.esm",
+      "Data": {
+        "Magnitude": 35.0
+      }
+    },
+    {
+      "BaseEffect": "249FF7:Fallout4.esm",
+      "Data": {}
+    },
+    {
+      "BaseEffect": "047665:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 400
+      }
+    }
+  ]
+}

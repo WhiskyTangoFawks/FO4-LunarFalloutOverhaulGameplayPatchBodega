@@ -1,0 +1,11 @@
+{
+  "FormKey": "0482CC:Fallout4.esm",
+  "EditorID": "WestonWaterTreatmentZone",
+  "Location": "0482CB:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

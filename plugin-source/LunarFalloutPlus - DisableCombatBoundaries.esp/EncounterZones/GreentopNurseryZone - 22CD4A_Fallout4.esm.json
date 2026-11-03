@@ -1,0 +1,11 @@
+{
+  "FormKey": "22CD4A:Fallout4.esm",
+  "EditorID": "GreentopNurseryZone",
+  "Location": "09B1C5:Fallout4.esm",
+  "MinLevel": 12,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

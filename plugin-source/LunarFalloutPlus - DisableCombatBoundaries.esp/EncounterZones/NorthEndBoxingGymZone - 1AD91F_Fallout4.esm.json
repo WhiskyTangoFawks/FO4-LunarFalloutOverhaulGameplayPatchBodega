@@ -1,0 +1,11 @@
+{
+  "FormKey": "1AD91F:Fallout4.esm",
+  "EditorID": "NorthEndBoxingGymZone",
+  "FormVersion": 128,
+  "Location": "1AD91D:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

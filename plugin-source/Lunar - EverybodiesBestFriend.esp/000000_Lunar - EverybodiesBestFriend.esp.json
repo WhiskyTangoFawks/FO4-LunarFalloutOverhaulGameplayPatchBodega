@@ -1,0 +1,15 @@
+{
+  "ModKey": "Lunar - EverybodiesBestFriend.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 2050
+    },
+    "Author": "DEFAULT",
+    "INTV": "0x01000000"
+  }
+}

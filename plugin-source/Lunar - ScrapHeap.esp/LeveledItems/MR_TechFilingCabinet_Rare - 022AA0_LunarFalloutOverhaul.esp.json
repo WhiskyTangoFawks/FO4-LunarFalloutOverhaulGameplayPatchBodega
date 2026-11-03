@@ -1,0 +1,52 @@
+{
+  "FormKey": "022AA0:LunarFalloutOverhaul.esp",
+  "EditorID": "MR_TechFilingCabinet_Rare",
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "05821A:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059ACC:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059B02:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059B02:Fallout4.esm",
+        "Count": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "060AA3:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "19569E:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

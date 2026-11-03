@@ -1,0 +1,11 @@
+{
+  "FormKey": "042B41:Fallout4.esm",
+  "EditorID": "FraternalPost115Zone",
+  "Location": "042B40:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

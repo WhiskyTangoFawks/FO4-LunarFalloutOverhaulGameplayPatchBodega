@@ -1,0 +1,12 @@
+{
+  "FormKey": "167EA3:Fallout4.esm",
+  "EditorID": "VirgilsLabZone",
+  "FormVersion": 128,
+  "Location": "167EA4:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

@@ -1,0 +1,8 @@
+{
+  "FormKey": "053FD6:DLCCoast.esm",
+  "EditorID": "DLC03RayburnPointZone",
+  "Location": "053FD5:DLCCoast.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

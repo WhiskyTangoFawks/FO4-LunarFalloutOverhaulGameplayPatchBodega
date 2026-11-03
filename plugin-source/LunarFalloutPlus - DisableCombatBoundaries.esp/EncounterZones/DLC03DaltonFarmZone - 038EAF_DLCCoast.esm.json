@@ -1,0 +1,11 @@
+{
+  "FormKey": "038EAF:DLCCoast.esm",
+  "EditorID": "DLC03DaltonFarmZone",
+  "Location": "038EAE:DLCCoast.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

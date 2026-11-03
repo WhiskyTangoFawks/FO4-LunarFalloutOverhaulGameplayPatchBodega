@@ -1,0 +1,11 @@
+{
+  "FormKey": "224D28:Fallout4.esm",
+  "EditorID": "USSConstitutionZone",
+  "Location": "091386:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

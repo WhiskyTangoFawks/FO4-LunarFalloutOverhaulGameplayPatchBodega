@@ -1,0 +1,158 @@
+{
+  "FormKey": "115EA8:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncRadscorpion07",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-52, -126, 0",
+    "Second": "52, 105, 69"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 96,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 64,
+  "CalcMaxLevel": 94,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3900",
+  "Factions": [
+    {
+      "Faction": "020B89:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "074D11:Fallout4.esm",
+  "Voice": "0636A5:Fallout4.esm",
+  "DefaultTemplate": "0636AA:Fallout4.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "0636AA:Fallout4.esm",
+    "SpellListTemplate": "0636AA:Fallout4.esm",
+    "AiDataTemplate": "0636AA:Fallout4.esm",
+    "AiPackagesTemplate": "0636AA:Fallout4.esm",
+    "InventoryTemplate": "0636AA:Fallout4.esm",
+    "ScriptTemplate": "0636AA:Fallout4.esm",
+    "DefPackListTemplate": "0636AA:Fallout4.esm",
+    "AttackDataTemplate": "0636AA:Fallout4.esm"
+  },
+  "Race": "0636AB:Fallout4.esm",
+  "Skin": "0636A4:Fallout4.esm",
+  "FarAwayModel": "0636A4:Fallout4.esm",
+  "AttackRace": "0636AB:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 6.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 800.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 115.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 150.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 300.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 120.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarnOrAttack": 3000,
+  "AggroRadiusAttack": 1024,
+  "Packages": [
+    "042A1C:Fallout4.esm"
+  ],
+  "Keywords": [
+    "115EB6:Fallout4.esm",
+    "22FC80:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1BC0E5:Fallout4.esm",
+          "Value": 379
+        }
+      ]
+    }
+  ],
+  "Class": "05F96F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Deathskull Radscorpion"
+  },
+  "CalculatedHealth": 1115,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 63,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0636A6:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "1443D8:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

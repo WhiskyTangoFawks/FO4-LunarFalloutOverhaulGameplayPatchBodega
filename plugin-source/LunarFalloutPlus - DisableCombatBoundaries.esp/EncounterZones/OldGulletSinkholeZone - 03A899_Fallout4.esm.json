@@ -1,0 +1,11 @@
+{
+  "FormKey": "03A899:Fallout4.esm",
+  "EditorID": "OldGulletSinkholeZone",
+  "FormVersion": 128,
+  "Location": "03A871:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

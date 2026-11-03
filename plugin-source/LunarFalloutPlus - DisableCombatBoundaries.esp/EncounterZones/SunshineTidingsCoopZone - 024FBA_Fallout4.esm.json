@@ -1,0 +1,12 @@
+{
+  "FormKey": "024FBA:Fallout4.esm",
+  "EditorID": "SunshineTidingsCoopZone",
+  "Location": "024FAD:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 20
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "032B3F:Fallout4.esm",
+  "EditorID": "NeponsetParkZone",
+  "FormVersion": 109,
+  "Location": "032B40:Fallout4.esm",
+  "MinLevel": 31,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 34
+}

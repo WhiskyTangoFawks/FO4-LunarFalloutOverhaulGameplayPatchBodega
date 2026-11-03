@@ -1,0 +1,11 @@
+{
+  "FormKey": "021A8A:Fallout4.esm",
+  "EditorID": "EgretToursMarinaZone",
+  "Location": "021A7F:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

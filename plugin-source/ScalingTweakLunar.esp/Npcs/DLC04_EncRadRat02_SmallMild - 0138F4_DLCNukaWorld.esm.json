@@ -1,0 +1,154 @@
+{
+  "FormKey": "0138F4:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC04_EncRadRat02_SmallMild",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 5,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 24,
+  "CalcMaxLevel": 31,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7996",
+  "Unknown": 83,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "031B22:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "0138F6:DLCNukaWorld.esm",
+  "Voice": "0138F5:DLCNukaWorld.esm",
+  "DefaultTemplate": "00C609:DLCNukaWorld.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "00C609:DLCNukaWorld.esm",
+    "SpellListTemplate": "00C609:DLCNukaWorld.esm",
+    "AiDataTemplate": "00C609:DLCNukaWorld.esm",
+    "AiPackagesTemplate": "00C609:DLCNukaWorld.esm",
+    "InventoryTemplate": "00C609:DLCNukaWorld.esm",
+    "ScriptTemplate": "00C609:DLCNukaWorld.esm",
+    "DefPackListTemplate": "00C609:DLCNukaWorld.esm",
+    "AttackDataTemplate": "00C609:DLCNukaWorld.esm",
+    "KeywordsTemplate": "00C609:DLCNukaWorld.esm"
+  },
+  "Race": "00C606:DLCNukaWorld.esm",
+  "Skin": "01F0E3:DLCNukaWorld.esm",
+  "AttackRace": "01D810:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": -40.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 25.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 25.0
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 1250,
+  "AggroRadiusWarnOrAttack": 1000,
+  "AggroRadiusAttack": 750,
+  "Keywords": [
+    "22FC80:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "04FC45:DLCNukaWorld.esm",
+          "Value": 477,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F96E:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mangy Radrat Pup"
+  },
+  "CalculatedHealth": 265,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0138F8:DLCNukaWorld.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.6,
+  "NAM7": 0.0,
+  "HeightMax": 0.7,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0418BC:DLCNukaWorld.esm",
+  "DefaultOutfit": "0824EA:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

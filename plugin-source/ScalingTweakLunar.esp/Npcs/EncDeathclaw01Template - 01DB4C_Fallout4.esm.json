@@ -1,0 +1,144 @@
+{
+  "FormKey": "01DB4C:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncDeathclaw01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-127, -208, -29",
+    "Second": "127, 128, 237"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 60,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.25
+  },
+  "CalcMinLevel": 22,
+  "CalcMaxLevel": 30,
+  "DispositionBase": 35,
+  "Unknown": 1264,
+  "Factions": [
+    {
+      "Faction": "01E722:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "02EF6C:Fallout4.esm",
+  "Voice": "0219CA:Fallout4.esm",
+  "Race": "01DB4A:Fallout4.esm",
+  "Skin": "01DB49:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DE:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 150.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 45.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "113339:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "11333B:Fallout4.esm",
+        "Count": 10
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Keywords": [
+    "05BA48:Fallout4.esm",
+    "1437E9:Fallout4.esm",
+    "2243AB:Fallout4.esm",
+    "2243AA:Fallout4.esm",
+    "1C5020:Fallout4.esm"
+  ],
+  "Class": "05F96C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Deathclaw"
+  },
+  "CalculatedHealth": 705,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 66,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "04D8AE:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0320A1:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

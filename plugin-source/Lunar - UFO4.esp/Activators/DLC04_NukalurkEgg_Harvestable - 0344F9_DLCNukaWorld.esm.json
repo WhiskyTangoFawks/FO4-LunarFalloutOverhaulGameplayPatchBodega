@@ -1,0 +1,61 @@
+{
+  "FormKey": "0344F9:DLCNukaWorld.esm",
+  "EditorID": "DLC04_NukalurkEgg_Harvestable",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "MirelurkHarvestableScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "MirelurkEgg",
+            "Object": "900000:DLCNukaWorld.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-13, -13, -18",
+    "Second": "13, 13, 18"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Nukalurk Egg"
+  },
+  "Model": {
+    "File": "props\\mirelurkeggs\\mirelurkegg_single01.nif",
+    "Data": "0x0400000004000000000000000200000001000000417909CE64647300889BAEF998150FAD64647300889BAEF986FCDA4D64647300889BAEF97F9C89C2646473001CDB88C58BC7A41E6267736DAEEF2E19"
+  },
+  "Destructible": {
+    "Data": {
+      "Health": 6,
+      "DESTCount": 1,
+      "Flags": [
+        "LargeActorDestroys"
+      ]
+    },
+    "Stages": [
+      {
+        "ModelDamageStage": 1,
+        "Flags": [
+          "Destroy"
+        ],
+        "Explosion": "019A83:Fallout4.esm",
+        "Model": {
+          "File": "props\\mirelurkeggs\\mirelurkegg_single01_broken01.nif",
+          "Data": "0x0400000000000000000000000000000000000000"
+        }
+      }
+    ]
+  },
+  "Keywords": [
+    "12A26F:Fallout4.esm"
+  ],
+  "MarkerColor": "#00CC4C33",
+  "ActivateTextOverride": {
+    "TargetLanguage": "English",
+    "Value": "Take"
+  },
+  "Flags": []
+}

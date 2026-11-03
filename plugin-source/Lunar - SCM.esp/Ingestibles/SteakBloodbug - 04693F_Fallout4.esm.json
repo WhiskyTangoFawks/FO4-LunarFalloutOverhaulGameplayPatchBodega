@@ -1,0 +1,59 @@
+{
+  "FormKey": "04693F:Fallout4.esm",
+  "EditorID": "SteakBloodbug",
+  "ObjectBounds": {
+    "First": "-12, -9, 0",
+    "Second": "9, 11, 16"
+  },
+  "PreviewTransform": "2495F0:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Bloodbug Steak"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "00727E:SCM.esp"
+  ],
+  "Model": {
+    "File": "Props\\CreatureParts\\BloodBugMeat.nif",
+    "Data": "0x040000000400000000000000020000000100000025216D0A6464730060FA697FFC4D6B696464730060FA697FE2A4BE896464730060FA697F2C4BF9B2646473001CDB88C5D6C9DEAC6267736D47A6C56D"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+15 Max Health for 1 hour."
+  },
+  "Weight": 0.4,
+  "Value": 40,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 10.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "150731:Fallout4.esm",
+      "Data": {
+        "Magnitude": 15.0,
+        "Duration": 3600
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 7.0
+      }
+    }
+  ]
+}

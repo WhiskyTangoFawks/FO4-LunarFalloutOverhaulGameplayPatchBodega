@@ -1,0 +1,12 @@
+{
+  "FormKey": "066EFE:Fallout4.esm",
+  "EditorID": "OldNorthChurchZone",
+  "FormVersion": 129,
+  "Location": "066EFD:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

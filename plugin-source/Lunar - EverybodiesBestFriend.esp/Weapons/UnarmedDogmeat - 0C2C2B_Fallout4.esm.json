@@ -1,0 +1,44 @@
+{
+  "FormKey": "0C2C2B:Fallout4.esm",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "UnarmedDogmeat",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Unarmed Dogmeat"
+  },
+  "EquipmentType": "013F45:Fallout4.esm",
+  "Keywords": [
+    "02405E:Fallout4.esm",
+    "05240E:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Speed": 1.0,
+  "ReloadSpeed": 1.0,
+  "Reach": 0.68,
+  "MinRange": 500.0,
+  "MaxRange": 2000.0,
+  "DamageOutOfRangeMult": 0.5,
+  "OnHit": "NoDismemberOrExplode",
+  "Flags": [
+    "CritEffectOnDeath",
+    "CannotDrop",
+    "NotPlayable"
+  ],
+  "BaseDamage": 10,
+  "SoundLevel": "Normal",
+  "AnimationAttackSeconds": 1.033333,
+  "ActionPointCost": 20.0,
+  "Unknown3": 2139095039,
+  "CritDamageMult": 2.0,
+  "CritChargeBonus": 1.0,
+  "ImpactDataSet": "024066:Fallout4.esm",
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

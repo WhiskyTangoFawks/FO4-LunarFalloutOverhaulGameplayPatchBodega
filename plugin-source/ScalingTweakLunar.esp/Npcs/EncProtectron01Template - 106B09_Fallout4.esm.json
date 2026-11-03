@@ -1,0 +1,250 @@
+{
+  "FormKey": "106B09:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncProtectron01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 9,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 5,
+  "CalcMaxLevel": 13,
+  "DispositionBase": 35,
+  "Unknown": 23548,
+  "Factions": [
+    {
+      "Faction": "058304:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "01B344:Fallout4.esm",
+  "Voice": "06E5A1:Fallout4.esm",
+  "Race": "0DFB33:Fallout4.esm",
+  "AttackRace": "0DFB33:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0E1A4B:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 80.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 25.0
+    },
+    {
+      "ActorValue": "1C5A31:Fallout4.esm"
+    }
+  ],
+  "NativeTerminal": "0F39DD:Fallout4.esm",
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsFriendsAndAllies",
+  "Packages": [
+    "0F39E4:Fallout4.esm"
+  ],
+  "Keywords": [
+    "0F9E1B:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "22DB8F:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "enc01"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "0E02FE:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0CAC70:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0E02F6:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0E02F7:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0E02F8:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0E02F9:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0E02FA:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3169:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B316A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3167:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3168:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B315F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3160:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3166:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3165:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B316B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3161:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3162:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B3174:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "15B0C9:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "melee"
+      },
+      "AddonIndex": 0,
+      "Keywords": [
+        "1C2275:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1BDDED:Fallout4.esm"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "laser semiauto one hand"
+      },
+      "AddonIndex": 0,
+      "Keywords": [
+        "1C2276:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1C2277:Fallout4.esm"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "laser semiauto"
+      },
+      "AddonIndex": 0,
+      "Keywords": [
+        "1B9AF5:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "15B0C9:Fallout4.esm"
+        }
+      ]
+    }
+  ],
+  "Class": "0B287C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Protectron"
+  },
+  "CalculatedHealth": 20,
+  "CalculatedActionPoints": 10,
+  "GearedUpWeapons": 1,
+  "Unused": 2,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0D840C:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0D8F7D:Fallout4.esm",
+  "DefaultPackageList": "22D9EB:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

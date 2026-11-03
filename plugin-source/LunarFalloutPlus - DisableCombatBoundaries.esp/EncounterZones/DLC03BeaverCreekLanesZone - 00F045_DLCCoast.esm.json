@@ -1,0 +1,10 @@
+{
+  "FormKey": "00F045:DLCCoast.esm",
+  "EditorID": "DLC03BeaverCreekLanesZone",
+  "Location": "00F042:DLCCoast.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "04E4D8:Fallout4.esm",
+  "EditorID": "BackStreetApparelZone",
+  "Location": "04E4D7:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

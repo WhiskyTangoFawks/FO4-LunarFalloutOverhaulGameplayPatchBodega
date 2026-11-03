@@ -1,0 +1,11 @@
+{
+  "FormKey": "0B1CE8:Fallout4.esm",
+  "EditorID": "RoboticsPioneerParkZone",
+  "FormVersion": 128,
+  "Location": "0B1CE7:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

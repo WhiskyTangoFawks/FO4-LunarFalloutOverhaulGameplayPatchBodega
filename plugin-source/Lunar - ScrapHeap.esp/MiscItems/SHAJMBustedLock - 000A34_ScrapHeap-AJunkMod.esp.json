@@ -1,0 +1,32 @@
+{
+  "FormKey": "000A34:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMBustedLock",
+  "ObjectBounds": {
+    "First": "0, -2, 0",
+    "Second": "1, 2, 9"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Busted Lock"
+  },
+  "Model": {
+    "File": "Props\\BustedLock\\BustedLock.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 20,
+  "Components": [
+    {
+      "Component": "03D294:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABC:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "FormKey": "04E449:Fallout4.esm",
+  "EditorID": "TheBigDigZone",
+  "FormVersion": 128,
+  "Location": "04E448:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

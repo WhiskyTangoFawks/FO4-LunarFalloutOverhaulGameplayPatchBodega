@@ -1,0 +1,54 @@
+{
+  "FormKey": "0138C5:DLCNukaWorld.esm",
+  "EditorID": "DLC04_MeatSwarm",
+  "ObjectBounds": {
+    "First": "-4, -3, 0",
+    "Second": "4, 4, 4"
+  },
+  "PreviewTransform": "2495EE:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Flying Ant Bits"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000899:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\SquirrelCrispy.nif",
+    "Data": "0x0400000003000000000000000100000002000000D336FDF7646473008E6CB1510A5AFB94646473008E6CB15114B32E74646473008E6CB15119426ADE6267736D4789D555056C301F6267736DD550C98A"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.2,
+  "Value": 8,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9.0
+      }
+    }
+  ]
+}

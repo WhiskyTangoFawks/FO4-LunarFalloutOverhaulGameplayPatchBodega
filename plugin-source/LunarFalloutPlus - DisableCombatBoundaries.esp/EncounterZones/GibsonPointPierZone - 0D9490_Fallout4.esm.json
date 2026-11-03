@@ -1,0 +1,11 @@
+{
+  "FormKey": "0D9490:Fallout4.esm",
+  "EditorID": "GibsonPointPierZone",
+  "FormVersion": 109,
+  "Location": "0D948F:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 34
+}

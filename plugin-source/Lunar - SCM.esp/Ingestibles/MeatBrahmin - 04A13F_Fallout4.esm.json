@@ -1,0 +1,54 @@
+{
+  "FormKey": "04A13F:Fallout4.esm",
+  "EditorID": "MeatBrahmin",
+  "ObjectBounds": {
+    "First": "-36, -14, 0",
+    "Second": "29, 14, 23"
+  },
+  "PreviewTransform": "046B75:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Brahmin Meat"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000899:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "Props\\CreatureParts\\Meat.nif",
+    "Data": "0x04000000030000000000000001000000010000004ED5F5C164647300F185260697B9F3A264647300F18526068950264264647300F1852606D6C9DEAC6267736D7759E5B9"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 1.5,
+  "Value": 28,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 8.0
+      }
+    }
+  ]
+}

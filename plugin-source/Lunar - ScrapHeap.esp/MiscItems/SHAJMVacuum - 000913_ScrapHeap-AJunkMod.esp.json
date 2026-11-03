@@ -1,0 +1,36 @@
+{
+  "FormKey": "000913:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMVacuum",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-13, -15, 0",
+    "Second": "9, 14, 13"
+  },
+  "PreviewTransform": "2495E8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vacuum"
+  },
+  "Model": {
+    "File": "Props\\Vacuum\\Vacuum.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 65,
+  "Weight": 6.0,
+  "Components": [
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "011A84:DLCCoast.esm",
+  "EditorID": "DLC03FringeCoveDocksZone",
+  "Location": "011A83:DLCCoast.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

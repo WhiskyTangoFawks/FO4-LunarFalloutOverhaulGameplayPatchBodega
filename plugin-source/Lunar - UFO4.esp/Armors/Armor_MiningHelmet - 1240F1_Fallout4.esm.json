@@ -1,0 +1,237 @@
+{
+  "FormKey": "1240F1:Fallout4.esm",
+  "EditorID": "Armor_MiningHelmet",
+  "ObjectBounds": {
+    "First": "-130, -10, -89",
+    "Second": "98, 242, 125"
+  },
+  "PreviewTransform": "23A3FB:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mining Helmet"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Clothes\\Hats\\GOMiningHelmet.nif",
+        "Data": "0x0400000000000000000000000000000000000000"
+      }
+    },
+    "Female": {
+      "Model": {
+        "File": "Clothes\\Hats\\GOMiningHelmet.nif",
+        "Data": "0x0400000000000000000000000000000000000000"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "HairTop",
+      "Headband"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "07820B:Fallout4.esm",
+    "0B34A6:Fallout4.esm",
+    "12EEE9:Fallout4.esm",
+    "1538E3:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "InstanceNaming": "015DB1:Unofficial Fallout 4 Patch.esp",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "1240F0:Fallout4.esm"
+    }
+  ],
+  "Value": 50,
+  "Weight": 2.0,
+  "ArmorRating": 3,
+  "Unused": "0x000000",
+  "AttachParentSlots": [
+    "03DAFC:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Mining Helmet Green"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1538E6:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD28:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "015DB0:Unofficial Fallout 4 Patch.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Mining Helmet Black"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1538E6:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD28:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD3C:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Mining Helmet Blue"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1538E6:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD28:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD3D:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Mining Helmet Grey"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1538E6:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD28:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD3E:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Mining Helmet Orange"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1538E6:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD28:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD3F:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Mining Helmet Pink"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1538E6:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD28:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD40:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Mining Helmet Red"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1538E6:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD28:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD41:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Mining Helmet White"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "1538E6:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD28:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "22DD42:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

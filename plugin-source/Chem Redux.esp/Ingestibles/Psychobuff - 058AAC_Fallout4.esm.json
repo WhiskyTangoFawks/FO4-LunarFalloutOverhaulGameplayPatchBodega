@@ -1,0 +1,83 @@
+{
+  "FormKey": "058AAC:Fallout4.esm",
+  "EditorID": "Psychobuff",
+  "ObjectBounds": {
+    "First": "-6, -14, 0",
+    "Second": "6, 14, 5"
+  },
+  "PreviewTransform": "248D5E:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Psychobuff"
+  },
+  "Keywords": [
+    "0A7296:Fallout4.esm",
+    "0F4AE7:Fallout4.esm",
+    "245F07:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "Props\\Psychobuff.nif",
+    "Data": "0x04000000040000000000000002000000000000005E3859CA64647300B7D70CE187545FA964647300B7D70CE199BD8A4964647300B7D70CE1B92277AE646473001CDB88C5"
+  },
+  "PickUpSound": "249C47:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+25% Damage, +3 Strength, +3 Endurance and +65 max Health for 10 minutes."
+  },
+  "Weight": 0.1,
+  "Value": 70,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "Addiction": "04BAE3:Fallout4.esm",
+  "AddictionChance": 0.07,
+  "ConsumeSound": "245D01:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": "all Psycho chems"
+  },
+  "Effects": [
+    {
+      "BaseEffect": "24672C:Fallout4.esm",
+      "Data": {
+        "Magnitude": 25.0,
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "24672D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.0,
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "246730:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.0,
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "246731:Fallout4.esm",
+      "Data": {
+        "Magnitude": 65.0,
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "246733:Fallout4.esm",
+      "Data": {
+        "Magnitude": 65.0,
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "245EFB:Fallout4.esm",
+      "Data": {
+        "Magnitude": 35.0
+      }
+    }
+  ]
+}

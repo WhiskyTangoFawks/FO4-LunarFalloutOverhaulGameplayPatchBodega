@@ -1,0 +1,11 @@
+{
+  "FormKey": "01089E:DLCRobot.esm",
+  "EditorID": "DLC01LairRobcoStoreZone",
+  "Location": "01089D:DLCRobot.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

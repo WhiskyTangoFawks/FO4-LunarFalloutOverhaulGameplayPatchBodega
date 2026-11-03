@@ -1,0 +1,9 @@
+{
+  "FormKey": "2496C8:Fallout4.esm",
+  "EditorID": "DmndKelloggHouseNoReset",
+  "Location": "0F3546:Fallout4.esm",
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ]
+}

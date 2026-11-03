@@ -1,0 +1,130 @@
+{
+  "FormKey": "0A0F33:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncYaoGuai01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-51, -80, -34",
+    "Second": "51, 80, 106"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 37,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 26,
+  "CalcMaxLevel": 35,
+  "DispositionBase": 35,
+  "Unknown": -32768,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "0B3D82:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "08E3B8:Fallout4.esm",
+  "Voice": "0B3D80:Fallout4.esm",
+  "Race": "0A0F2F:Fallout4.esm",
+  "Skin": "0A0F31:Fallout4.esm",
+  "AttackRace": "0A0F2F:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 55.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 60.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 425.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 60.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 40.0
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarnOrAttack": 3000,
+  "AggroRadiusAttack": 1024,
+  "Keywords": [
+    "013795:Fallout4.esm",
+    "013798:Fallout4.esm",
+    "0B3D83:Fallout4.esm"
+  ],
+  "Class": "0B3D81:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Yao Guai"
+  },
+  "CalculatedHealth": 500,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0B3D84:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0BEBA4:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

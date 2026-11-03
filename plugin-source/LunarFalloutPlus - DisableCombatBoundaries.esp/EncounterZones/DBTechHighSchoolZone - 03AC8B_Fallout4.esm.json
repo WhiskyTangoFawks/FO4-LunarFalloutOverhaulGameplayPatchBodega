@@ -1,0 +1,11 @@
+{
+  "FormKey": "03AC8B:Fallout4.esm",
+  "EditorID": "DBTechHighSchoolZone",
+  "FormVersion": 128,
+  "Location": "03AC8A:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

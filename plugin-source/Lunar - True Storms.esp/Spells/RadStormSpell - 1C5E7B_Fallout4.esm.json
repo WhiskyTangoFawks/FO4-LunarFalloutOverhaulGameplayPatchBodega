@@ -1,0 +1,75 @@
+{
+  "FormKey": "1C5E7B:Fallout4.esm",
+  "EditorID": "RadStormSpell",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Radiation Storm"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CastType": "FireAndForget",
+  "Effects": [
+    {
+      "BaseEffect": "1C5E7A:Fallout4.esm",
+      "Data": {
+        "Magnitude": 15.0,
+        "Duration": 1
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x86B88A",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "HasPerk",
+            "ParameterOneRecord": "0A2775:Fallout4.esm",
+            "ParameterOneNumber": 665461
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x86B88A",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "HasKeyword",
+            "ParameterOneRecord": "23954F:Fallout4.esm",
+            "ParameterOneNumber": 2331983
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x86B88A",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsCurrentWeather",
+            "ParameterOneRecord": "1C3D5E:Fallout4.esm",
+            "ParameterOneNumber": 1850718
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x86B88A",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsInInterior"
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x86B88A",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetGlobalValue",
+            "ParameterOneRecord": "000FFD:TrueStormsFO4.esm",
+            "ParameterOneNumber": 16781309
+          }
+        }
+      ]
+    }
+  ]
+}

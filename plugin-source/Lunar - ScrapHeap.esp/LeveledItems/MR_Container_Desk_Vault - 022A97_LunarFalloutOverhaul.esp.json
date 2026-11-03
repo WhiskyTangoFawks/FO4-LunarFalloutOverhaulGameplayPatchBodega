@@ -1,0 +1,43 @@
+{
+  "FormKey": "022A97:LunarFalloutOverhaul.esp",
+  "EditorID": "MR_Container_Desk_Vault",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 3,
+        "Reference": "0090A1:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 3,
+        "Reference": "0090A1:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.55
+      }
+    },
+    {
+      "Data": {
+        "Level": 3,
+        "Reference": "022A98:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 3,
+        "Reference": "022A99:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.85
+      }
+    }
+  ],
+  "EpicLootChance": "03F1E4:Fallout4.esm"
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "010C9C:DLCNukaWorld.esm",
+  "EditorID": "DLC04GalacticZone_StarlightInterstellarTheaterZone",
+  "Location": "010CA3:DLCNukaWorld.esm",
+  "MinLevel": 50,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

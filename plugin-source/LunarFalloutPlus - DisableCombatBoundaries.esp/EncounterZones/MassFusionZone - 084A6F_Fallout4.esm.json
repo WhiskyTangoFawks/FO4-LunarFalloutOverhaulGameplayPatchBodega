@@ -1,0 +1,12 @@
+{
+  "FormKey": "084A6F:Fallout4.esm",
+  "EditorID": "MassFusionZone",
+  "FormVersion": 128,
+  "Location": "084A6E:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

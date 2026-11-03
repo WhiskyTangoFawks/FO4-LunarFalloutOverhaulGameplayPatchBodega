@@ -1,0 +1,8 @@
+{
+  "FormKey": "054231:DLCCoast.esm",
+  "EditorID": "DLC03_ZephyrRidgeZone",
+  "Location": "054230:DLCCoast.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

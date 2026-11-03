@@ -1,0 +1,118 @@
+{
+  "FormKey": "115A8C:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncRadstag00Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 4,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 1,
+  "CalcMaxLevel": 3,
+  "DispositionBase": 35,
+  "Unknown": 16262,
+  "Factions": [
+    {
+      "Faction": "0267BF:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "08E3B5:Fallout4.esm",
+  "Voice": "08E8C3:Fallout4.esm",
+  "Race": "07ED1D:Fallout4.esm",
+  "Skin": "03D41A:Fallout4.esm",
+  "AttackRace": "07ED1D:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 20.0
+    }
+  ],
+  "Aggression": "Aggressive",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 1200,
+  "AggroRadiusWarnOrAttack": 750,
+  "AggroRadiusAttack": 750,
+  "Class": "123E17:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Radstag Yearling"
+  },
+  "CalculatedHealth": 320,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "090E54:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.7,
+  "NAM7": 0.0,
+  "HeightMax": 0.7,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "09DCBC:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

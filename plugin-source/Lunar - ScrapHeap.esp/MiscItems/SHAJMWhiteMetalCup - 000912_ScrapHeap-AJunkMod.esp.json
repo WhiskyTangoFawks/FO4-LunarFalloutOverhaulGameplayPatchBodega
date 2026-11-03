@@ -1,0 +1,32 @@
+{
+  "FormKey": "000912:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMWhiteMetalCup",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-5, -3, 0",
+    "Second": "3, 3, 6"
+  },
+  "PreviewTransform": "248C99:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "White Metal Cup"
+  },
+  "Model": {
+    "File": "Props\\MetalCups\\WhiteMetalCup\\WhiteMetalCup.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 4,
+  "Weight": 0.2,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "FormKey": "02B7C6:Fallout4.esm",
+  "EditorID": "YangtzeZone",
+  "FormVersion": 118,
+  "Location": "02B7C5:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

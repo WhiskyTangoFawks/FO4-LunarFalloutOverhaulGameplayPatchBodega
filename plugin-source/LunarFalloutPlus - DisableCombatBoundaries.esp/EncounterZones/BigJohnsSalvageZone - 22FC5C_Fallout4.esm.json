@@ -1,0 +1,11 @@
+{
+  "FormKey": "22FC5C:Fallout4.esm",
+  "EditorID": "BigJohnsSalvageZone",
+  "FormVersion": 128,
+  "Location": "05B75F:Fallout4.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

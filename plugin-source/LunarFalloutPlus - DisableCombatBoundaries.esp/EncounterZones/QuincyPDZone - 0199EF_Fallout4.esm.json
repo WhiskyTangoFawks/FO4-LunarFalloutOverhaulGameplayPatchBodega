@@ -1,0 +1,9 @@
+{
+  "FormKey": "0199EF:Fallout4.esm",
+  "EditorID": "QuincyPDZone",
+  "FormVersion": 112,
+  "Location": "0199EE:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

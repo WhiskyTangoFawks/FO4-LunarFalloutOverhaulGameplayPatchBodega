@@ -1,0 +1,25 @@
+{
+  "FormKey": "0009D6:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMGramophoneDisk",
+  "ObjectBounds": {
+    "First": "-12, -10, 0",
+    "Second": "12, 14, 1"
+  },
+  "PreviewTransform": "23CA37:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gramophone Disk"
+  },
+  "Model": {
+    "File": "Props\\GramophoneDisk\\GramophoneDisk.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 5,
+  "Weight": 0.8,
+  "Components": [
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

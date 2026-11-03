@@ -1,0 +1,8 @@
+{
+  "FormKey": "024F8B:Fallout4.esm",
+  "EditorID": "AndersOverpassZone",
+  "FormVersion": 101,
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

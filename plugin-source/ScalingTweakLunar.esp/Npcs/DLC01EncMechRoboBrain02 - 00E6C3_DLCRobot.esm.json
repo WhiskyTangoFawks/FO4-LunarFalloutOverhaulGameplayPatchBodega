@@ -1,0 +1,185 @@
+{
+  "FormKey": "00E6C3:DLCRobot.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC01EncMechRoboBrain02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 31,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 32,
+  "CalcMaxLevel": 41,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7988",
+  "Unknown": 28261,
+  "Factions": [
+    {
+      "Faction": "010004:DLCRobot.esm"
+    }
+  ],
+  "DeathItem": "001A82:DLCRobot.esm",
+  "Voice": "0026B5:DLCRobot.esm",
+  "DefaultTemplate": "00444D:DLCRobot.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "00444D:DLCRobot.esm",
+    "AiDataTemplate": "00444D:DLCRobot.esm",
+    "AiPackagesTemplate": "00444D:DLCRobot.esm",
+    "InventoryTemplate": "00444D:DLCRobot.esm",
+    "ScriptTemplate": "00444D:DLCRobot.esm",
+    "DefPackListTemplate": "00444D:DLCRobot.esm",
+    "AttackDataTemplate": "00444D:DLCRobot.esm",
+    "KeywordsTemplate": "00444D:DLCRobot.esm"
+  },
+  "Race": "001129:DLCRobot.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1C346F:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 105.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 50.0
+    }
+  ],
+  "NativeTerminal": "1680CE:Fallout4.esm",
+  "Items": [
+    {
+      "Item": {
+        "Item": "00CF31:DLCRobot.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsFriendsAndAllies",
+  "Keywords": [
+    "1C5020:Fallout4.esm",
+    "22DB8F:Fallout4.esm",
+    "249D7A:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "003E2B:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E27:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E24:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E25:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0026F1:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "033BD7:LunarFalloutOverhaul.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003626:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003624:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003628:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E1C:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "01103C:DLCRobot.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "0B287C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Robobrain Mk3"
+  },
+  "CalculatedHealth": 200,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 2,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0087B4:DLCRobot.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "00287E:DLCRobot.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

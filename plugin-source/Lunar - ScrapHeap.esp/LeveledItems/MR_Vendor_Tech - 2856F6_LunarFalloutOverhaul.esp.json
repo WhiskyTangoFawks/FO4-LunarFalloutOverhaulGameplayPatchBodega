@@ -1,0 +1,229 @@
+{
+  "FormKey": "2856F6:LunarFalloutOverhaul.esp",
+  "EditorID": "MR_Vendor_Tech",
+  "MaxCount": 8,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059ACC:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.45
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059ACC:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.35
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059ADB:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059AEB:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.7
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "060EA2:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.7
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "06907B:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.25
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "06907C:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.25
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "06907D:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.25
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "069086:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.2
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "069087:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.25
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0AF8EF:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.6
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0B91FF:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.7
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0E7E71:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.2
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "11DA0F:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "154AD2:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.6
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "154AD2:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.6
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "154AD3:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "154AD3:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "1AB88D:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "1ACC8E:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "1ACC8E:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.25
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "22D0F6:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.9
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "6F0EF4:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.25
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000058:ScrapHeap-AJunkMod.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0007F6:ScrapHeap-AJunkMod.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000846:ScrapHeap-AJunkMod.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000BC0:ScrapHeap-AJunkMod.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000E53:ScrapHeap-AJunkMod.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

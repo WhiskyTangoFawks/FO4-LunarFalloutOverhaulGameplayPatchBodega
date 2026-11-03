@@ -1,0 +1,10 @@
+{
+  "FormKey": "01F9F4:DLCCoast.esm",
+  "EditorID": "DLC03BarHarbourMuseumZone",
+  "Location": "01F9F5:DLCCoast.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

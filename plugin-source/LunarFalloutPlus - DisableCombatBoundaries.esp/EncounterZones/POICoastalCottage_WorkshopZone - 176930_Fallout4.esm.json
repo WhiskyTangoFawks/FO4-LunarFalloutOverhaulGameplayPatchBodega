@@ -1,0 +1,11 @@
+{
+  "FormKey": "176930:Fallout4.esm",
+  "EditorID": "POICoastalCottage_WorkshopZone",
+  "Location": "176926:Fallout4.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

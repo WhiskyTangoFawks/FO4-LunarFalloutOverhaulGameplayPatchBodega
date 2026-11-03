@@ -1,0 +1,9 @@
+{
+  "FormKey": "227B12:Fallout4.esm",
+  "EditorID": "Cambridge_CampKendallZone",
+  "FormVersion": 128,
+  "Location": "227B13:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

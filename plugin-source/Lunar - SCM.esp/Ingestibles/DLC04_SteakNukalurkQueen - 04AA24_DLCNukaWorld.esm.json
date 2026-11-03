@@ -1,0 +1,59 @@
+{
+  "FormKey": "04AA24:DLCNukaWorld.esm",
+  "EditorID": "DLC04_SteakNukalurkQueen",
+  "ObjectBounds": {
+    "First": "-7, -5, 0",
+    "Second": "7, 12, 6"
+  },
+  "PreviewTransform": "239524:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Grilled Queen Nukalurk"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007280:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\MirelurkCake.nif",
+    "Data": "0x04000000040000000000000001000000020000002E3FDBAD646473005B6A851053EB01B7646473005B6A8510F753DDCE646473005B6A8510E9BA082E646473005B6A8510EE03EBD16267736D03F7933E056C301F6267736DD550C98A",
+    "MaterialSwap": "04FA62:DLCNukaWorld.esm"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+3 Endurance for 2 hours."
+  },
+  "Weight": 0.6,
+  "Value": 190,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 12.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "15072D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.0,
+        "Duration": 7200
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "1B8C55:Fallout4.esm",
+  "EditorID": "FensParkviewApartmentsZone",
+  "FormVersion": 130,
+  "Location": "1B8C56:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

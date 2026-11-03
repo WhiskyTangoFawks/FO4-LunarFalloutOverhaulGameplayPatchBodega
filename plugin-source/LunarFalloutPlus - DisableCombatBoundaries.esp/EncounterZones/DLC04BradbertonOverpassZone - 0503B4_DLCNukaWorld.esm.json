@@ -1,0 +1,10 @@
+{
+  "FormKey": "0503B4:DLCNukaWorld.esm",
+  "EditorID": "DLC04BradbertonOverpassZone",
+  "Location": "0503B3:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

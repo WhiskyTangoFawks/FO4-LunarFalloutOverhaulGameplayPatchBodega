@@ -1,0 +1,52 @@
+{
+  "FormKey": "00D4F5:LunarFalloutOverhaul.esp",
+  "EditorID": "mrRadstagJerky",
+  "ObjectBounds": {
+    "First": "-7, -8, 0",
+    "Second": "10, 8, 0"
+  },
+  "PreviewTransform": "042CA4:DLCNukaWorld.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Radstag Jerky"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007283:SCM.esp"
+  ],
+  "Model": {
+    "File": "DLC04\\Props\\DLC04_HumanJerky.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.2,
+  "Value": 35,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 6.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0
+      }
+    }
+  ]
+}

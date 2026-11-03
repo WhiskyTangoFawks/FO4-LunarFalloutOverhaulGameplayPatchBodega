@@ -1,0 +1,8 @@
+{
+  "FormKey": "05422D:DLCCoast.esm",
+  "EditorID": "DLC03RockPointCampZone",
+  "Location": "05422C:DLCCoast.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

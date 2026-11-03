@@ -1,0 +1,36 @@
+{
+  "FormKey": "0006B7:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMBlueToyCar",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-3, -9, 0",
+    "Second": "4, 8, 6"
+  },
+  "PreviewTransform": "248D7F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Blue Toy Car"
+  },
+  "Model": {
+    "File": "Props\\BlueToyCar\\BlueToyCar.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 5,
+  "Weight": 0.4,
+  "Components": [
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "FormKey": "1BC413:Fallout4.esm",
+  "EditorID": "InstituteBioScienceZone",
+  "FormVersion": 128,
+  "Location": "1BBC23:Fallout4.esm",
+  "MinLevel": 10,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

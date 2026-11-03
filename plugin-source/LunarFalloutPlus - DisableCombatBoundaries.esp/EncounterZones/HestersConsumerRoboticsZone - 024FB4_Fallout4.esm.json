@@ -1,0 +1,11 @@
+{
+  "FormKey": "024FB4:Fallout4.esm",
+  "EditorID": "HestersConsumerRoboticsZone",
+  "FormVersion": 128,
+  "Location": "024FA7:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

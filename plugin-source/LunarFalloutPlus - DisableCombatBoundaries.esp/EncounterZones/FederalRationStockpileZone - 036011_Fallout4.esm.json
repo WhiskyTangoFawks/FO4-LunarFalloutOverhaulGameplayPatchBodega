@@ -1,0 +1,11 @@
+{
+  "FormKey": "036011:Fallout4.esm",
+  "EditorID": "FederalRationStockpileZone",
+  "FormVersion": 128,
+  "Location": "036010:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

@@ -1,0 +1,9 @@
+{
+"version":1,
+"packages":[
+{"kind":"installationFile","name":"Lunar Fallout Overhaul - Gameplay Patch Bodega.7z","packageVersion":"8.1.0.0","size":278295,"hash":"10kXK3Dubgg=","host":{"nexus":{"game":"fallout4","mod":62679,"file":389486}}}
+],
+"files":{
+"Scripts/CompanionMod/AAACombatStyle.pex":"VJmSy1aqg70="
+}
+}

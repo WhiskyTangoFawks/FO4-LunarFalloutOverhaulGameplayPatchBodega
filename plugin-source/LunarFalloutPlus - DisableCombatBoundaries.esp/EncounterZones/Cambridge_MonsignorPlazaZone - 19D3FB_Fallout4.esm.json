@@ -1,0 +1,10 @@
+{
+  "FormKey": "19D3FB:Fallout4.esm",
+  "EditorID": "Cambridge_MonsignorPlazaZone",
+  "Location": "19D3FA:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 20
+}

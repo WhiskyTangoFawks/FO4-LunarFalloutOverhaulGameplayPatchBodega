@@ -1,0 +1,34 @@
+{
+  "FormKey": "0A0F5C:Fallout4.esm",
+  "EditorID": "Container_Loot_CigaretteMachine",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059AB5:Fallout4.esm",
+        "Count": 2,
+        "ChanceNone": 0.7
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059AB5:Fallout4.esm",
+        "Count": 3,
+        "ChanceNone": 0.9
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "049426:Ketaros_World.esp",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    }
+  ]
+}

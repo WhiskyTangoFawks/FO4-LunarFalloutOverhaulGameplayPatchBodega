@@ -1,0 +1,110 @@
+{
+  "FormKey": "048400:DLCCoast.esm",
+  "EditorID": "DLC03_SteakWolf",
+  "ObjectBounds": {
+    "First": "-3, -10, 0",
+    "Second": "3, 9, 8"
+  },
+  "PreviewTransform": "01C71A:DLCCoast.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wolf Ribs"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "05775E:DLCCoast.esm",
+    "007282:SCM.esp"
+  ],
+  "Model": {
+    "File": "DLC03\\Props\\DLC03_WolfMeat.nif",
+    "Data": "0x040000000300000000000000010000000200000051E3B70D6464730000521694888FB16E64647300005216949666648E64647300005216943429D7E96267736DC9B77290056C301F6267736DD550C98A",
+    "MaterialSwap": "048BD0:DLCCoast.esm"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Small Accuracy bonus and Night Vision in exteriors for 15 minutes."
+  },
+  "Weight": 0.6,
+  "Value": 36,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 6.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "05D118:DLCCoast.esm",
+      "Data": {
+        "Duration": 900
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsInInterior"
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThanOrEqualTo",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 6.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetGlobalValue",
+            "ParameterOneRecord": "000038:Fallout4.esm",
+            "ParameterOneNumber": 56
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Flags": [
+            "OR"
+          ],
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 18.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetGlobalValue",
+            "ParameterOneRecord": "000038:Fallout4.esm",
+            "ParameterOneNumber": 56
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "048402:DLCCoast.esm",
+      "Data": {
+        "Duration": 900
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 7.0
+      }
+    }
+  ]
+}

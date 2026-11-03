@@ -1,0 +1,11 @@
+{
+  "FormKey": "0C518E:Fallout4.esm",
+  "EditorID": "CharlesViewAmphitheaterZone",
+  "FormVersion": 128,
+  "Location": "05E1FB:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

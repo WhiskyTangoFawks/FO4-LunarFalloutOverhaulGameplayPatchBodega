@@ -1,0 +1,62 @@
+{
+  "FormKey": "04AA23:DLCNukaWorld.esm",
+  "EditorID": "DLC04_MeatNukalurkQueen",
+  "ObjectBounds": {
+    "First": "-7, -7, 0",
+    "Second": "7, 7, 11"
+  },
+  "PreviewTransform": "2495EE:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Queen Nukalurk Meat"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000899:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\MirelurkMeats.nif",
+    "Data": "0x040000000400000000000000010000000200000072A2617C646473005B6A85100F76BB66646473005B6A8510ABCE671F646473005B6A8510B527B2FF646473005B6A8510AFA137F06267736D03F7933E056C301F6267736DD550C98A",
+    "MaterialSwap": "04FA64:DLCNukaWorld.esm"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 2.0,
+  "Value": 40,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 8.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 30.0
+      }
+    },
+    {
+      "BaseEffect": "15072D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 3600
+      }
+    }
+  ]
+}

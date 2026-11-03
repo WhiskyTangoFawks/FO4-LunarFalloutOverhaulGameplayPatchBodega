@@ -1,0 +1,10 @@
+{
+  "FormKey": "0337A7:DLCNukaWorld.esm",
+  "EditorID": "DLC04SafariAdventure_WelcomeCenterZone",
+  "Location": "0337A1:DLCNukaWorld.esm",
+  "MinLevel": 50,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

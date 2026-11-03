@@ -1,0 +1,11 @@
+{
+  "FormKey": "042810:Fallout4.esm",
+  "EditorID": "FourLeafFishpackingZone",
+  "FormVersion": 128,
+  "Location": "042811:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

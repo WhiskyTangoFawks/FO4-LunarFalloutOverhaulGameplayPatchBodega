@@ -1,0 +1,11 @@
+{
+  "FormKey": "00E766:DLCNukaWorld.esm",
+  "EditorID": "DLC04GalacticZoneZone",
+  "Location": "00E765:DLCNukaWorld.esm",
+  "MinLevel": 50,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

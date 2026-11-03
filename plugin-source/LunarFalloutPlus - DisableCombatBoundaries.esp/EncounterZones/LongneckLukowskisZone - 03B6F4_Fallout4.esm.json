@@ -1,0 +1,12 @@
+{
+  "FormKey": "03B6F4:Fallout4.esm",
+  "EditorID": "LongneckLukowskisZone",
+  "FormVersion": 128,
+  "Location": "03B6F3:Fallout4.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

@@ -1,0 +1,97 @@
+{
+  "FormKey": "22DA66:Fallout4.esm",
+  "EditorID": "Armor_Vault95_Underwear_Clean",
+  "ObjectBounds": {
+    "First": "-21, -18, -5",
+    "Second": "21, 18, 5"
+  },
+  "PreviewTransform": "186DD7:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault 95 Jumpsuit - New"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Clothes\\Vault111Suit\\VaultSuitGO.nif",
+        "Data": "0x0400000005000000000000000300000002000000222CA732646473002D415D37FB40A151646473002D415D37E5A974B1646473002D415D370F2C2A00646473001CDB88C57503E0D7646473001CDB88C57677B2D96267736D768EC352216102026267736D768EC352",
+        "MaterialSwap": "22DA72:Fallout4.esm"
+      }
+    },
+    "Female": {
+      "Model": {
+        "File": "Clothes\\Vault111Suit\\VaultSuitGO.nif",
+        "Data": "0x0400000005000000000000000300000002000000222CA732646473002D415D37FB40A151646473002D415D37E5A974B1646473002D415D370F2C2A00646473001CDB88C57503E0D7646473001CDB88C57677B2D96267736D768EC352216102026267736D768EC352",
+        "MaterialSwap": "22DA72:Fallout4.esm"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "Body",
+      "TorsoUnderArmor",
+      "LeftArmUnderArmor",
+      "RightArmUnderArmor",
+      "LeftLegUnderArmor",
+      "RightLegUnderArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "04F42C:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "07FACA:Fallout4.esm",
+    "0C5625:Fallout4.esm",
+    "204C22:Fallout4.esm",
+    "23D317:Fallout4.esm",
+    "22BC98:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "InstanceNaming": "23C063:Fallout4.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "00173E:Unofficial Fallout 4 Patch.esp"
+    }
+  ],
+  "Value": 30,
+  "Weight": 1.0,
+  "ArmorRating": 2,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 5
+    },
+    {
+      "DamageType": "060A85:Fallout4.esm",
+      "Value": 10
+    }
+  ],
+  "AttachParentSlots": [
+    "022821:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "18E59C:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ],
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "22DA72:Fallout4.esm",
+          "Value": 468,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "FormKey": "115A8D:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncRadstag03",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-38, -83, 0",
+    "Second": "38, 83, 128"
+  },
+  "Flags": [
+    "Female",
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 24,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 16,
+  "CalcMaxLevel": 23,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3884",
+  "Unknown": 16262,
+  "Factions": [
+    {
+      "Faction": "0267BF:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "08E3B5:Fallout4.esm",
+  "Voice": "08E8C3:Fallout4.esm",
+  "DefaultTemplate": "115A8B:Fallout4.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "115A8B:Fallout4.esm",
+    "SpellListTemplate": "115A8B:Fallout4.esm",
+    "AiPackagesTemplate": "115A8B:Fallout4.esm",
+    "InventoryTemplate": "115A8B:Fallout4.esm",
+    "ScriptTemplate": "115A8B:Fallout4.esm",
+    "DefPackListTemplate": "115A8B:Fallout4.esm",
+    "AttackDataTemplate": "115A8B:Fallout4.esm"
+  },
+  "Race": "07ED1D:Fallout4.esm",
+  "Skin": "03D414:Fallout4.esm",
+  "AttackRace": "07ED1D:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 20.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 30.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 40.0
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Average",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 1200,
+  "AggroRadiusWarnOrAttack": 750,
+  "AggroRadiusAttack": 750,
+  "Class": "123E17:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Albino Radstag"
+  },
+  "CalculatedHealth": 320,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "090E54:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "09DCBC:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

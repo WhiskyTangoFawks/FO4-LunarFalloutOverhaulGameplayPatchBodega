@@ -1,0 +1,12 @@
+{
+  "FormKey": "22CD49:Fallout4.esm",
+  "EditorID": "CountyCrossingZone",
+  "Location": "09B1C3:Fallout4.esm",
+  "MinLevel": 12,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 40
+}

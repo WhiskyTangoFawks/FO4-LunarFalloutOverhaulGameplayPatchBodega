@@ -1,0 +1,11 @@
+{
+  "FormKey": "048DE7:Fallout4.esm",
+  "EditorID": "BostonMayoralShelterZone",
+  "FormVersion": 128,
+  "Location": "048DE6:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "051867:Fallout4.esm",
+  "EditorID": "SkylanesFlightZone",
+  "FormVersion": 111,
+  "Location": "051866:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

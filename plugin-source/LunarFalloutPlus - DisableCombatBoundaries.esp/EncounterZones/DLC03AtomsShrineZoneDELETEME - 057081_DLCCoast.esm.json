@@ -1,0 +1,10 @@
+{
+  "FormKey": "057081:DLCCoast.esm",
+  "EditorID": "DLC03AtomsShrineZoneDELETEME",
+  "MinLevel": 35,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

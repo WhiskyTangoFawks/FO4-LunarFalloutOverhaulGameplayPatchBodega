@@ -1,0 +1,11 @@
+{
+  "FormKey": "021A89:Fallout4.esm",
+  "EditorID": "ForestGroveMarshZone",
+  "FormVersion": 128,
+  "Location": "021A82:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

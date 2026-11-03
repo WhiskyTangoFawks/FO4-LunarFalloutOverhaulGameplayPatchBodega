@@ -1,0 +1,11 @@
+{
+  "FormKey": "19D3F9:Fallout4.esm",
+  "EditorID": "Cambridge_KendallHospitalZone",
+  "Location": "19D3F8:Fallout4.esm",
+  "Rank": 255,
+  "MinLevel": 6,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

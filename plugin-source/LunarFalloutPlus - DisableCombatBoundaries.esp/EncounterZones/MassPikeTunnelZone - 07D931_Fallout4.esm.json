@@ -1,0 +1,11 @@
+{
+  "FormKey": "07D931:Fallout4.esm",
+  "EditorID": "MassPikeTunnelZone",
+  "FormVersion": 128,
+  "Location": "07D930:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

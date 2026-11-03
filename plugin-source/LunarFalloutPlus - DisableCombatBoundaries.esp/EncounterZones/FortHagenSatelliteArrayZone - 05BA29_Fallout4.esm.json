@@ -1,0 +1,11 @@
+{
+  "FormKey": "05BA29:Fallout4.esm",
+  "EditorID": "FortHagenSatelliteArrayZone",
+  "FormVersion": 128,
+  "Location": "026ED8:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

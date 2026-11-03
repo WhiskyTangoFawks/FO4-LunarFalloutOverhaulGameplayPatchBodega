@@ -1,0 +1,12 @@
+{
+  "FormKey": "1CCF68:Fallout4.esm",
+  "EditorID": "SlocumsJoeHQZone",
+  "FormVersion": 128,
+  "Location": "0513A1:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

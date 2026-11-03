@@ -1,0 +1,11 @@
+{
+  "FormKey": "0291CF:Fallout4.esm",
+  "EditorID": "GNNZone",
+  "FormVersion": 128,
+  "Location": "0291CE:Fallout4.esm",
+  "MinLevel": 50,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

@@ -1,0 +1,1178 @@
+{
+  "FormKey": "002F24:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "CompanionNickValentine",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "companionactorscript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "CA_Event_Murder",
+            "Object": "04D8AB:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ConsideredMurderFactionList",
+            "Object": "24950C:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "DislikesEvent",
+            "Object": "1716B3:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "DismissScene",
+            "Object": "14DD41:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "EventData_Array",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611E:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "1716B3:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B72F:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611D:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "046CB3:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611F:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "1716B4:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B730:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611C:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "1716B5:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B731:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611D:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "1716B6:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B732:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611C:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "0792C7:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B731:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611E:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "1D2877:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B72F:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611C:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "0A1B2F:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B731:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611C:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "0A1B2D:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B731:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611F:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "04D8AB:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B730:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611E:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "0A1B31:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B72F:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611E:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "04D8AA:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B72F:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611E:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "0A1B29:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B72F:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611D:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "046CB3:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611D:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "046CBD:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B732:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611C:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "144356:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B731:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611E:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "144357:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B72F:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611E:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "19B648:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B72F:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611C:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "19B647:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B731:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611E:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "14435A:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B72F:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Disposition_Global",
+                    "Object": "05611C:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Event_Keyword",
+                    "Object": "144358:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Message_to_Display",
+                    "Object": "02B731:Fallout4.esm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Experience",
+            "Object": "0002C9:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "HasItemForPlayer",
+            "Object": "16FBC6:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "HatesEvent",
+            "Object": "1716B4:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "HomeLocation",
+            "Object": "003979:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "IdleTopic",
+            "Object": "15FC3B:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "InfatuationPerk",
+            "Object": "1E67BD:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "InfatuationPerkMessage",
+            "Object": "1D1213:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "InfatuationThreshold",
+            "Object": "04B1C4:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectListProperty",
+            "Name": "KeywordsToAddWhileCurrentCompanion",
+            "Objects": [
+              {
+                "Name": "",
+                "Object": "0AD52A:Fallout4.esm"
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "LikesEvent",
+            "Object": "1716B5:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "LovesEvent",
+            "Object": "1716B6:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "MQComplete",
+            "Object": "17D5B2:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "MurderThreshold_Array",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "QuestToSet",
+                    "Object": "0BBD98:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "StageToSet",
+                    "Data": 600
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptFloatProperty",
+                    "Name": "AffinityPenalty",
+                    "Data": -5000.0
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "QuestToSet",
+                    "Object": "0BBD98:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "StageToSet",
+                    "Data": 630
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "MurderToggle",
+            "Object": "24997D:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectListProperty",
+            "Name": "NotConsideredMurder_Array",
+            "Objects": [
+              {
+                "Name": "",
+                "Object": "22118A:Fallout4.esm"
+              },
+              {
+                "Name": "",
+                "Object": "083B31:Fallout4.esm"
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "StartingThreshold",
+            "Object": "04B1C6:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "TemporaryAngerLevel",
+            "Object": "02DA12:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "ThresholdData_Array",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_FirstTimeReached",
+                    "Object": "0FA86D:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_Repeat_GoingDown"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_Repeat_GoingUp",
+                    "Object": "0FA874:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ConditionalGlobal",
+                    "Object": "0576D2:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Controlling_Quest",
+                    "Object": "0BBD98:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "Controlling_Quest_Stage",
+                    "Data": 500
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ThresholdMessage",
+                    "Object": "1E7756:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Threshold_Global",
+                    "Object": "04B1C4:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_FirstTimeReached",
+                    "Object": "166701:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Controlling_Quest",
+                    "Object": "0BBD98:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "Controlling_Quest_Stage",
+                    "Data": 495
+                  },
+                  {
+                    "MutagenObjectType": "ScriptBoolProperty",
+                    "Name": "IsMajorAffinityThreshold"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Threshold_Global",
+                    "Object": "0F75E2:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_FirstTimeReached",
+                    "Object": "0FA86C:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_Repeat_GoingDown",
+                    "Object": "0FA870:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_Repeat_GoingUp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Controlling_Quest",
+                    "Object": "0BBD98:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "Controlling_Quest_Stage",
+                    "Data": 400
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ThresholdMessage",
+                    "Object": "1E7753:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Threshold_Global",
+                    "Object": "04B1C5:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_FirstTimeReached",
+                    "Object": "166700:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Controlling_Quest",
+                    "Object": "0BBD98:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "Controlling_Quest_Stage",
+                    "Data": 405
+                  },
+                  {
+                    "MutagenObjectType": "ScriptBoolProperty",
+                    "Name": "IsMajorAffinityThreshold"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Threshold_Global",
+                    "Object": "0F75E1:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_Repeat_GoingDown",
+                    "Object": "0FA871:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Controlling_Quest",
+                    "Object": "0BBD98:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "Controlling_Quest_Stage",
+                    "Data": 300
+                  },
+                  {
+                    "MutagenObjectType": "ScriptBoolProperty",
+                    "Name": "ThresholdHasBeenPreviouslyReached",
+                    "Data": true
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ThresholdMessage",
+                    "Object": "1E7757:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Threshold_Global",
+                    "Object": "04B1C6:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_FirstTimeReached",
+                    "Object": "0FA86E:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_Repeat_GoingDown",
+                    "Object": "0FA872:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Controlling_Quest",
+                    "Object": "0BBD98:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "Controlling_Quest_Stage",
+                    "Data": 200
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ThresholdMessage",
+                    "Object": "1E7754:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Threshold_Global",
+                    "Object": "04B1C7:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_FirstTimeReached",
+                    "Object": "0FA86F:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AffinitySceneToPlay_Repeat_GoingDown",
+                    "Object": "0FA873:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ConditionalGlobal",
+                    "Object": "135774:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Controlling_Quest",
+                    "Object": "0BBD98:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "Controlling_Quest_Stage",
+                    "Data": 100
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ThresholdMessage",
+                    "Object": "1E7755:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Threshold_Global",
+                    "Object": "04B1C8:Fallout4.esm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "TraitPreference_Array",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptBoolProperty",
+                    "Name": "Likes",
+                    "Data": true
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Trait",
+                    "Object": "0A1B1E:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptBoolProperty",
+                    "Name": "Likes"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Trait",
+                    "Object": "0A1B1F:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptBoolProperty",
+                    "Name": "Likes",
+                    "Data": true
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Trait",
+                    "Object": "0A1B20:Fallout4.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptBoolProperty",
+                    "Name": "Likes"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Trait",
+                    "Object": "0A1B21:Fallout4.esm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Tutorial",
+            "Object": "160147:Fallout4.esm"
+          }
+        ]
+      },
+      {
+        "Name": "CompanionCrimeFactionHostilityScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectListProperty",
+            "Name": "IgnoreSharedCrimeForAnyoneInTheseFactions",
+            "Objects": [
+              {
+                "Name": "",
+                "Object": "2495D0:Fallout4.esm"
+              },
+              {
+                "Name": "",
+                "Object": "2495CE:Fallout4.esm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "CompanionPowerArmorKeywordScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "isPowerArmorFrame",
+            "Object": "15503F:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "pAttachPassenger",
+            "Object": "1F9859:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "pAttachSlot2",
+            "Object": "0FF18C:Fallout4.esm"
+          }
+        ]
+      },
+      {
+        "Name": "teleportactorscript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "teleportInOnLoad"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "TeleportInSpell",
+            "Object": "062BDC:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "TeleportOutSpell",
+            "Object": "062BDB:Fallout4.esm"
+          }
+        ]
+      },
+      {
+        "Name": "workshopnpcscript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bAllowCaravan",
+            "Data": true
+          },
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bAllowMove",
+            "Data": true
+          },
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bApplyWorkshopOwnerFaction"
+          },
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bCommandable",
+            "Data": true
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "WorkshopParent",
+            "Object": "02058E:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "Flags": [
+    "Essential",
+    "AutoCalcStats",
+    "Unique",
+    "DiffuseAlphaTest"
+  ],
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 10,
+  "DispositionBase": 35,
+  "Factions": [
+    {
+      "Faction": "002CB3:Fallout4.esm"
+    },
+    {
+      "Faction": "002CB4:Fallout4.esm"
+    },
+    {
+      "Faction": "023C01:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "03E0C8:Fallout4.esm"
+    },
+    {
+      "Faction": "056122:Fallout4.esm"
+    },
+    {
+      "Faction": "0A1B85:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "0C866B:Fallout4.esm"
+    },
+    {
+      "Faction": "106C30:Fallout4.esm"
+    },
+    {
+      "Faction": "1EC1B9:Fallout4.esm"
+    },
+    {
+      "Faction": "2494FF:Fallout4.esm"
+    }
+  ],
+  "Voice": "023338:Fallout4.esm",
+  "Race": "2261A4:Fallout4.esm",
+  "ActorEffect": [
+    "1C63E2:Fallout4.esm",
+    "225F7C:Fallout4.esm"
+  ],
+  "Skin": "049B50:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "04C935:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0B9882:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0B9883:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0B9884:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1D33D7:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 8.0
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm",
+      "Value": 8.0
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm",
+      "Value": 9.0
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm",
+      "Value": 8.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DC:Fallout4.esm",
+      "Value": -100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 25.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 5.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "05821A:Fallout4.esm",
+        "Count": 2
+      }
+    },
+    {
+      "Item": {
+        "Item": "2099DF:LunarFalloutOverhaul.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "30586D:LunarFalloutOverhaul.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "05668C:Fallout4.esm",
+    "055CC8:Fallout4.esm",
+    "042907:Fallout4.esm",
+    "1404E5:Fallout4.esm",
+    "01B38F:Fallout4.esm"
+  ],
+  "Keywords": [
+    "1760E4:Fallout4.esm",
+    "1F9859:Fallout4.esm",
+    "2049E5:Fallout4.esm",
+    "218ADA:Fallout4.esm"
+  ],
+  "Class": "1CD0A8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Nick Valentine"
+  },
+  "ShortName": {
+    "TargetLanguage": "English",
+    "Value": "Valentine"
+  },
+  "CalculatedHealth": 235,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "04AB3F:Fallout4.esm",
+    "23A410:Fallout4.esm",
+    "23A411:Fallout4.esm"
+  ],
+  "CombatStyle": "215E04:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {},
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0EBE75:Fallout4.esm",
+  "CrimeFaction": "2494FF:Fallout4.esm",
+  "HeadTexture": "10C3CD:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

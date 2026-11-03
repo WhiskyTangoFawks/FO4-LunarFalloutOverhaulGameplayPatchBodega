@@ -1,0 +1,11 @@
+{
+  "FormKey": "1CB273:Fallout4.esm",
+  "EditorID": "WestingEstateZone",
+  "FormVersion": 128,
+  "Location": "054508:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

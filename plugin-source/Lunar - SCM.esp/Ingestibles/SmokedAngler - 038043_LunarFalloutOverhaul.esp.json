@@ -1,0 +1,53 @@
+{
+  "FormKey": "038043:LunarFalloutOverhaul.esp",
+  "EditorID": "SmokedAngler",
+  "ObjectBounds": {
+    "First": "-31, -14, 0",
+    "Second": "31, 13, 5"
+  },
+  "PreviewTransform": "01C71B:DLCCoast.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Smoked Angler"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "05775E:DLCCoast.esm",
+    "007283:SCM.esp"
+  ],
+  "Model": {
+    "File": "DLC03\\Props\\DLC03_AnglerMeat.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.4,
+  "Value": 50,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 7.0
+      }
+    }
+  ]
+}

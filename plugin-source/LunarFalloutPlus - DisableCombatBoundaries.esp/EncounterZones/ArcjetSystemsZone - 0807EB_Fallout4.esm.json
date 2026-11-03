@@ -1,0 +1,11 @@
+{
+  "FormKey": "0807EB:Fallout4.esm",
+  "EditorID": "ArcjetSystemsZone",
+  "Location": "0807EA:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

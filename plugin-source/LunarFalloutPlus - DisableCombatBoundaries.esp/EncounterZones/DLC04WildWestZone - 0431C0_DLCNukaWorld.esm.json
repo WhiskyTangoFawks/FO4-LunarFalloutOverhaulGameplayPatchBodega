@@ -1,0 +1,11 @@
+{
+  "FormKey": "0431C0:DLCNukaWorld.esm",
+  "EditorID": "DLC04WildWestZone",
+  "Location": "01FB1C:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

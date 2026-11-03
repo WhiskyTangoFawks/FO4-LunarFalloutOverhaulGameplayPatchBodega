@@ -1,0 +1,157 @@
+{
+  "FormKey": "001A7D:DLCRobot.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC01EncMechAssaultron01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-27, -27, 0",
+    "Second": "27, 27, 120"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 15,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 24,
+  "CalcMaxLevel": 35,
+  "DispositionBase": 35,
+  "Unknown": -7716,
+  "Factions": [
+    {
+      "Faction": "010004:DLCRobot.esm"
+    }
+  ],
+  "DeathItem": "001A82:DLCRobot.esm",
+  "Voice": "00B211:DLCRobot.esm",
+  "Race": "0D8417:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 65.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 25.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    }
+  ],
+  "NativeTerminal": "1680CE:Fallout4.esm",
+  "Items": [
+    {
+      "Item": {
+        "Item": "00CF31:DLCRobot.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsFriendsAndAllies",
+  "Keywords": [
+    "22DB8F:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "249D7A:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "00F63D:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "01103C:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E28:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "002879:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E1E:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E20:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E22:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0026F0:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0026F2:DLCRobot.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "0B287C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Peacekeeper Mk2"
+  },
+  "CalculatedHealth": 200,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 2,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "001A84:DLCRobot.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0DFB39:Fallout4.esm",
+  "DefaultPackageList": "22D9EB:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

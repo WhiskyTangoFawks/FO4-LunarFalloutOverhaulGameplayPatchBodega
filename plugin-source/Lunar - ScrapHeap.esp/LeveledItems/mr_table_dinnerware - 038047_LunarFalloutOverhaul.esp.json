@@ -1,0 +1,122 @@
+{
+  "FormKey": "038047:LunarFalloutOverhaul.esp",
+  "EditorID": "mr_table_dinnerware",
+  "MaxCount": 8,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "020194:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0211C4:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0211C4:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0211CC:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059AE1:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059AE1:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "060E93:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "060E93:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "060E96:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "060E96:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140B24:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140B24:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "165326:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "165326:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.92
+      }
+    }
+  ]
+}

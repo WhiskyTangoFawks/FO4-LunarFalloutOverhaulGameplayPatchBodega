@@ -1,0 +1,32 @@
+{
+  "FormKey": "000239:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMStapler",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-8, -2, 0",
+    "Second": "7, 1, 6"
+  },
+  "PreviewTransform": "23E9E4:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Stapler"
+  },
+  "Model": {
+    "File": "Props\\Stapler\\Stapler.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 6,
+  "Weight": 0.5,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "FormKey": "074D0D:Fallout4.esm",
+  "EditorID": "MeatBloodbug",
+  "ObjectBounds": {
+    "First": "-12, -9, 0",
+    "Second": "9, 11, 16"
+  },
+  "PreviewTransform": "2495E7:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Bloodbug Meat"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "00089A:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "Props\\CreatureParts\\BloodBugMeat.nif",
+    "Data": "0x040000000400000000000000020000000100000025216D0A6464730060FA697FFC4D6B696464730060FA697FE2A4BE896464730060FA697F2C4BF9B2646473001CDB88C5D6C9DEAC6267736D47A6C56D"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.5,
+  "Value": 18,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9.0
+      }
+    }
+  ]
+}

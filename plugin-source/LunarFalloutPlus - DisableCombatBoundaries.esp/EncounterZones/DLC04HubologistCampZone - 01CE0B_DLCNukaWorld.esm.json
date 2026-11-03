@@ -1,0 +1,11 @@
+{
+  "FormKey": "01CE0B:DLCNukaWorld.esm",
+  "EditorID": "DLC04HubologistCampZone",
+  "Location": "01CE0C:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

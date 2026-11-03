@@ -1,0 +1,10 @@
+{
+  "FormKey": "249D53:Fallout4.esm",
+  "EditorID": "Cambridge_ConstructionSiteZone",
+  "Location": "249D52:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

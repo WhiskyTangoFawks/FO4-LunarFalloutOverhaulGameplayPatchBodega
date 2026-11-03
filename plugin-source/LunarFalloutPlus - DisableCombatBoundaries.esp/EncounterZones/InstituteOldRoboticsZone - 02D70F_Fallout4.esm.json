@@ -1,0 +1,12 @@
+{
+  "FormKey": "02D70F:Fallout4.esm",
+  "EditorID": "InstituteOldRoboticsZone",
+  "FormVersion": 128,
+  "Location": "02D70C:Fallout4.esm",
+  "MinLevel": 10,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

@@ -1,0 +1,53 @@
+{
+  "FormKey": "057158:DLCCoast.esm",
+  "EditorID": "DLC03_SteakRabbit",
+  "ObjectBounds": {
+    "First": "-10, -1, 0",
+    "Second": "10, 1, 2"
+  },
+  "PreviewTransform": "239FB8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Seasoned Rabbit Skewers"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "05775E:DLCCoast.esm",
+    "007281:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\SquirrelSausageOnAStick.nif",
+    "Data": "0x040000000400000000000000020000000100000080BA288B64647300B64C8CDC59D62EE864647300B64C8CDC473FFB0864647300B64C8CDC71D5D693646473001CDB88C515A7C20B6267736D11388219"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+1 Luck for 1 hour."
+  },
+  "Weight": 0.25,
+  "Value": 100,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 7.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "05715A:DLCCoast.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 3600
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "0217D5:DLCCoast.esm",
+  "EditorID": "DLC03HarborGrandHotelZone",
+  "Location": "0217D4:DLCCoast.esm",
+  "MinLevel": 45,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

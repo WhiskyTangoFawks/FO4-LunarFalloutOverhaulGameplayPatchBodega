@@ -1,0 +1,11 @@
+{
+  "FormKey": "04C8D4:Fallout4.esm",
+  "EditorID": "ScrapPalaceZone",
+  "FormVersion": 128,
+  "Location": "04C8D1:Fallout4.esm",
+  "MinLevel": 45,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

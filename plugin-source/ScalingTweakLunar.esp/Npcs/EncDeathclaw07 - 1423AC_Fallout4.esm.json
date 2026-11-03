@@ -1,0 +1,196 @@
+{
+  "FormKey": "1423AC:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncDeathclaw07",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 250,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.25
+  },
+  "CalcMinLevel": 81,
+  "CalcMaxLevel": 90,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3892",
+  "Factions": [
+    {
+      "Faction": "01E722:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "02EF6C:Fallout4.esm",
+  "Voice": "0219CA:Fallout4.esm",
+  "DefaultTemplate": "01DB4C:Fallout4.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "01DB4C:Fallout4.esm",
+    "AiDataTemplate": "01DB4C:Fallout4.esm",
+    "AiPackagesTemplate": "01DB4C:Fallout4.esm",
+    "InventoryTemplate": "01DB4C:Fallout4.esm",
+    "ScriptTemplate": "01DB4C:Fallout4.esm",
+    "DefPackListTemplate": "01DB4C:Fallout4.esm",
+    "AttackDataTemplate": "01DB4C:Fallout4.esm"
+  },
+  "Race": "01DB4A:Fallout4.esm",
+  "Skin": "1C88AE:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 1200.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 250.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 300.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 300.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "113339:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "11333B:Fallout4.esm",
+        "Count": 10
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Keywords": [
+    "05BA48:Fallout4.esm",
+    "1437E9:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Green"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C88AC:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Red"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C88AF:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Blue"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1C88B0:Fallout4.esm",
+          "Value": 379,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F96C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Chameleon Deathclaw"
+  },
+  "CalculatedHealth": 2200,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 66,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "04D8AE:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0320A1:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

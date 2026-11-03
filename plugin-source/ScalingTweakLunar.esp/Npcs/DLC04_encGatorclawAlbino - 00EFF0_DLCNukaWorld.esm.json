@@ -1,0 +1,155 @@
+{
+  "FormKey": "00EFF0:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC04_encGatorclawAlbino",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 35,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.25
+  },
+  "CalcMinLevel": 50,
+  "CalcMaxLevel": 94,
+  "DispositionBase": 35,
+  "Unknown": -27848,
+  "Factions": [
+    {
+      "Faction": "01E722:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "04AA14:DLCNukaWorld.esm",
+  "Voice": "03637C:DLCNukaWorld.esm",
+  "DefaultTemplate": "00D354:DLCNukaWorld.esm",
+  "Race": "03637A:DLCNukaWorld.esm",
+  "Skin": "00D356:DLCNukaWorld.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DE:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 210.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 150.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 800.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "113339:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "11333B:Fallout4.esm",
+        "Count": 10
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Keywords": [
+    "05BA48:Fallout4.esm",
+    "1437E9:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "2243AA:Fallout4.esm",
+    "2243AB:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "00EFED:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F96C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Albino Gatorclaw"
+  },
+  "CalculatedHealth": 755,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 66,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "04D8AE:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.8,
+  "NAM7": 0.0,
+  "HeightMax": 0.9,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "036379:DLCNukaWorld.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

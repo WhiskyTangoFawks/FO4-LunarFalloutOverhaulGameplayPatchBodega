@@ -1,0 +1,1609 @@
+{
+  "FormKey": "0316F1:DLCCoast.esm",
+  "EditorID": "DLC03_CustomItemQuest",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "CustomItemQuestScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "ItemData",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptBoolProperty",
+                    "Name": "PlaceAtMeInstead",
+                    "Data": true
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 10
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "The Striker"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "0316FF:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "031700:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 0
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "031702:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "032507:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "032508:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 20
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Defender's Harpoon Gun"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 30
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Atom's Judgement"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "03A389:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "000014:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "03A388:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 40
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Radical Conversion"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "045674:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "000014:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "045673:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "045675:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "045676:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 50
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Lucky Eddy"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "045678:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "045679:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 60
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "DiMA's Armor"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptBoolProperty",
+                    "Name": "PlaceAtMeInstead",
+                    "Data": true
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 70
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Vault 118 Baseball Bat"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "04923B:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "04923D:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "037C98:DLCCoast.esm",
+                    "Alias": 15
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "04923C:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "04E752:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "04E753:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 80
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Skipper's Last Stand"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "04FA7D:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 90
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Rescue Diver Suit"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 100
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "The Harvester"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "01EC87:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "04FA7F:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 15
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "04FA7E:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 110
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "The Dapper Gent"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "0456C1:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "05159D:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 16
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "05159C:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 201
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Flamer"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "04F3DA:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "05159A:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 14
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "051599:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 202
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Harpoon Gun"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "005CE0:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "051590:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 13
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "05158B:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 203
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Lever Gun"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "04F3DA:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "051591:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 12
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "05158F:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 204
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Marine Arm Left"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "00995A:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "051592:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 10
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "051589:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 205
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Marine Arm Right"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "00995B:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "051593:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 11
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "05158A:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 206
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Marine Helmet"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToSpawnIn",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 3
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "051594:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 4
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "051588:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 207
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Marine Torso"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "03FAC8:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "051595:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 9
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "051587:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 208
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Meat Hook"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "04E76F:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "051596:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 8
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "05158C:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 209
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Pole Hook"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "005CE0:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "051597:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 6
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "05158D:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 210
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Radium Rifle"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "00995A:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "051598:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 5
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "05158E:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "034E7B:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "056A19:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 220
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Bloodletter"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "056A40:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "056A41:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 230
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "AcadiaM01"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 240
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "AcadiaM04 Item1"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToSpawnIn",
+                    "Object": "04B95A:DLCCoast.esm",
+                    "Alias": 6
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "056A43:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "04B95A:DLCCoast.esm",
+                    "Alias": 7
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "056A42:DLCCoast.esm"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "056A44:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "056A45:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 250
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "AcadiaM04 Item2"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "057055:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "057056:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 260
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Atom's Bulwark"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 270
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Marine Leg Left"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "03FAC6:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "30E114:LunarFalloutOverhaul.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 18
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "30E112:LunarFalloutOverhaul.esp"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 280
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Marine Leg Right"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "009959:DLCCoast.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "30E115:LunarFalloutOverhaul.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "AliasToForceItemInto",
+                    "Object": "0316F1:DLCCoast.esm",
+                    "Alias": 19
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "30E113:LunarFalloutOverhaul.esp"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptIntProperty",
+                    "Name": "QuestStage",
+                    "Data": 290
+                  },
+                  {
+                    "MutagenObjectType": "ScriptStringProperty",
+                    "Name": "ID",
+                    "Data": "Store: Big Boy"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ModsFormlist",
+                    "Object": "3F8E99:LunarFalloutOverhaul.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "ReferenceToSpawnIn",
+                    "Object": "21A539:Fallout4.esm"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "LeveledListToSpawnFrom",
+                    "Object": "3F8E98:LunarFalloutOverhaul.esp"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Script": {
+      "Name": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1"
+    },
+    "Fragments": [
+      {
+        "Stage": 100,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0100_Item_00"
+      },
+      {
+        "Stage": 1,
+        "Unknown": 1,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0001_Item_00"
+      },
+      {
+        "Stage": 10,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0010_Item_00"
+      },
+      {
+        "Stage": 20,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0020_Item_00"
+      },
+      {
+        "Stage": 30,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0030_Item_00"
+      },
+      {
+        "Stage": 40,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0040_Item_00"
+      },
+      {
+        "Stage": 50,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0050_Item_00"
+      },
+      {
+        "Stage": 60,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0060_Item_00"
+      },
+      {
+        "Stage": 70,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0070_Item_00"
+      },
+      {
+        "Stage": 80,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0080_Item_00"
+      },
+      {
+        "Stage": 90,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0090_Item_00"
+      },
+      {
+        "Stage": 110,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0110_Item_00"
+      },
+      {
+        "Stage": 201,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0201_Item_00"
+      },
+      {
+        "Stage": 202,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0202_Item_00"
+      },
+      {
+        "Stage": 203,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0203_Item_00"
+      },
+      {
+        "Stage": 204,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0204_Item_00"
+      },
+      {
+        "Stage": 205,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0205_Item_00"
+      },
+      {
+        "Stage": 206,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0206_Item_00"
+      },
+      {
+        "Stage": 207,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0207_Item_00"
+      },
+      {
+        "Stage": 208,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0208_Item_00"
+      },
+      {
+        "Stage": 209,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0209_Item_00"
+      },
+      {
+        "Stage": 210,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0210_Item_00"
+      },
+      {
+        "Stage": 220,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0220_Item_00"
+      },
+      {
+        "Stage": 230,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0230_Item_00"
+      },
+      {
+        "Stage": 240,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0240_Item_00"
+      },
+      {
+        "Stage": 250,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0250_Item_00"
+      },
+      {
+        "Stage": 260,
+        "Unknown2": 1,
+        "ScriptName": "DLC03:Fragments:Quests:QF_DLC03_CustomItemQuest_010316F1",
+        "FragmentName": "Fragment_Stage_0260_Item_00"
+      }
+    ]
+  },
+  "Data": {
+    "Flags": [
+      "StartGameEnabled",
+      "StartsEnabled",
+      "RunOnce"
+    ],
+    "Unused": 197
+  },
+  "UnusedConditions": [],
+  "Stages": [
+    {
+      "Index": 1,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Spawn Game Enabled Items"
+        }
+      ]
+    },
+    {
+      "Index": 10,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "The Striker"
+        }
+      ]
+    },
+    {
+      "Index": 20,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "(MQ02) Defender's Harpoon Gun"
+        }
+      ]
+    },
+    {
+      "Index": 30,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Atom's Judgement"
+        }
+      ]
+    },
+    {
+      "Index": 40,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Radical Conversion"
+        }
+      ]
+    },
+    {
+      "Index": 50,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Lucky Eddy"
+        }
+      ]
+    },
+    {
+      "Index": 60,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "DiMA's Armor"
+        }
+      ]
+    },
+    {
+      "Index": 70,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Vault 118 Baseball Bat"
+        }
+      ]
+    },
+    {
+      "Index": 80,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Skipper's Last Stand"
+        }
+      ]
+    },
+    {
+      "Index": 90,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Rescue Diver Suit"
+        }
+      ]
+    },
+    {
+      "Index": 100,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "The Harvester"
+        }
+      ]
+    },
+    {
+      "Index": 110,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Dapper Gent"
+        }
+      ]
+    },
+    {
+      "Index": 201,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Flamer"
+        }
+      ]
+    },
+    {
+      "Index": 202,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Harpoon Gun"
+        }
+      ]
+    },
+    {
+      "Index": 203,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Lever Gun"
+        }
+      ]
+    },
+    {
+      "Index": 204,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Marine Arm Left"
+        }
+      ]
+    },
+    {
+      "Index": 205,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Marine Arm Right"
+        }
+      ]
+    },
+    {
+      "Index": 206,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Marine Helmet"
+        }
+      ]
+    },
+    {
+      "Index": 207,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Marine Torso"
+        }
+      ]
+    },
+    {
+      "Index": 208,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Meat Hook"
+        }
+      ]
+    },
+    {
+      "Index": 209,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Pole Hook"
+        }
+      ]
+    },
+    {
+      "Index": 210,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Radium Rifle"
+        }
+      ]
+    },
+    {
+      "Index": 220,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Bloodletter"
+        }
+      ]
+    },
+    {
+      "Index": 230,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "AcadiaM01"
+        }
+      ]
+    },
+    {
+      "Index": 240,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "AcadiaM04 Item1"
+        }
+      ]
+    },
+    {
+      "Index": 250,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "AcadiaM04 Item2"
+        }
+      ]
+    },
+    {
+      "Index": 260,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Atom's Bulwark"
+        }
+      ]
+    },
+    {
+      "Index": 270,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Marine Leg Left"
+        }
+      ]
+    },
+    {
+      "Index": 280,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Marine Leg Right"
+        }
+      ]
+    },
+    {
+      "Index": 290,
+      "Flags": [
+        "RunOnStart"
+      ],
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Store: Big Boy"
+        }
+      ]
+    }
+  ],
+  "Aliases": [
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "Name": "TheStriker",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 1,
+      "Name": "DefenderHarpoonGun",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 2,
+      "Name": "Vault118BaseballBat",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 3,
+      "Name": "VendorFarHarborBrooks",
+      "Flags": [],
+      "ForcedReference": "005CE2:DLCCoast.esm",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 15,
+      "Name": "TheHarvester",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 14,
+      "Name": "Flamer",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 13,
+      "Name": "HarpoonGun",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 12,
+      "Name": "LevelGun",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 10,
+      "Name": "MarineArmLeft",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 18,
+      "Name": "MarineLegLeft",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 19,
+      "Name": "MarineLegRight",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 11,
+      "Name": "MarineArmRight",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 4,
+      "Name": "MarineHelmet",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 9,
+      "Name": "MarineTorso",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 8,
+      "Name": "MeatHook",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 6,
+      "Name": "PoleHook",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 5,
+      "Name": "RadiumRifle",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 16,
+      "Name": "DapperGent",
+      "Flags": [
+        "Optional"
+      ],
+      "VoiceTypes": "Null"
+    }
+  ]
+}

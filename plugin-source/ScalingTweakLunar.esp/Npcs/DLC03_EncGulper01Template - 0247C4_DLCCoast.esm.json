@@ -1,0 +1,124 @@
+{
+  "FormKey": "0247C4:DLCCoast.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC03_EncGulper01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 16,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 10,
+  "CalcMaxLevel": 21,
+  "DispositionBase": 35,
+  "Unknown": -15077,
+  "Factions": [
+    {
+      "Faction": "02793F:DLCCoast.esm"
+    }
+  ],
+  "DeathItem": "046021:DLCCoast.esm",
+  "Voice": "029A0B:DLCCoast.esm",
+  "Race": "04E28E:DLCCoast.esm",
+  "Skin": "03E0F8:DLCCoast.esm",
+  "AttackRace": "0247C1:DLCCoast.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": -255.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DE:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 30.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 60.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Keywords": [
+    "2243AA:Fallout4.esm"
+  ],
+  "Class": "05F96C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gulper Newt"
+  },
+  "CalculatedHealth": 615,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 66,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "04AED8:DLCCoast.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.7,
+  "NAM7": 0.0,
+  "HeightMax": 0.7,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "054451:DLCCoast.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "FormKey": "000EA8:DLCworkshop01.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC02EncMirelurkHunter02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 48,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 34,
+  "CalcMaxLevel": 45,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3892",
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "02689D:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "02EF69:Fallout4.esm",
+  "Voice": "064C62:Fallout4.esm",
+  "DefaultTemplate": "064C5E:Fallout4.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "064C5E:Fallout4.esm",
+    "AiDataTemplate": "064C5E:Fallout4.esm",
+    "AiPackagesTemplate": "064C5E:Fallout4.esm",
+    "InventoryTemplate": "064C5E:Fallout4.esm",
+    "ScriptTemplate": "064C5E:Fallout4.esm",
+    "DefPackListTemplate": "064C5E:Fallout4.esm",
+    "AttackDataTemplate": "064C5E:Fallout4.esm"
+  },
+  "Race": "064C60:Fallout4.esm",
+  "ActorEffect": [
+    "21C007:Fallout4.esm"
+  ],
+  "Skin": "1E03CD:Fallout4.esm",
+  "FarAwayModel": "064C5F:Fallout4.esm",
+  "AttackRace": "064C60:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1504FC:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 150.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 95.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 95.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 335.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 3.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 70.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "09F24C:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "09F24D:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "042A1C:Fallout4.esm"
+  ],
+  "Keywords": [
+    "148D91:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1E03CF:Fallout4.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F96F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Glowing Mirelurk Hunter"
+  },
+  "CalculatedHealth": 240,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 63,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0ABEA5:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 3.4028235E+38,
+    "Muscular": 3.4028235E+38
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "1644BC:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

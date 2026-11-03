@@ -1,0 +1,12 @@
+{
+  "FormKey": "00B8E4:DLCNukaWorld.esm",
+  "EditorID": "DLC04NukaStationZone",
+  "Location": "00B8E5:DLCNukaWorld.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "NeverResets",
+    "MatchPcBelowMinimumLevel",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

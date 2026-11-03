@@ -1,0 +1,10 @@
+{
+  "FormKey": "1CB272:Fallout4.esm",
+  "EditorID": "RottenLandfillZone",
+  "Location": "072BAB:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

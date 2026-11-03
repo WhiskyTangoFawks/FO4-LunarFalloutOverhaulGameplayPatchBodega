@@ -1,0 +1,10 @@
+{
+  "FormKey": "024FB5:Fallout4.esm",
+  "EditorID": "LexingtonZone",
+  "Location": "024FA8:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 15
+}

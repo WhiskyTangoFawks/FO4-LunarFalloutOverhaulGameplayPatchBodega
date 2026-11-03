@@ -1,0 +1,12 @@
+{
+  "FormKey": "07D6B9:Fallout4.esm",
+  "EditorID": "GreenetechGeneticsZone",
+  "Location": "07D6B8:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "NeverResets",
+    "MatchPcBelowMinimumLevel",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

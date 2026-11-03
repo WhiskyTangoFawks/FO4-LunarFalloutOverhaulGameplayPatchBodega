@@ -1,0 +1,32 @@
+{
+  "FormKey": "000E54:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMPliers",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-9, -2, 0",
+    "Second": "3, 3, 0"
+  },
+  "PreviewTransform": "23CA35:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pliers"
+  },
+  "Model": {
+    "File": "Props\\Pliers\\Pliers.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 9,
+  "Weight": 0.4,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "00F049:DLCCoast.esm",
+  "EditorID": "DLC03VimPopFactoryZone",
+  "Location": "00F043:DLCCoast.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

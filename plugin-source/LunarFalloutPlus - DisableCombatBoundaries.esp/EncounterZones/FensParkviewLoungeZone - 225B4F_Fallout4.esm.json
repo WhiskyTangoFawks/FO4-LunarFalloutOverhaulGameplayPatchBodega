@@ -1,0 +1,11 @@
+{
+  "FormKey": "225B4F:Fallout4.esm",
+  "EditorID": "FensParkviewLoungeZone",
+  "FormVersion": 128,
+  "Location": "1F578F:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

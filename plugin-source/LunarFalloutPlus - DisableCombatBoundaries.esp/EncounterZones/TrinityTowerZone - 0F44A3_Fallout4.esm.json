@@ -1,0 +1,12 @@
+{
+  "FormKey": "0F44A3:Fallout4.esm",
+  "EditorID": "TrinityTowerZone",
+  "FormVersion": 128,
+  "Location": "01DAF7:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

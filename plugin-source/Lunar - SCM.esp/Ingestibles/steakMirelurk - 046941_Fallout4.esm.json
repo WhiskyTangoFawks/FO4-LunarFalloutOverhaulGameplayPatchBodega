@@ -1,0 +1,52 @@
+{
+  "FormKey": "046941:Fallout4.esm",
+  "EditorID": "steakMirelurk",
+  "ObjectBounds": {
+    "First": "-14, -9, 0",
+    "Second": "13, 9, 4"
+  },
+  "PreviewTransform": "2495F3:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Roasted Mirelurk Steak"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007280:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\MirelurkRoast.nif",
+    "Data": "0x04000000030000000000000001000000010000005F04C21764647300B64C8CDC8668C47464647300B64C8CDC9881119464647300B64C8CDC9D71BFD06267736D11388219"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.6,
+  "Value": 20,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 7.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 12.0
+      }
+    }
+  ]
+}

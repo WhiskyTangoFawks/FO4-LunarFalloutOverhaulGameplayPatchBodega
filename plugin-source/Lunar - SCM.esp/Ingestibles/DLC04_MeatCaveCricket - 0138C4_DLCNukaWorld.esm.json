@@ -1,0 +1,54 @@
+{
+  "FormKey": "0138C4:DLCNukaWorld.esm",
+  "EditorID": "DLC04_MeatCaveCricket",
+  "ObjectBounds": {
+    "First": "-9, -13, 0",
+    "Second": "10, 10, 4"
+  },
+  "PreviewTransform": "043A1C:DLCNukaWorld.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Cave Cricket Meat"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "00089A:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "DLC04\\Props\\DLC04_CaveCricketMeat.nif",
+    "Data": "0x0400000003000000000000000100000001000000645514E9646473008E6CB151BD39128A646473008E6CB151A3D0C76A646473008E6CB1515EE361F76267736D4789D555"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.3,
+  "Value": 50,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 11.0
+      }
+    }
+  ]
+}

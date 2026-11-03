@@ -1,0 +1,11 @@
+{
+  "FormKey": "047072:Fallout4.esm",
+  "EditorID": "BostonCommonZone",
+  "FormVersion": 129,
+  "Location": "047071:Fallout4.esm",
+  "MinLevel": 10,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

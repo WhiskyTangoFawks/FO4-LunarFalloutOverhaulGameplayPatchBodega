@@ -1,0 +1,10 @@
+{
+  "FormKey": "0140DF:DLCCoast.esm",
+  "EditorID": "DLC03EaglesCoveTanneryZone",
+  "Location": "0140E0:DLCCoast.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

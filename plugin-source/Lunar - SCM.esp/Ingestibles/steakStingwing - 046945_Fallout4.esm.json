@@ -1,0 +1,59 @@
+{
+  "FormKey": "046945:Fallout4.esm",
+  "EditorID": "steakStingwing",
+  "ObjectBounds": {
+    "First": "-5, -8, 0",
+    "Second": "5, 8, 2"
+  },
+  "PreviewTransform": "24919A:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Stingwing Filet"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "00727E:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\StingWingFilet.nif",
+    "Data": "0x0400000003000000000000000100000001000000F8090C0D64647300B64C8CDC21650A6E64647300B64C8CDC1C9E1DF764647300B64C8CDC134B4CA36267736D11388219"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+1 Perception for 1 hour."
+  },
+  "Weight": 0.5,
+  "Value": 95,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 13.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "15072C:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 3600
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 6.0
+      }
+    }
+  ]
+}

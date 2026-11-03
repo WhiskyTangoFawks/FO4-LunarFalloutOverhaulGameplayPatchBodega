@@ -1,0 +1,251 @@
+{
+  "FormKey": "0026F5:DLCRobot.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC01EncMechMrHandy03",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-27, -27, 0",
+    "Second": "27, 27, 120"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 31,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 42,
+  "CalcMaxLevel": 51,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7988",
+  "Unknown": 16256,
+  "Factions": [
+    {
+      "Faction": "010004:DLCRobot.esm"
+    }
+  ],
+  "DeathItem": "001A82:DLCRobot.esm",
+  "Voice": "00B211:DLCRobot.esm",
+  "DefaultTemplate": "0026EF:DLCRobot.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "0026EF:DLCRobot.esm",
+    "AiDataTemplate": "0026EF:DLCRobot.esm",
+    "AiPackagesTemplate": "0026EF:DLCRobot.esm",
+    "InventoryTemplate": "0026EF:DLCRobot.esm",
+    "ScriptTemplate": "0026EF:DLCRobot.esm",
+    "DefPackListTemplate": "0026EF:DLCRobot.esm",
+    "AttackDataTemplate": "0026EF:DLCRobot.esm",
+    "KeywordsTemplate": "0026EF:DLCRobot.esm"
+  },
+  "Race": "0027B9:DLCRobot.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0E1A4B:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 95.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 90.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 60.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "00CF31:DLCRobot.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsFriendsAndAllies",
+  "Keywords": [
+    "22DB8F:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "249D7A:Fallout4.esm"
+  ],
+  "AttachParentSlots": [
+    "249E47:Fallout4.esm",
+    "249E48:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Includes": [
+        {
+          "Mod": "00F63D:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "01103C:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E29:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "002879:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00287A:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00287B:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E21:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E21:DLCRobot.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "003E21:DLCRobot.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0026F1:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "001979:DLCRobot.esm",
+          "AttachPointIndex": 2,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00197A:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00197B:DLCRobot.esm",
+          "AttachPointIndex": 1,
+          "DontUseAll": true
+        },
+        {
+          "Mod": "033BD7:LunarFalloutOverhaul.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00F63D:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "01104C:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "010FCE:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "010E31:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "01104D:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "01104D:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "01104E:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "010E30:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "01104F:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "011050:DLCRobot.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "01104D:DLCRobot.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "0B287C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rescuebot Mk4"
+  },
+  "CalculatedHealth": 200,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 2,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "001A84:DLCRobot.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0B6E0E:Fallout4.esm",
+  "DefaultPackageList": "22D9EB:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

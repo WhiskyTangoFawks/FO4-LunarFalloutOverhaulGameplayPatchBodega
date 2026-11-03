@@ -1,0 +1,11 @@
+{
+  "FormKey": "01763F:DLCNukaWorld.esm",
+  "EditorID": "DLC04BottlingPlantZone",
+  "Location": "017643:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

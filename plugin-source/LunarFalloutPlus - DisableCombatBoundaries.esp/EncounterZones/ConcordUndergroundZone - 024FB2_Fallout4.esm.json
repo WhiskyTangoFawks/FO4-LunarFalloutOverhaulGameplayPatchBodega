@@ -1,0 +1,11 @@
+{
+  "FormKey": "024FB2:Fallout4.esm",
+  "EditorID": "ConcordUndergroundZone",
+  "Location": "024FA5:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 15
+}

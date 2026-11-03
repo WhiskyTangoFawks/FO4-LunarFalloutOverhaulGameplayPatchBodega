@@ -1,0 +1,29 @@
+{
+  "FormKey": "000055:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMJimmyHat01",
+  "ObjectBounds": {
+    "First": "-2, -3, 0",
+    "Second": "2, 3, 0"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Jimmy Hat"
+  },
+  "Model": {
+    "File": "Props\\JimmyHats\\JimmyHat01.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 20,
+  "Weight": 0.1,
+  "Components": [
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

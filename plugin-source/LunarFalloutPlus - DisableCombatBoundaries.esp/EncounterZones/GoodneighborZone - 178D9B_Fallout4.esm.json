@@ -1,0 +1,12 @@
+{
+  "FormKey": "178D9B:Fallout4.esm",
+  "EditorID": "GoodneighborZone",
+  "FormVersion": 127,
+  "Rank": 255,
+  "MinLevel": 35,
+  "Flags": [
+    "MatchPcBelowMinimumLevel",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 55
+}

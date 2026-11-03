@@ -1,0 +1,10 @@
+{
+  "FormKey": "043DD5:Fallout4.esm",
+  "EditorID": "BostonPoliceRationingSiteZone",
+  "Location": "043DD4:Fallout4.esm",
+  "MinLevel": 19,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

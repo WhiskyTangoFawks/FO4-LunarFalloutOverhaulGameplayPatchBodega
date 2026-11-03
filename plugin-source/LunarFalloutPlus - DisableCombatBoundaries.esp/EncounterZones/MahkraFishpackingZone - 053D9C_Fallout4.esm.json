@@ -1,0 +1,11 @@
+{
+  "FormKey": "053D9C:Fallout4.esm",
+  "EditorID": "MahkraFishpackingZone",
+  "FormVersion": 127,
+  "Location": "053D9B:Fallout4.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

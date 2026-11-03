@@ -1,0 +1,11 @@
+{
+  "FormKey": "09F372:Fallout4.esm",
+  "EditorID": "Vault111Zone",
+  "Location": "01F3FE:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 5
+}

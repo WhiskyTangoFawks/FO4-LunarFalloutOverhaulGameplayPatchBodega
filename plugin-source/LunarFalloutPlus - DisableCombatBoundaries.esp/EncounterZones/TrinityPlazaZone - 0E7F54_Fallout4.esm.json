@@ -1,0 +1,11 @@
+{
+  "FormKey": "0E7F54:Fallout4.esm",
+  "EditorID": "TrinityPlazaZone",
+  "FormVersion": 128,
+  "Location": "03F2BC:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 50
+}

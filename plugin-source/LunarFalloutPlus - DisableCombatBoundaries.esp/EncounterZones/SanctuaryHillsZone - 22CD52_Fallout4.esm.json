@@ -1,0 +1,11 @@
+{
+  "FormKey": "22CD52:Fallout4.esm",
+  "EditorID": "SanctuaryHillsZone",
+  "Location": "01F228:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 10
+}

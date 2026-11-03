@@ -1,0 +1,25 @@
+{
+  "FormKey": "000DC1:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMBlueMetalCup",
+  "ObjectBounds": {
+    "First": "-4, -5, -2",
+    "Second": "4, 6, 5"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Metal Cup"
+  },
+  "Model": {
+    "File": "Props\\MetalCups\\BlueMetalCup\\MetalCup.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 6,
+  "Weight": 0.8,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

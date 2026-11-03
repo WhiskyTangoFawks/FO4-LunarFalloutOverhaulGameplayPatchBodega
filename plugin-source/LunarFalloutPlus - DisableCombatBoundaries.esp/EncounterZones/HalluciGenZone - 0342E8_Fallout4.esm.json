@@ -1,0 +1,12 @@
+{
+  "FormKey": "0342E8:Fallout4.esm",
+  "EditorID": "HalluciGenZone",
+  "FormVersion": 128,
+  "Location": "0342E7:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 55
+}

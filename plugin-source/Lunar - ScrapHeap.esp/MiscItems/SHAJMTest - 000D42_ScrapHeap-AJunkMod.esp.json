@@ -1,0 +1,66 @@
+{
+  "FormKey": "000D42:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMTest",
+  "ObjectBounds": {
+    "First": "-8, -4, 0",
+    "Second": "8, 4, 22"
+  },
+  "PreviewTransform": "248C85:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "dino test"
+  },
+  "Model": {
+    "File": "Props\\OldDinoChargeMotorOilTin\\OldDinoChargeMotorOilTin.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Destructible": {
+    "Data": {
+      "Health": 40,
+      "DESTCount": 3,
+      "Flags": [
+        "VATSTargetable"
+      ]
+    },
+    "Stages": [
+      {
+        "HealthPercent": 40,
+        "SelfDamagePerSecond": 2
+      },
+      {
+        "HealthPercent": 15,
+        "Index": 1,
+        "ModelDamageStage": 1,
+        "Flags": [
+          "CapDamage",
+          "Destroy",
+          "IgnoreExternalDamage"
+        ],
+        "SelfDamagePerSecond": 1,
+        "Explosion": "1FF24D:Fallout4.esm",
+        "Model": {
+          "File": "Props\\GasolineCanisterHulk.nif",
+          "Data": "0x0400000000000000000000000000000000000000"
+        }
+      },
+      {
+        "Index": 2,
+        "ModelDamageStage": 2
+      }
+    ]
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm"
+  ],
+  "Weight": 3.0,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

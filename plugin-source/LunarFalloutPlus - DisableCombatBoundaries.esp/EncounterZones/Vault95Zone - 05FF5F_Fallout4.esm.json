@@ -1,0 +1,11 @@
+{
+  "FormKey": "05FF5F:Fallout4.esm",
+  "EditorID": "Vault95Zone",
+  "FormVersion": 128,
+  "Location": "05FF5E:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

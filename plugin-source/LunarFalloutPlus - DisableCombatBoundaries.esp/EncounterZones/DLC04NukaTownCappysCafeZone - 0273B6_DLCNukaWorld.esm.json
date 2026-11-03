@@ -1,0 +1,11 @@
+{
+  "FormKey": "0273B6:DLCNukaWorld.esm",
+  "EditorID": "DLC04NukaTownCappysCafeZone",
+  "Location": "021370:DLCNukaWorld.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

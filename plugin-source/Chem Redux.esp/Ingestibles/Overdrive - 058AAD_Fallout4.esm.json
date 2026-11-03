@@ -1,0 +1,61 @@
+{
+  "FormKey": "058AAD:Fallout4.esm",
+  "EditorID": "Overdrive",
+  "ObjectBounds": {
+    "First": "-6, -14, 0",
+    "Second": "6, 14, 5"
+  },
+  "PreviewTransform": "248D5E:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Overdrive"
+  },
+  "Keywords": [
+    "0A7296:Fallout4.esm",
+    "0F4AE7:Fallout4.esm",
+    "245F08:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "Props\\Overdrive.nif",
+    "Data": "0x04000000040000000000000002000000000000005E3859CA64647300B7D70CE187545FA964647300B7D70CE199BD8A4964647300B7D70CE1B92277AE646473001CDB88C5"
+  },
+  "PickUpSound": "249C47:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+25% Damage and +25% Critical Chance for 10 minutes."
+  },
+  "Weight": 0.1,
+  "Value": 75,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "Addiction": "156D10:Fallout4.esm",
+  "AddictionChance": 0.1,
+  "ConsumeSound": "245D01:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "246735:Fallout4.esm",
+      "Data": {
+        "Magnitude": 25.0,
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "246737:Fallout4.esm",
+      "Data": {
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "245F0A:Fallout4.esm",
+      "Data": {
+        "Magnitude": 35.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "FormKey": "026EF2:LunarFalloutOverhaul.esp",
+  "EditorID": "co_food_WolfJerky",
+  "Components": [
+    {
+      "Component": "01FA8C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "0EF24D:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "0140F9:DLCCoast.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Makes 4"
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "024B00:Fallout4.esm",
+        "ParameterOneNumber": 150272
+      }
+    }
+  ],
+  "CreatedObject": "026EF1:LunarFalloutOverhaul.esp",
+  "WorkbenchKeyword": "102152:Fallout4.esm",
+  "Categories": [
+    "000803:Lunar - SCM.esp"
+  ],
+  "CreatedObjectCounts": [
+    {
+      "Count": 4
+    }
+  ]
+}

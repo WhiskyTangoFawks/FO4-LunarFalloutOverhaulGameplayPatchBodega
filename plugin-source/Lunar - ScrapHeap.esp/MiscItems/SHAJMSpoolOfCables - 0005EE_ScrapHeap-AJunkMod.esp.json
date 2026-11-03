@@ -1,0 +1,32 @@
+{
+  "FormKey": "0005EE:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMSpoolOfCables",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-2, -2, 0",
+    "Second": "3, 2, 2"
+  },
+  "PreviewTransform": "248C99:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Spool Of Cables"
+  },
+  "Model": {
+    "File": "Props\\SpoolOfCables\\SpoolOfCables.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 15,
+  "Weight": 0.3,
+  "Components": [
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 5
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

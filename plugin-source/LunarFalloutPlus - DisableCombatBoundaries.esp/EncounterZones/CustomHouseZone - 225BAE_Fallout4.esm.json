@@ -1,0 +1,11 @@
+{
+  "FormKey": "225BAE:Fallout4.esm",
+  "EditorID": "CustomHouseZone",
+  "FormVersion": 128,
+  "Location": "03ADC3:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

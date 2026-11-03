@@ -1,0 +1,11 @@
+{
+  "FormKey": "055A36:DLCNukaWorld.esm",
+  "EditorID": "DLC04BradbertonAmphitheaterZone",
+  "Location": "055A05:DLCNukaWorld.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

@@ -1,0 +1,179 @@
+{
+  "FormKey": "121D52:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncAssaultron01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-27, -27, 0",
+    "Second": "27, 27, 120"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 15,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 24,
+  "CalcMaxLevel": 35,
+  "DispositionBase": 35,
+  "Unknown": 20048,
+  "Factions": [
+    {
+      "Faction": "058304:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "01B34D:Fallout4.esm",
+  "Voice": "06E5A2:Fallout4.esm",
+  "Race": "0D8417:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 185.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 25.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    }
+  ],
+  "NativeTerminal": "1680CE:Fallout4.esm",
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "22DB8F:Fallout4.esm",
+    "1C5020:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Includes": [
+        {
+          "Mod": "0D9733:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C8628:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C8629:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C3670:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0DE00C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0DE00D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0DE00F:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0DE00E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0DE010:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0DE011:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0DE012:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0DE079:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0DE07A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C862C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C862A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0C862B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "2456CD:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Class": "0B287C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Assaultron"
+  },
+  "CalculatedHealth": 125,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "Unused": 2,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0E1AAF:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0DFB39:Fallout4.esm",
+  "DefaultPackageList": "22D9EB:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

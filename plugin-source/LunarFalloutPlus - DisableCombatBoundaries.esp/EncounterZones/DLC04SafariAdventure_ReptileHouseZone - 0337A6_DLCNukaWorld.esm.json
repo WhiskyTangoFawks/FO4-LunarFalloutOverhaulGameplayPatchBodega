@@ -1,0 +1,10 @@
+{
+  "FormKey": "0337A6:DLCNukaWorld.esm",
+  "EditorID": "DLC04SafariAdventure_ReptileHouseZone",
+  "Location": "0337A0:DLCNukaWorld.esm",
+  "MinLevel": 50,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

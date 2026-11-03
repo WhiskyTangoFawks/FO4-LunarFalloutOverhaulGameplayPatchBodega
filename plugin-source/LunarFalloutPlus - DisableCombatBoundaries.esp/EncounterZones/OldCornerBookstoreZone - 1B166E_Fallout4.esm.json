@@ -1,0 +1,11 @@
+{
+  "FormKey": "1B166E:Fallout4.esm",
+  "EditorID": "OldCornerBookstoreZone",
+  "FormVersion": 128,
+  "Location": "1B166D:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "05A119:Fallout4.esm",
+  "EditorID": "WestRoxburyStationZone",
+  "FormVersion": 128,
+  "Location": "05A118:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

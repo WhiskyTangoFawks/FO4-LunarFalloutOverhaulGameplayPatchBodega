@@ -1,0 +1,11 @@
+{
+  "FormKey": "017641:DLCNukaWorld.esm",
+  "EditorID": "DLC04KiddieKingdomZone",
+  "Location": "017645:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

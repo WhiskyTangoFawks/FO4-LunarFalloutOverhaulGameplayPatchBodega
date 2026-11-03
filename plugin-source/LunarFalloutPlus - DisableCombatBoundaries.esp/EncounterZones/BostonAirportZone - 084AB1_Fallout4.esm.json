@@ -1,0 +1,12 @@
+{
+  "FormKey": "084AB1:Fallout4.esm",
+  "EditorID": "BostonAirportZone",
+  "Location": "084AB0:Fallout4.esm",
+  "MinLevel": 45,
+  "Flags": [
+    "MatchPcBelowMinimumLevel",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 120
+}

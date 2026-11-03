@@ -1,0 +1,11 @@
+{
+  "FormKey": "01EB9A:DLCNukaWorld.esm",
+  "EditorID": "DLC04GrandchesterMansionZone",
+  "Location": "01EB9B:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

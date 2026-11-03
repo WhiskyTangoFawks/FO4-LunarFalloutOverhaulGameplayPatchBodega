@@ -1,0 +1,11 @@
+{
+  "FormKey": "178E7B:Fallout4.esm",
+  "EditorID": "POIBryanB01_WorkshopZone",
+  "Location": "178E7A:Fallout4.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

@@ -1,0 +1,175 @@
+{
+  "FormKey": "0201DC:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC04_EncCaveCricket03",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 3,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 46,
+  "CalcMaxLevel": 59,
+  "DispositionBase": 35,
+  "UseTemplateActors": "1852",
+  "Unknown": 5503,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "028670:Fallout4.esm"
+    },
+    {
+      "Faction": "0EDCE1:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "0138BF:DLCNukaWorld.esm",
+  "Voice": "0138B1:DLCNukaWorld.esm",
+  "DefaultTemplate": "0138B8:DLCNukaWorld.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "0138B8:DLCNukaWorld.esm",
+    "SpellListTemplate": "0138B8:DLCNukaWorld.esm",
+    "AiDataTemplate": "0138B8:DLCNukaWorld.esm",
+    "AiPackagesTemplate": "0138B8:DLCNukaWorld.esm",
+    "InventoryTemplate": "0138B8:DLCNukaWorld.esm",
+    "ScriptTemplate": "0138B8:DLCNukaWorld.esm",
+    "DefPackListTemplate": "0138B8:DLCNukaWorld.esm"
+  },
+  "Race": "00AAFE:DLCNukaWorld.esm",
+  "Skin": "03B511:DLCNukaWorld.esm",
+  "AttackRace": "00AAFE:DLCNukaWorld.esm",
+  "Attacks": [
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Spell": "115EB0:Fallout4.esm",
+        "Flags": [
+          "PowerAttack",
+          "OverrideData"
+        ],
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeStart_2",
+      "RequiredSlot": "049BE4:Fallout4.esm",
+      "Description": "jump forward"
+    }
+  ],
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 8.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 60.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 25.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 75,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "013795:Fallout4.esm",
+    "115EB7:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "032972:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F971:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Cave Cricket Piercer"
+  },
+  "CalculatedHealth": 600,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0138B4:DLCNukaWorld.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.75,
+  "NAM7": 0.0,
+  "HeightMax": 0.75,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "02EBB2:DLCNukaWorld.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

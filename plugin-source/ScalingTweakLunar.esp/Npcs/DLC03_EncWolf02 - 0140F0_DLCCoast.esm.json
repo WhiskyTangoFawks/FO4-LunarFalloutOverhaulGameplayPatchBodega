@@ -1,0 +1,132 @@
+{
+  "FormKey": "0140F0:DLCCoast.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC03_EncWolf02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 29,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 20,
+  "CalcMaxLevel": 29,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3900",
+  "Unknown": -17010,
+  "Factions": [
+    {
+      "Faction": "0140F1:DLCCoast.esm"
+    }
+  ],
+  "DeathItem": "0140FA:DLCCoast.esm",
+  "Voice": "02C8A8:DLCCoast.esm",
+  "DefaultTemplate": "0140EF:DLCCoast.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "0140EF:DLCCoast.esm",
+    "SpellListTemplate": "0140EF:DLCCoast.esm",
+    "AiDataTemplate": "0140EF:DLCCoast.esm",
+    "AiPackagesTemplate": "0140EF:DLCCoast.esm",
+    "InventoryTemplate": "0140EF:DLCCoast.esm",
+    "ScriptTemplate": "0140EF:DLCCoast.esm",
+    "DefPackListTemplate": "0140EF:DLCCoast.esm",
+    "AttackDataTemplate": "0140EF:DLCCoast.esm"
+  },
+  "Race": "03D077:DLCCoast.esm",
+  "Skin": "03D079:DLCCoast.esm",
+  "AttackRace": "03578A:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 9.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 6.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 85.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 150.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 35.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 30.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 15.0
+    }
+  ],
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 1500,
+  "AggroRadiusWarnOrAttack": 1250,
+  "AggroRadiusAttack": 750,
+  "Class": "05F96D:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Feral Wolf"
+  },
+  "CalculatedHealth": 160,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "03F2F2:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.85,
+  "NAM7": 0.0,
+  "HeightMax": 1.1,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "05D758:DLCCoast.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

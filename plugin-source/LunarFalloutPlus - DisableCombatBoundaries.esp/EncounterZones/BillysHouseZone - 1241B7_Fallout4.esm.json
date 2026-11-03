@@ -1,0 +1,11 @@
+{
+  "FormKey": "1241B7:Fallout4.esm",
+  "EditorID": "BillysHouseZone",
+  "FormVersion": 109,
+  "Location": "1241B6:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 5
+}

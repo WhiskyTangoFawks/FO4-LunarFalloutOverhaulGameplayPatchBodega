@@ -1,0 +1,11 @@
+{
+  "FormKey": "22CD4B:Fallout4.esm",
+  "EditorID": "NordhagenBeachZone",
+  "Location": "09B1B5:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

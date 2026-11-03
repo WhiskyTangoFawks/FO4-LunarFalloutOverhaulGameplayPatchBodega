@@ -1,0 +1,82 @@
+{
+  "FormKey": "0090A1:LunarFalloutOverhaul.esp",
+  "EditorID": "MR_Container_desk_Basic",
+  "MaxCount": 4,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059AF8:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059AF8:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.9
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140AF0:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.6
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140AF0:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140AF0:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.9
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140AF0:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.95
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140D98:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.95
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140D99:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140D99:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.9
+      }
+    }
+  ]
+}

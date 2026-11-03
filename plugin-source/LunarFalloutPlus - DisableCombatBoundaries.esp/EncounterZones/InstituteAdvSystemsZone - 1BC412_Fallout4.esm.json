@@ -1,0 +1,12 @@
+{
+  "FormKey": "1BC412:Fallout4.esm",
+  "EditorID": "InstituteAdvSystemsZone",
+  "FormVersion": 128,
+  "Location": "1BBC24:Fallout4.esm",
+  "MinLevel": 10,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

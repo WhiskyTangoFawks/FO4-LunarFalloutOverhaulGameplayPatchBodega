@@ -1,0 +1,11 @@
+{
+  "FormKey": "0585B8:Fallout4.esm",
+  "EditorID": "WreckOfTheFMSNorthernStarZone",
+  "FormVersion": 128,
+  "Location": "0585B7:Fallout4.esm",
+  "MinLevel": 45,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

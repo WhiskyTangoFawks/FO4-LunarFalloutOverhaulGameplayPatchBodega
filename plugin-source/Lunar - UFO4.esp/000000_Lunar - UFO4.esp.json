@@ -1,0 +1,15 @@
+{
+  "ModKey": "Lunar - UFO4.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 2048
+    },
+    "Author": "Mator Smash v1.0.2.0",
+    "Description": "Smashed patch:\r\nUnofficial Fallout 4 Patch.esp\r\nLunarFalloutOverhaul.esp\r\n"
+  }
+}

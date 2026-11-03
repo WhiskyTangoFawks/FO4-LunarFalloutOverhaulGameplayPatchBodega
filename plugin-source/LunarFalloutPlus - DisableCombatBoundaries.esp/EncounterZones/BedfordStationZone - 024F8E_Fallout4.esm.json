@@ -1,0 +1,10 @@
+{
+  "FormKey": "024F8E:Fallout4.esm",
+  "EditorID": "BedfordStationZone",
+  "Location": "024F8D:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

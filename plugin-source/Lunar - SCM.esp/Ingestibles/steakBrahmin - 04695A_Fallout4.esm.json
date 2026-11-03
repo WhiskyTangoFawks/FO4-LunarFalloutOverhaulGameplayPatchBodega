@@ -1,0 +1,53 @@
+{
+  "FormKey": "04695A:Fallout4.esm",
+  "EditorID": "steakBrahmin",
+  "ObjectBounds": {
+    "First": "-5, -11, 0",
+    "Second": "5, 10, 6"
+  },
+  "PreviewTransform": "24919A:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Brahmin Steak"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007283:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\DeathclawSteak.nif",
+    "Data": "0x04000000030000000000000001000000020000009CE9BE1964647300B64C8CDC4585B87A64647300B64C8CDCF7564D3864647300B64C8CDC9744792B6267736D11388219056C301F6267736DD550C98A",
+    "MaterialSwap": "204C47:Fallout4.esm"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.4,
+  "Value": 50,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 6.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0
+      }
+    }
+  ]
+}

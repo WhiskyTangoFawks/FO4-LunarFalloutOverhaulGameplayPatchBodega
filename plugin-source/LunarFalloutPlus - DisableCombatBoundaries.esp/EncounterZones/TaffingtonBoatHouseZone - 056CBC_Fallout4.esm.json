@@ -1,0 +1,11 @@
+{
+  "FormKey": "056CBC:Fallout4.esm",
+  "EditorID": "TaffingtonBoatHouseZone",
+  "Location": "056CBA:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

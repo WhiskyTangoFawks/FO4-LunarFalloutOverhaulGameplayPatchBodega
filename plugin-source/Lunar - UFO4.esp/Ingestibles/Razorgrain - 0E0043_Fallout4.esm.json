@@ -1,0 +1,79 @@
+{
+  "FormKey": "0E0043:Fallout4.esm",
+  "EditorID": "Razorgrain",
+  "PreviewTransform": "046B62:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Razorgrain"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "1C63E5:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "Landscape\\Plants\\Ingredients\\Razorgrain.nif",
+    "Data": "0x040000000300000000000000010000000100000089966BF4646473008A103AF050FA6D97646473008A103AF04E13B877646473008A103AF06C73B9F36267736DD28D2CDE"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.2,
+  "Value": 5,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0B9B61:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 10
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0xD4123A",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "HasPerk",
+            "ParameterOneRecord": "1C63E6:Fallout4.esm",
+            "ParameterOneNumber": 1860582
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.5,
+        "Duration": 10
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0xD4123A",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "HasPerk",
+            "ParameterOneRecord": "1C63E6:Fallout4.esm",
+            "ParameterOneNumber": 1860582
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 2.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "FormKey": "046940:Fallout4.esm",
+  "EditorID": "steakDog",
+  "ObjectBounds": {
+    "First": "-8, -5, 0",
+    "Second": "8, 11, 5"
+  },
+  "PreviewTransform": "24919A:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mutt Chops"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000899:Fallout4.esm",
+    "007280:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\Dogmeat.nif",
+    "Data": "0x04000000030000000000000001000000010000009AC5A08764647300B64C8CDC43A9A6E464647300B64C8CDC5D40730464647300B64C8CDCF2B797016267736D11388219"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.5,
+  "Value": 12,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 4.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 8.0
+      }
+    }
+  ]
+}

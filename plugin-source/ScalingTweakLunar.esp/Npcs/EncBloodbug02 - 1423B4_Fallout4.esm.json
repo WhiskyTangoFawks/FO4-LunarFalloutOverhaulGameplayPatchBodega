@@ -1,0 +1,209 @@
+{
+  "FormKey": "1423B4:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncBloodbug02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-34, -29, -57",
+    "Second": "34, 29, 35"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 16,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 10,
+  "CalcMaxLevel": 17,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3900",
+  "Unknown": -26760,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "028670:Fallout4.esm"
+    },
+    {
+      "Faction": "0EDCE2:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "028667:Fallout4.esm",
+  "Voice": "01D967:Fallout4.esm",
+  "DefaultTemplate": "028669:Fallout4.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "028669:Fallout4.esm",
+    "SpellListTemplate": "028669:Fallout4.esm",
+    "AiDataTemplate": "028669:Fallout4.esm",
+    "AiPackagesTemplate": "028669:Fallout4.esm",
+    "InventoryTemplate": "028669:Fallout4.esm",
+    "ScriptTemplate": "028669:Fallout4.esm",
+    "DefPackListTemplate": "028669:Fallout4.esm",
+    "AttackDataTemplate": "028669:Fallout4.esm"
+  },
+  "Race": "02456D:Fallout4.esm",
+  "Skin": "02456E:Fallout4.esm",
+  "AttackRace": "02456D:Fallout4.esm",
+  "CombatOverridePackageList": "032A1E:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "032997:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 6.0
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm",
+      "Value": 2.0
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm",
+      "Value": 2.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 2.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 15.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 25.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 15.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "031FB7:Fallout4.esm",
+        "Count": 4
+      }
+    },
+    {
+      "Item": {
+        "Item": "031FB8:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "1504F5:Fallout4.esm",
+    "0F23C5:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "teen"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "ForcedInventory",
+          "Record": "0264B3:Fallout4.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        },
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "1CF01B:Fallout4.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "adult"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "ForcedInventory",
+          "Record": "0264BA:Fallout4.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "02866F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Bloodbug"
+  },
+  "CalculatedHealth": 112,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0289A8:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0308E3:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "024F94:Fallout4.esm",
+  "EditorID": "CorvegaAssemblyPlantZone",
+  "Location": "024F93:Fallout4.esm",
+  "MinLevel": 5,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

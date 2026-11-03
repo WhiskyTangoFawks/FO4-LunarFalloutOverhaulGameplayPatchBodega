@@ -1,0 +1,11 @@
+{
+  "FormKey": "056DB4:DLCNukaWorld.esm",
+  "EditorID": "DLC04TheParlorZone",
+  "Location": "056DB3:DLCNukaWorld.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

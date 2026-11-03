@@ -1,0 +1,60 @@
+{
+  "FormKey": "1B5CC4:Fallout4.esm",
+  "EditorID": "OmeletteEggDeathclawPristine",
+  "ObjectBounds": {
+    "First": "-8, -7, 0",
+    "Second": "11, 7, 1"
+  },
+  "PreviewTransform": "239FB9:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Tasty Deathclaw Omelette"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007283:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\DeathclawOmelette.nif",
+    "Data": "0x0400000003000000000000000100000001000000254CB5A064647300B64C8CDCFC20B3C364647300B64C8CDCE2C9662364647300B64C8CDC6C853C7E6267736D11388219"
+  },
+  "CraftingSound": "112870:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Small Health Regen and +50 Max Health for 2 hours."
+  },
+  "Weight": 0.1,
+  "Value": 250,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 11.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "04695F:Fallout4.esm",
+      "Data": {
+        "Magnitude": 0.06,
+        "Duration": 7200
+      }
+    },
+    {
+      "BaseEffect": "150731:Fallout4.esm",
+      "Data": {
+        "Magnitude": 50.0,
+        "Duration": 7200
+      }
+    }
+  ]
+}

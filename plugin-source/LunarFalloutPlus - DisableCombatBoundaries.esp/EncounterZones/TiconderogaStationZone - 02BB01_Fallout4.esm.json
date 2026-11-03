@@ -1,0 +1,11 @@
+{
+  "FormKey": "02BB01:Fallout4.esm",
+  "EditorID": "TiconderogaStationZone",
+  "Location": "02BB00:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

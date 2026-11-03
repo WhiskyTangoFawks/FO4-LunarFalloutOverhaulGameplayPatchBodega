@@ -1,0 +1,11 @@
+{
+  "FormKey": "0E532F:Fallout4.esm",
+  "EditorID": "HardwareTownZone",
+  "FormVersion": 128,
+  "Location": "03E0CC:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

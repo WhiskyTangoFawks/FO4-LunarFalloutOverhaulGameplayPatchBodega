@@ -1,0 +1,102 @@
+{
+  "FormKey": "058AA3:Fallout4.esm",
+  "EditorID": "Buffjet",
+  "ObjectBounds": {
+    "First": "-4, -4, 0",
+    "Second": "4, 4, 11"
+  },
+  "PreviewTransform": "046B61:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Buffjet"
+  },
+  "Keywords": [
+    "0A7296:Fallout4.esm",
+    "0F4AE7:Fallout4.esm",
+    "245EF7:Fallout4.esm",
+    "249F52:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "Props\\Buffjet.nif",
+    "Data": "0x0400000004000000000000000200000001000000EDB2BA4064647300B7D70CE134DEBC2364647300B7D70CE12A3769C364647300B7D70CE18515B03F646473001CDB88C5075F52096267736DAEEF2E19"
+  },
+  "PickUpSound": "249C44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Slow Time, +3 Strength, +3 Endurance, +65 max Health and +35 max AP for 18 seconds."
+  },
+  "Weight": 0.1,
+  "Value": 75,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "Addiction": "04BAE0:Fallout4.esm",
+  "AddictionChance": 0.07,
+  "ConsumeSound": "0BB043:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": "all Buffout chems"
+  },
+  "Effects": [
+    {
+      "BaseEffect": "2466E6:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.0,
+        "Duration": 30
+      }
+    },
+    {
+      "BaseEffect": "2466E8:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.0,
+        "Duration": 30
+      }
+    },
+    {
+      "BaseEffect": "2466E9:Fallout4.esm",
+      "Data": {
+        "Magnitude": 65.0,
+        "Duration": 30
+      }
+    },
+    {
+      "BaseEffect": "2466EA:Fallout4.esm",
+      "Data": {
+        "Magnitude": 65.0,
+        "Duration": 30
+      }
+    },
+    {
+      "BaseEffect": "2466E7:Fallout4.esm",
+      "Data": {
+        "Magnitude": 35.0,
+        "Duration": 18
+      }
+    },
+    {
+      "BaseEffect": "245EF9:Fallout4.esm",
+      "Data": {
+        "Magnitude": 35.0
+      }
+    },
+    {
+      "BaseEffect": "248900:Fallout4.esm",
+      "Data": {
+        "Magnitude": 0.3,
+        "Duration": 18
+      }
+    },
+    {
+      "BaseEffect": "249FF7:Fallout4.esm",
+      "Data": {}
+    },
+    {
+      "BaseEffect": "047665:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 400
+      }
+    }
+  ]
+}

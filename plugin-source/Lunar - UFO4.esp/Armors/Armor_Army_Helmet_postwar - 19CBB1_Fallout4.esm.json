@@ -1,0 +1,54 @@
+{
+  "FormKey": "19CBB1:Fallout4.esm",
+  "EditorID": "Armor_Army_Helmet_postwar",
+  "ObjectBounds": {
+    "First": "-7, -6, 0",
+    "Second": "7, 11, 13"
+  },
+  "PreviewTransform": "248D6A:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Dirty Army Helmet"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Armor\\ArmyFatigues\\HelmetGO.nif",
+        "Data": "0x040000000300000000000000010000000100000031023B6F6464730035B4D071E86E3D0C6464730035B4D071F687E8EC6464730035B4D0718AEB06196267736D74531FF3",
+        "MaterialSwap": "22E043:Fallout4.esm"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "HairTop",
+      "Headband"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "07820B:Fallout4.esm",
+    "0F4AE9:Fallout4.esm",
+    "10C418:Fallout4.esm",
+    "12EEE9:Fallout4.esm",
+    "23D317:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "InstanceNaming": "184BC1:Fallout4.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "19CBB2:Fallout4.esm"
+    }
+  ],
+  "Value": 20,
+  "Weight": 3.0,
+  "ArmorRating": 10,
+  "Unused": "0x000000",
+  "AttachParentSlots": [
+    "1E32C8:Fallout4.esm"
+  ]
+}

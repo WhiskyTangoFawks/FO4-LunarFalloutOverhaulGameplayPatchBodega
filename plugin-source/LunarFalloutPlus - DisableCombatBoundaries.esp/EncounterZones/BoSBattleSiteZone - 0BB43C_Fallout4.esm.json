@@ -1,0 +1,11 @@
+{
+  "FormKey": "0BB43C:Fallout4.esm",
+  "EditorID": "BoSBattleSiteZone",
+  "FormVersion": 129,
+  "Location": "0BB43B:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 60
+}

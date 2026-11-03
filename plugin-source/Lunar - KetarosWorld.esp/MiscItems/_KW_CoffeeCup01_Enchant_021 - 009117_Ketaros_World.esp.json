@@ -1,0 +1,32 @@
+{
+  "FormKey": "009117:Ketaros_World.esp",
+  "EditorID": "_KW_CoffeeCup01_Enchant_021",
+  "ObjectBounds": {
+    "First": "-3, -3, 0",
+    "Second": "3, 5, 7"
+  },
+  "PreviewTransform": "248C99:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Coffee Cup"
+  },
+  "Model": {
+    "File": "SetDressing\\Kitchen\\CoffeeCup01.nif",
+    "Data": "0x0400000000000000000000000000000000000000",
+    "MaterialSwap": "009118:Ketaros_World.esp"
+  },
+  "Keywords": [
+    "01A34D:Ketaros_World.esp"
+  ],
+  "Value": 1,
+  "Weight": 0.5,
+  "Components": [
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "ComponentDisplayIndices": [
+    1
+  ]
+}

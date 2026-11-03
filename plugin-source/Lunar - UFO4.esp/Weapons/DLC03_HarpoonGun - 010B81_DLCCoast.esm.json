@@ -1,0 +1,111 @@
+{
+  "FormKey": "010B81:DLCCoast.esm",
+  "EditorID": "DLC03_HarpoonGun",
+  "ObjectBounds": {
+    "First": "-17, -1, -32",
+    "Second": "17, 98, 24"
+  },
+  "PreviewTransform": "248ABC:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Harpoon Gun"
+  },
+  "Model": {
+    "File": "DLC03\\Weapons\\HarpoonGun\\HarpoonGunReceiver.nif",
+    "Data": "0x04000000100000000000000006000000050000007464060464647300F6CAD836AD08006764647300F6CAD836A4CF6E4564647300F6CAD8367DA3682664647300F6CAD836AD56735364647300F6CAD836743A753064647300F6CAD8367EE8401864647300F6CAD836A784467B64647300F6CAD836AE01295664647300F6CAD836776D2F3564647300F6CAD8366984FAD564647300F6CAD8360F2C2A00646473001CDB88C5B96D939B64647300F6CAD8366AD3A0D064647300F6CAD836634ABDC664647300F6CAD836B3E1D58764647300F6CAD836DEF03E7A6267736D9A457A95CBF95ECD6267736D9A457A95202CF17F6267736D9A457A95647A38986267736D9A457A954EE9ABF76267736D9A457A95"
+  },
+  "ObjectEffect": "010B85:DLCCoast.esm",
+  "EquipmentType": "013F45:Fallout4.esm",
+  "BlockBashImpactDataSet": "123EE5:Fallout4.esm",
+  "PickUpSound": "034923:Fallout4.esm",
+  "PutDownSound": "01F5C3:Fallout4.esm",
+  "Keywords": [
+    "03ADB4:Fallout4.esm",
+    "04A0A3:Fallout4.esm",
+    "092A86:Fallout4.esm",
+    "0F4AEA:Fallout4.esm",
+    "10C485:Fallout4.esm",
+    "1A7B79:Fallout4.esm",
+    "1C9E78:Fallout4.esm",
+    "225766:Fallout4.esm",
+    "249FD5:Fallout4.esm",
+    "037CF9:DLCCoast.esm",
+    "043330:DLCCoast.esm",
+    "056616:DLCCoast.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "InstanceNaming": "2377CF:Fallout4.esm",
+  "AttachParentSlots": [
+    "1E32C8:Fallout4.esm",
+    "022499:Fallout4.esm",
+    "05D4D7:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Default"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "037CFB:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04B9C1:DLCCoast.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "FirstPersonModel": {
+    "File": "DLC03\\Weapons\\HarpoonGun\\HarpoonGunReceiver_1.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Ammo": "010B80:DLCCoast.esm",
+  "Speed": 1.0,
+  "ReloadSpeed": 1.0,
+  "Reach": 1.0,
+  "MinRange": 256.0,
+  "MaxRange": 256.0,
+  "AttackDelay": 1.0,
+  "DamageOutOfRangeMult": 0.5,
+  "OnHit": "DismemberOnly",
+  "Flags": [
+    "CritEffectOnDeath"
+  ],
+  "Capacity": 1,
+  "AnimationType": "Gun",
+  "SecondaryDamage": 6.0,
+  "Weight": 16.0,
+  "Value": 200,
+  "BaseDamage": 187,
+  "AttackFailSound": "01DACD:Fallout4.esm",
+  "EquipSound": "06D01A:Fallout4.esm",
+  "UnequipSound": "1526AC:Fallout4.esm",
+  "FastEquipSound": "06D01A:Fallout4.esm",
+  "AnimationAttackSeconds": 1.0,
+  "ActionPointCost": 40.0,
+  "Stagger": "Small",
+  "Unknown3": 2139095039,
+  "ExtraData": {
+    "AnimationFireSeconds": 1E-05,
+    "RumbleLeftMotorStrength": 0.7,
+    "RumbleRightMotorStrength": 0.7,
+    "RumbleDuration": 0.4,
+    "AnimationReloadSeconds": 4.40001,
+    "SightedTransitionSeconds": 0.2,
+    "NumProjectiles": 1
+  },
+  "CritDamageMult": 2.0,
+  "CritChargeBonus": 1.0,
+  "ImpactDataSet": "056617:DLCCoast.esm",
+  "NpcAddAmmoList": "010B82:DLCCoast.esm",
+  "AimModel": "010B83:DLCCoast.esm",
+  "Zoom": "04B246:Fallout4.esm"
+}

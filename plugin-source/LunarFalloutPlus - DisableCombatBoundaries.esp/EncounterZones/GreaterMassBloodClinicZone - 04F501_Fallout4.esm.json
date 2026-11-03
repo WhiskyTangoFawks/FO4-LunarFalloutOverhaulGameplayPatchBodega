@@ -1,0 +1,11 @@
+{
+  "FormKey": "04F501:Fallout4.esm",
+  "EditorID": "GreaterMassBloodClinicZone",
+  "FormVersion": 112,
+  "Location": "04F500:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 19
+}

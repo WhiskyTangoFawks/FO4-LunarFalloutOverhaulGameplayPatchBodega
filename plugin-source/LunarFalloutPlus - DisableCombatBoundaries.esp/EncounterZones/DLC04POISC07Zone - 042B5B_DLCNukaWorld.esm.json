@@ -1,0 +1,12 @@
+{
+  "FormKey": "042B5B:DLCNukaWorld.esm",
+  "EditorID": "DLC04POISC07Zone",
+  "Location": "042B5A:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "MatchPcBelowMinimumLevel",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

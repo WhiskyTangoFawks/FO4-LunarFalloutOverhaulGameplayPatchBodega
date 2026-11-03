@@ -1,0 +1,11 @@
+{
+  "FormKey": "211742:Fallout4.esm",
+  "EditorID": "FiddlersGreenZone",
+  "FormVersion": 128,
+  "Location": "211741:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

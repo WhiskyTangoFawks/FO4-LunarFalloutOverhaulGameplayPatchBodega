@@ -1,0 +1,117 @@
+{
+  "FormKey": "0D9809:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncGorilla",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-42, -38, 0",
+    "Second": "42, 38, 124"
+  },
+  "Flags": [
+    "AutoCalcStats"
+  ],
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 15,
+  "CalcMaxLevel": 60,
+  "DispositionBase": 35,
+  "Unknown": 19069,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "16CA50:Fallout4.esm",
+  "Race": "0D9804:Fallout4.esm",
+  "Skin": "0D9805:Fallout4.esm",
+  "AttackRace": "0D9804:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "2458BE:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 250.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002EA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Class": "0B3D81:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gorilla"
+  },
+  "CalculatedHealth": 395,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 66,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0FDD1A:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0FA341:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

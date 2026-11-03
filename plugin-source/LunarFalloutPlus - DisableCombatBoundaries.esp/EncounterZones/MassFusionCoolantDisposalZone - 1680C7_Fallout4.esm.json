@@ -1,0 +1,12 @@
+{
+  "FormKey": "1680C7:Fallout4.esm",
+  "EditorID": "MassFusionCoolantDisposalZone",
+  "FormVersion": 128,
+  "Location": "1680C6:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

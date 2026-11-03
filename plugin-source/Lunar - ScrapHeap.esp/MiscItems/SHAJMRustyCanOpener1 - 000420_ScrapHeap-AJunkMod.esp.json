@@ -1,0 +1,25 @@
+{
+  "FormKey": "000420:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMRustyCanOpener1",
+  "ObjectBounds": {
+    "First": "-11, -1, 0",
+    "Second": "17, 8, 6"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rusty Can Opener"
+  },
+  "Model": {
+    "File": "Props\\RustyCanOpener\\RustyCanOpener.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 8,
+  "Weight": 0.7,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 2
+    }
+  ]
+}

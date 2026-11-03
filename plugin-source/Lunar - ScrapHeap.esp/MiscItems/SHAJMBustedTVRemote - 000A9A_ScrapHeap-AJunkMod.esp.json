@@ -1,0 +1,33 @@
+{
+  "FormKey": "000A9A:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMBustedTVRemote",
+  "ObjectBounds": {
+    "First": "-4, -6, 0",
+    "Second": "4, 6, 4"
+  },
+  "PreviewTransform": "2496CC:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Busted TV Remote"
+  },
+  "Model": {
+    "File": "Props\\BustedTVRemote\\BustedTVRemote.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 60,
+  "Weight": 0.4,
+  "Components": [
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

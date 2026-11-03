@@ -1,0 +1,10 @@
+{
+  "FormKey": "064EDF:Fallout4.esm",
+  "EditorID": "USAFSatelliteZone",
+  "Location": "05C523:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 20
+}

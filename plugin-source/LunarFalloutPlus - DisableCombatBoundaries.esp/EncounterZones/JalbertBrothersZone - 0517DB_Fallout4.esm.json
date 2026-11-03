@@ -1,0 +1,10 @@
+{
+  "FormKey": "0517DB:Fallout4.esm",
+  "EditorID": "JalbertBrothersZone",
+  "Location": "0517DA:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

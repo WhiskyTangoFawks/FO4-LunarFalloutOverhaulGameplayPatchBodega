@@ -1,0 +1,11 @@
+{
+  "FormKey": "1B348D:Fallout4.esm",
+  "EditorID": "JoesSpuckiesZone",
+  "FormVersion": 128,
+  "Location": "1B348C:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

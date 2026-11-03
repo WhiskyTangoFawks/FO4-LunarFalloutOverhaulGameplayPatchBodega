@@ -1,0 +1,135 @@
+{
+  "FormKey": "0459C5:Fallout4.esm",
+  "EditorID": "Addictol",
+  "ObjectBounds": {
+    "First": "-4, -5, 0",
+    "Second": "9, 2, 3"
+  },
+  "PreviewTransform": "248D61:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Addictol"
+  },
+  "Keywords": [
+    "0F4AE7:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "Props\\addictol.nif",
+    "Data": "0x04000000040000000000000002000000000000004CC9AD7864647300B7D70CE195A5AB1B64647300B7D70CE18B4C7EFB64647300B7D70CE124389F9F646473001CDB88C5"
+  },
+  "PickUpSound": "249C45:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Cures all addictions."
+  },
+  "Weight": 0.1,
+  "Value": 300,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "245D00:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "0459C4:Fallout4.esm",
+      "Data": {
+        "Magnitude": 999.0
+      }
+    },
+    {
+      "BaseEffect": "245F0C:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "245F0D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "245F0E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "245F0F:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "245F10:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "245F11:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "245F12:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "245F13:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "245F14:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "247550:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "247552:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "247A6A:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9999.0
+      }
+    },
+    {
+      "BaseEffect": "249FF2:Fallout4.esm",
+      "Data": {
+        "Magnitude": 999.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x9CB568",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetGlobalValue",
+            "ParameterOneRecord": "000854:Fallout4.esm",
+            "ParameterOneNumber": 2132
+          }
+        }
+      ]
+    }
+  ]
+}

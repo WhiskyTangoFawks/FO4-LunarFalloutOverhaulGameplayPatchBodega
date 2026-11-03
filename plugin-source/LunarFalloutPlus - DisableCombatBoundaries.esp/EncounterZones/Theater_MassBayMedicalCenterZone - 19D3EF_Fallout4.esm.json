@@ -1,0 +1,11 @@
+{
+  "FormKey": "19D3EF:Fallout4.esm",
+  "EditorID": "Theater_MassBayMedicalCenterZone",
+  "FormVersion": 128,
+  "Location": "19D3EB:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

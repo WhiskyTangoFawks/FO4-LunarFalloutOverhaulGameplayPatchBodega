@@ -1,0 +1,12 @@
+{
+  "FormKey": "04D47E:Fallout4.esm",
+  "EditorID": "LakeQuannapowittZone",
+  "FormVersion": 101,
+  "Location": "04D47D:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

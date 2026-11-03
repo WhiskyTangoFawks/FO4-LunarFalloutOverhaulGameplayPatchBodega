@@ -1,0 +1,15 @@
+{
+  "ModKey": "Lunar - SCM.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 15426
+    },
+    "Author": "Merge Plugins Script v1.9",
+    "Description": "Merged Plugin:\r\n  LunarPlus-CookingConsistencyPatch.esp\r\n  Temp.esp"
+  }
+}

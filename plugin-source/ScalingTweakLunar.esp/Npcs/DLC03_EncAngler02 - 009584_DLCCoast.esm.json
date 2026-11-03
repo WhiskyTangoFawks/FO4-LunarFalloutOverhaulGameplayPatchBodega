@@ -1,0 +1,172 @@
+{
+  "FormKey": "009584:DLCCoast.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC03_EncAngler02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 37,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 25,
+  "CalcMaxLevel": 36,
+  "DispositionBase": 35,
+  "UseTemplateActors": "3892",
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "00958A:DLCCoast.esm"
+    }
+  ],
+  "DeathItem": "00958B:DLCCoast.esm",
+  "Voice": "020C2F:DLCCoast.esm",
+  "DefaultTemplate": "009583:DLCCoast.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "009583:DLCCoast.esm",
+    "AiDataTemplate": "009583:DLCCoast.esm",
+    "AiPackagesTemplate": "009583:DLCCoast.esm",
+    "InventoryTemplate": "009583:DLCCoast.esm",
+    "ScriptTemplate": "009583:DLCCoast.esm",
+    "DefPackListTemplate": "009583:DLCCoast.esm",
+    "AttackDataTemplate": "009583:DLCCoast.esm"
+  },
+  "Race": "00FEEA:DLCCoast.esm",
+  "ActorEffect": [
+    "1423A4:Fallout4.esm",
+    "21C007:Fallout4.esm"
+  ],
+  "Skin": "00FEEB:DLCCoast.esm",
+  "AttackRace": "00FEEA:DLCCoast.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2776:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 7.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 680.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 70.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 135.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "048EC7:DLCCoast.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "049BA3:DLCCoast.esm",
+        "Count": 100
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "013795:Fallout4.esm",
+    "1C5020:Fallout4.esm",
+    "1F31B7:Fallout4.esm",
+    "009589:DLCCoast.esm",
+    "04D3A0:DLCCoast.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "0540CA:DLCCoast.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F96F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Glowing Angler"
+  },
+  "CalculatedHealth": 420,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "04AED9:DLCCoast.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.05,
+    "Muscular": 0.05,
+    "Fat": 0.9
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "056F64:DLCCoast.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

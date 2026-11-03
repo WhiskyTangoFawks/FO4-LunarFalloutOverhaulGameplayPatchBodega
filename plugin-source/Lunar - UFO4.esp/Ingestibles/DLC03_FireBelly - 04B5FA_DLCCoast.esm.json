@@ -1,0 +1,171 @@
+{
+  "FormKey": "04B5FA:DLCCoast.esm",
+  "MajorRecordFlagsRaw": 536870912,
+  "EditorID": "DLC03_FireBelly",
+  "Fallout4MajorRecordFlags": [
+    "0x20000000"
+  ],
+  "ObjectBounds": {
+    "First": "-5, -13, 0",
+    "Second": "6, 11, 2"
+  },
+  "PreviewTransform": "05D40E:DLCCoast.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fire Belly"
+  },
+  "Keywords": [
+    "07956D:Fallout4.esm",
+    "0F4AEC:Fallout4.esm",
+    "10C416:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "SetDressing\\PlayerHouseClutterClean\\Bottles\\BottleVodka01Empty.nif",
+    "Data": "0x0400000004000000000000000200000001000000C0E9CF5964647300005216941985C93A6464730000521694076C1CDA64647300005216942C4BF9B2646473001CDB88C591B838086267736DC9B77290"
+  },
+  "PickUpSound": "0AE46B:Fallout4.esm",
+  "PutDownSound": "0AE46C:Fallout4.esm",
+  "CraftingSound": "113875:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Do more damage, gradually increases at low health"
+  },
+  "Weight": 0.1,
+  "Value": 48,
+  "Flags": [
+    "NoAutoCalc",
+    "Medicine"
+  ],
+  "Addiction": "03E061:Fallout4.esm",
+  "AddictionChance": 0.04,
+  "ConsumeSound": "09CB61:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": "Alcohol"
+  },
+  "Effects": [
+    {
+      "BaseEffect": "04B5FB:DLCCoast.esm",
+      "Data": {
+        "Magnitude": 10.0,
+        "Duration": 480
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThanOrEqualTo",
+          "Unknown1": "0x3C99C3",
+          "ComparisonValue": 0.75,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetHealthPercentage"
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThan",
+          "Unknown1": "0x3C99C3",
+          "ComparisonValue": 0.5,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetHealthPercentage"
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "04B5FD:DLCCoast.esm",
+      "Data": {
+        "Magnitude": 20.0,
+        "Duration": 480
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThanOrEqualTo",
+          "Unknown1": "0x3C99C3",
+          "ComparisonValue": 0.5,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetHealthPercentage"
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThan",
+          "Unknown1": "0x3C99C3",
+          "ComparisonValue": 0.25,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetHealthPercentage"
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "11D53C:Fallout4.esm",
+      "Data": {
+        "Magnitude": 30.0
+      }
+    },
+    {
+      "BaseEffect": "04B5FE:DLCCoast.esm",
+      "Data": {
+        "Magnitude": 30.0,
+        "Duration": 480
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThanOrEqualTo",
+          "Unknown1": "0x3C99C3",
+          "ComparisonValue": 0.25,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetHealthPercentage"
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "1B5B29:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0
+      }
+    },
+    {
+      "BaseEffect": "03693D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.5,
+        "Duration": 240
+      }
+    },
+    {
+      "BaseEffect": "245EF2:Fallout4.esm",
+      "Data": {
+        "Magnitude": 25.0
+      }
+    },
+    {
+      "BaseEffect": "0576F4:DLCCoast.esm",
+      "Data": {
+        "Duration": 480
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThan",
+          "Unknown1": "0x3C99C3",
+          "ComparisonValue": 0.75,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetHealthPercentage"
+          }
+        }
+      ]
+    }
+  ],
+  "MajorFlags": [
+    "Medicine"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "FormKey": "0E1A39:Fallout4.esm",
+  "EditorID": "Armor_BoS_Knight_UnderarmorHelmet",
+  "ObjectBounds": {
+    "First": "-6, -8, 0",
+    "Second": "6, 7, 17"
+  },
+  "PreviewTransform": "248D6B:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "BoS Hood"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Armor\\KnightUnderArmor\\HoodGO.nif",
+        "Data": "0x0400000004000000000000000200000001000000C671CA7264647300EE2E0CC21F1DCC1164647300EE2E0CC201F419F164647300EE2E0CC20F2C2A00646473001CDB88C5AA2645C16267736D7C24E64C"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "HairTop",
+      "HairLong",
+      "Headband"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "07820B:Fallout4.esm",
+    "10C418:Fallout4.esm",
+    "23D317:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "0DEDEC:Fallout4.esm"
+    }
+  ],
+  "Value": 12,
+  "Weight": 0.5,
+  "ArmorRating": 1,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 2
+    }
+  ]
+}

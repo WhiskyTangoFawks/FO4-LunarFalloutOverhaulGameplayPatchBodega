@@ -1,0 +1,52 @@
+{
+  "FormKey": "04696D:Fallout4.esm",
+  "EditorID": "RoastYaoGuai",
+  "ObjectBounds": {
+    "First": "-14, -13, 0",
+    "Second": "14, 13, 12"
+  },
+  "PreviewTransform": "2495F9:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Yao Guai Roast"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\YaoGuaiSteak.nif",
+    "Data": "0x040000000300000000000000010000000100000051F77F0F64647300B64C8CDC889B796C64647300B64C8CDC9672AC8C64647300B64C8CDC138168646267736D11388219"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+10% melee damage for 1 hour."
+  },
+  "Weight": 1.0,
+  "Value": 85,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 11.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "150730:Fallout4.esm",
+      "Data": {
+        "Magnitude": 0.1,
+        "Duration": 3600
+      }
+    }
+  ]
+}

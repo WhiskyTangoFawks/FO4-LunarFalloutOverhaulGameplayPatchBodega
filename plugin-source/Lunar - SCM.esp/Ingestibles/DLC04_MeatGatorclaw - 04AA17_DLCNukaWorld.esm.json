@@ -1,0 +1,54 @@
+{
+  "FormKey": "04AA17:DLCNukaWorld.esm",
+  "EditorID": "DLC04_MeatGatorclaw",
+  "ObjectBounds": {
+    "First": "-44, -31, 0",
+    "Second": "43, 39, 31"
+  },
+  "PreviewTransform": "2495E8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gatorclaw Meat"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000899:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "Actors\\DLC04\\Gatorclaw\\GatorclawMeat.nif",
+    "Data": "0x0400000003000000000000000100000001000000E459FEAA64647300EB3638653D35F8C964647300EB36386523DC2D2964647300EB363865D6C9DEAC6267736DB3AB2E4B"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 1.0,
+  "Value": 60,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 8.0
+      }
+    }
+  ]
+}

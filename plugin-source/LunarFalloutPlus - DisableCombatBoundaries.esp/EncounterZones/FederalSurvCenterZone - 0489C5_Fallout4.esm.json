@@ -1,0 +1,11 @@
+{
+  "FormKey": "0489C5:Fallout4.esm",
+  "EditorID": "FederalSurvCenterZone",
+  "FormVersion": 128,
+  "Location": "04896A:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

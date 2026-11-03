@@ -1,0 +1,54 @@
+{
+  "FormKey": "0330F4:Fallout4.esm",
+  "EditorID": "MeatBloatfly",
+  "ObjectBounds": {
+    "First": "-6, -8, 0",
+    "Second": "6, 9, 11"
+  },
+  "PreviewTransform": "2495E5:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Bloatfly Meat"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000899:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "Actors\\Bloatfly\\bloatflymeat.nif",
+    "Data": "0x04000000030000000000000001000000010000002EBAFCDD6464730063AA7A46F7D6FABE6464730063AA7A46E93F2F5E6464730063AA7A4644A5AACF6267736D1E73EAE4"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.3,
+  "Value": 8,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 0.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 12.0
+      }
+    }
+  ]
+}

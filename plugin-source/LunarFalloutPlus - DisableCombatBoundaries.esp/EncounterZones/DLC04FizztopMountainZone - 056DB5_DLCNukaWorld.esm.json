@@ -1,0 +1,11 @@
+{
+  "FormKey": "056DB5:DLCNukaWorld.esm",
+  "EditorID": "DLC04FizztopMountainZone",
+  "Location": "056DB2:DLCNukaWorld.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

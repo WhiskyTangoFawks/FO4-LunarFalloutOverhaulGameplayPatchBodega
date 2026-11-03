@@ -1,0 +1,266 @@
+{
+  "FormKey": "0138B7:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC04_EncBloodworm02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 5,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 14,
+  "CalcMaxLevel": 19,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7996",
+  "Unknown": 44,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "031B22:Fallout4.esm"
+    },
+    {
+      "Faction": "0431AF:DLCNukaWorld.esm"
+    }
+  ],
+  "DeathItem": "0138BE:DLCNukaWorld.esm",
+  "Voice": "0138B0:DLCNukaWorld.esm",
+  "DefaultTemplate": "0138B6:DLCNukaWorld.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "0138B6:DLCNukaWorld.esm",
+    "SpellListTemplate": "0138B6:DLCNukaWorld.esm",
+    "AiDataTemplate": "0138B6:DLCNukaWorld.esm",
+    "AiPackagesTemplate": "0138B6:DLCNukaWorld.esm",
+    "InventoryTemplate": "0138B6:DLCNukaWorld.esm",
+    "ScriptTemplate": "0138B6:DLCNukaWorld.esm",
+    "DefPackListTemplate": "0138B6:DLCNukaWorld.esm",
+    "AttackDataTemplate": "0138B6:DLCNukaWorld.esm",
+    "KeywordsTemplate": "0138B6:DLCNukaWorld.esm"
+  },
+  "Race": "00A1A6:DLCNukaWorld.esm",
+  "Skin": "013834:DLCNukaWorld.esm",
+  "AttackRace": "01D810:Fallout4.esm",
+  "Attacks": [
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack",
+          "OverrideData"
+        ],
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeStart_1",
+      "Description": "Jump Attack"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack",
+          "OverrideData"
+        ],
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeStart_10",
+      "Description": "Running forward jump attack"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 0.5,
+        "Flags": [
+          "PowerAttack",
+          "OverrideData"
+        ],
+        "AttackAngle": 30.0,
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeStart_2",
+      "Description": "Jump Attack Left"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 0.5,
+        "Flags": [
+          "PowerAttack",
+          "OverrideData"
+        ],
+        "AttackAngle": -30.0,
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeStart_3",
+      "Description": "Jump Attack Right"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "OverrideData"
+        ],
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeStart_4",
+      "Description": "Walking Bite"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack",
+          "OverrideData"
+        ],
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeStart_5",
+      "Description": "Running Attack"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "RotatingAttack",
+          "OverrideData"
+        ],
+        "AttackAngle": -90.0,
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeStart_6",
+      "Description": "Attack 90 Left"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "OverrideData"
+        ],
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0
+      },
+      "AttackEvent": "meleeStart_8",
+      "Description": "standing in place ankle bite"
+    },
+    {
+      "AttackData": {
+        "DamageMult": 1.0,
+        "Chance": 1.0,
+        "Flags": [
+          "PowerAttack",
+          "OverrideData"
+        ],
+        "StrikeAngle": 35.0,
+        "ActionPointsMult": 1.0,
+        "StaggerOffset": 1
+      },
+      "AttackEvent": "meleeStart_9",
+      "Description": "jump up and forward attack"
+    }
+  ],
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 15.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 15.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "AggroRadiusWarn": 1250,
+  "AggroRadiusWarnOrAttack": 1000,
+  "AggroRadiusAttack": 750,
+  "Class": "05F96E:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Bloodworm Larva"
+  },
+  "CalculatedHealth": 80,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0138B3:DLCNukaWorld.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.9,
+  "NAM7": 0.0,
+  "HeightMax": 1.2,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "02AEF9:DLCNukaWorld.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

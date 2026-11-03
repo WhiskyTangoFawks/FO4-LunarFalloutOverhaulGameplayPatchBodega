@@ -1,0 +1,57 @@
+{
+  "FormKey": "0090AC:LunarFalloutOverhaul.esp",
+  "EditorID": "MR_FileCabinet_Rare",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0330B4:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.95
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0330F1:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.95
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0366C1:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.95
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "05821A:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.95
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "11DA13:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.95
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000A34:ScrapHeap-AJunkMod.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

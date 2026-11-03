@@ -1,0 +1,11 @@
+{
+  "FormKey": "00ADB2:DLCNukaWorld.esm",
+  "EditorID": "DLC04TransitCenterZone",
+  "Location": "007EC4:DLCNukaWorld.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

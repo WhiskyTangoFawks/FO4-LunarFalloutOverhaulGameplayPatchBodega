@@ -1,0 +1,11 @@
+{
+  "FormKey": "0BB43D:Fallout4.esm",
+  "EditorID": "ReconBunkerThetaZone",
+  "FormVersion": 118,
+  "Location": "0B882D:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

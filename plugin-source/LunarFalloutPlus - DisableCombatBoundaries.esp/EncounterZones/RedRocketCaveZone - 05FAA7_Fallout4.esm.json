@@ -1,0 +1,11 @@
+{
+  "FormKey": "05FAA7:Fallout4.esm",
+  "EditorID": "RedRocketCaveZone",
+  "FormVersion": 112,
+  "Location": "05FAA8:Fallout4.esm",
+  "MinLevel": 4,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 9
+}

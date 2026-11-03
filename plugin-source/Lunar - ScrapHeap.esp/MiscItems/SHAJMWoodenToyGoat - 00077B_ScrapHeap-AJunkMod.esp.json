@@ -1,0 +1,32 @@
+{
+  "FormKey": "00077B:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMWoodenToyGoat",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-3, -7, 0",
+    "Second": "3, 7, 11"
+  },
+  "PreviewTransform": "248C97:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wooden Toy Goat"
+  },
+  "Model": {
+    "File": "Props\\WoodenToyGoat\\WoodenToyGoat.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 8,
+  "Weight": 1.0,
+  "Components": [
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "FormKey": "022A9B:LunarFalloutOverhaul.esp",
+  "EditorID": "MR_FileCabinet_Loot_looted",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0090AB:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0090AB:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.85
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "022A9E:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.98
+      }
+    }
+  ]
+}

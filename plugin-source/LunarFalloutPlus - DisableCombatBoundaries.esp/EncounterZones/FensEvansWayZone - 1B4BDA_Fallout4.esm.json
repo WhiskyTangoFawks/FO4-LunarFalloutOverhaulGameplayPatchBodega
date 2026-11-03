@@ -1,0 +1,11 @@
+{
+  "FormKey": "1B4BDA:Fallout4.esm",
+  "EditorID": "FensEvansWayZone",
+  "FormVersion": 120,
+  "Location": "1B4BD9:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

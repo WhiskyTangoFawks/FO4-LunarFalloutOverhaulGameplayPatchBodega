@@ -1,0 +1,137 @@
+{
+  "FormKey": "02793D:DLCCoast.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC03_EncGulper04",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 67,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 46,
+  "CalcMaxLevel": 80,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7996",
+  "Unknown": -15081,
+  "Factions": [
+    {
+      "Faction": "02793F:DLCCoast.esm"
+    }
+  ],
+  "DeathItem": "046021:DLCCoast.esm",
+  "Voice": "029A0B:DLCCoast.esm",
+  "DefaultTemplate": "0247C4:DLCCoast.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "0247C4:DLCCoast.esm",
+    "SpellListTemplate": "0247C4:DLCCoast.esm",
+    "AiDataTemplate": "0247C4:DLCCoast.esm",
+    "AiPackagesTemplate": "0247C4:DLCCoast.esm",
+    "InventoryTemplate": "0247C4:DLCCoast.esm",
+    "ScriptTemplate": "0247C4:DLCCoast.esm",
+    "DefPackListTemplate": "0247C4:DLCCoast.esm",
+    "AttackDataTemplate": "0247C4:DLCCoast.esm",
+    "KeywordsTemplate": "0247C4:DLCCoast.esm"
+  },
+  "Race": "0247C1:DLCCoast.esm",
+  "Skin": "03E0F6:DLCCoast.esm",
+  "AttackRace": "0247C1:DLCCoast.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 9.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 465.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DE:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 90.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 90.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 180.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 100,
+  "Responsibility": "NoCrime",
+  "Keywords": [
+    "2243AA:Fallout4.esm"
+  ],
+  "Class": "05F96C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gulper Devourer"
+  },
+  "CalculatedHealth": 1200,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 66,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "04AED8:DLCCoast.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.15,
+  "NAM7": 0.0,
+  "HeightMax": 1.15,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "054451:DLCCoast.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

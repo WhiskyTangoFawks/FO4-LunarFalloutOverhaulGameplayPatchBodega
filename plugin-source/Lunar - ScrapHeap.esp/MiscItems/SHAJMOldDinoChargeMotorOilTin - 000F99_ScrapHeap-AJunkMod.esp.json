@@ -1,0 +1,29 @@
+{
+  "FormKey": "000F99:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMOldDinoChargeMotorOilTin",
+  "ObjectBounds": {
+    "First": "-8, -4, 0",
+    "Second": "8, 4, 22"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Dino Charge Oil Tin"
+  },
+  "Model": {
+    "File": "Props\\OldDinoChargeMotorOilTin\\OldDinoChargeMotorOilTin.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 60,
+  "Weight": 10.0,
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 5
+    }
+  ]
+}

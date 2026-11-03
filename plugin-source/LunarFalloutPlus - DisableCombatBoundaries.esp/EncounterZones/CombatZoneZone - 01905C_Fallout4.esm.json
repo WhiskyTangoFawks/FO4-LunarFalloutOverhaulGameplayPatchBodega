@@ -1,0 +1,12 @@
+{
+  "FormKey": "01905C:Fallout4.esm",
+  "EditorID": "CombatZoneZone",
+  "FormVersion": 118,
+  "Location": "01905B:Fallout4.esm",
+  "MinLevel": 8,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

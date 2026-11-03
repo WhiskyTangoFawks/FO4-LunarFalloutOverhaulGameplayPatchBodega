@@ -1,0 +1,12 @@
+{
+  "FormKey": "1BC41D:Fallout4.esm",
+  "EditorID": "InstituteStorageZone",
+  "FormVersion": 128,
+  "Location": "1BC41C:Fallout4.esm",
+  "MinLevel": 10,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

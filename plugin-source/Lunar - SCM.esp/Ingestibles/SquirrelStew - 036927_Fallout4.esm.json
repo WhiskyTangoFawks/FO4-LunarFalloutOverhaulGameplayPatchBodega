@@ -1,0 +1,57 @@
+{
+  "FormKey": "036927:Fallout4.esm",
+  "EditorID": "SquirrelStew",
+  "ObjectBounds": {
+    "First": "-6, -7, 0",
+    "Second": "6, 7, 5"
+  },
+  "PreviewTransform": "239FBC:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Squirrel Stew"
+  },
+  "Keywords": [
+    "000884:Fallout4.esm",
+    "055ECC:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\SquirrelSoup.nif",
+    "Data": "0x040000000400000000000000020000000100000080BA288B64647300B64C8CDC59D62EE864647300B64C8CDC473FFB0864647300B64C8CDC71D5D693646473001CDB88C515A7C20B6267736D11388219"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+2% XP gain for 2 hours."
+  },
+  "Weight": 0.5,
+  "Value": 35,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "10E2EA:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 10.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "211891:Fallout4.esm",
+      "Data": {
+        "Duration": 7200
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 2.0
+      }
+    }
+  ]
+}

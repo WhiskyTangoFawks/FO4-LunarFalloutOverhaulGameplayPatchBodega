@@ -1,0 +1,50 @@
+{
+  "FormKey": "0090AB:LunarFalloutOverhaul.esp",
+  "EditorID": "MR_FileCabinet_Basic",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059AF8:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140AF0:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140AF0:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140AF0:Fallout4.esm",
+        "Count": 2,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "140D99:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    }
+  ]
+}

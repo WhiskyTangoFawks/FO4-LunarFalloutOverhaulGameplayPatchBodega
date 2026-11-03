@@ -1,0 +1,11 @@
+{
+  "FormKey": "056DC2:DLCNukaWorld.esm",
+  "EditorID": "DLC04NukaWorldWorkshopZone",
+  "Location": "00BCED:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

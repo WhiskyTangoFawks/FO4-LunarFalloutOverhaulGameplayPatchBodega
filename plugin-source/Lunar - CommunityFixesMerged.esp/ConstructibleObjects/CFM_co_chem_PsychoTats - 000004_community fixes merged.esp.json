@@ -1,0 +1,27 @@
+{
+  "FormKey": "000004:community fixes merged.esp",
+  "EditorID": "CFM_co_chem_PsychoTats",
+  "Components": [
+    {
+      "Component": "03377B:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "03377D:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "WorkbenchKeyword": "102158:Fallout4.esm",
+  "Categories": [
+    "10215A:Fallout4.esm"
+  ],
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

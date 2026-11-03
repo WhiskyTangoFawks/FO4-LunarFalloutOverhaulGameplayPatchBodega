@@ -1,0 +1,68 @@
+{
+  "FormKey": "058AA7:Fallout4.esm",
+  "EditorID": "Calmex",
+  "ObjectBounds": {
+    "First": "-1, -20, 0",
+    "Second": "1, 12, 2"
+  },
+  "PreviewTransform": "248D5F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Calmex"
+  },
+  "Keywords": [
+    "0A7296:Fallout4.esm",
+    "0F4AE7:Fallout4.esm",
+    "246BFC:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "Props\\Calmex.nif",
+    "Data": "0x040000000400000000000000020000000000000018DC31FF64647300B7D70CE1C1B0379C64647300B7D70CE1DF59E27C64647300B7D70CE1BF8E4DFA646473001CDB88C5"
+  },
+  "PickUpSound": "249C47:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+3 Perception, +3 Agility and 2x Multiplier To Sneak Attacks for 10 minutes."
+  },
+  "Weight": 0.1,
+  "Value": 100,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "Addiction": "156D0C:Fallout4.esm",
+  "AddictionChance": 0.07,
+  "ConsumeSound": "245D01:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "246BF6:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.0,
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "246BF8:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.0,
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "246BFA:Fallout4.esm",
+      "Data": {
+        "Duration": 600
+      }
+    },
+    {
+      "BaseEffect": "246BFB:Fallout4.esm",
+      "Data": {
+        "Magnitude": 35.0
+      }
+    }
+  ]
+}

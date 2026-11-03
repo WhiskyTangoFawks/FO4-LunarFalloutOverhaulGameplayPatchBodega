@@ -1,0 +1,42 @@
+{
+  "FormKey": "022A9F:LunarFalloutOverhaul.esp",
+  "EditorID": "MR_TechFilingCabinet_Loot",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0090AB:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.65
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "022AA0:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.85
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "022AA0:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "022AA1:LunarFalloutOverhaul.esp",
+        "Count": 1,
+        "ChanceNone": 0.96
+      }
+    }
+  ]
+}

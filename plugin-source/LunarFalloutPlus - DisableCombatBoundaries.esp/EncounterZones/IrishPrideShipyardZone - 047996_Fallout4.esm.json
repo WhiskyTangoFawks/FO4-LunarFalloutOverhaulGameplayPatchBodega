@@ -1,0 +1,11 @@
+{
+  "FormKey": "047996:Fallout4.esm",
+  "EditorID": "IrishPrideShipyardZone",
+  "FormVersion": 128,
+  "Location": "047995:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

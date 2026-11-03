@@ -1,0 +1,10 @@
+{
+  "FormKey": "02074B:DLCCoast.esm",
+  "EditorID": "DLC03LongfellowsCabinZone",
+  "Location": "020649:DLCCoast.esm",
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ]
+}

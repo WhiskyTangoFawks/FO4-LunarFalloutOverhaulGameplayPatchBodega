@@ -1,0 +1,11 @@
+{
+  "FormKey": "04B2C3:Fallout4.esm",
+  "EditorID": "PoseidonEnergyZone",
+  "FormVersion": 128,
+  "Location": "04B2C2:Fallout4.esm",
+  "MinLevel": 45,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

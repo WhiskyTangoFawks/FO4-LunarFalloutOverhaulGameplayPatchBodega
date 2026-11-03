@@ -1,0 +1,253 @@
+{
+  "FormKey": "019E7F:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC04_EncClownGhoul04",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 32,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 22,
+  "CalcMaxLevel": 31,
+  "DispositionBase": 35,
+  "UseTemplateActors": "Stats",
+  "Unknown": 29779,
+  "Factions": [
+    {
+      "Faction": "077C6C:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "087927:Fallout4.esm",
+  "Voice": "09B20A:Fallout4.esm",
+  "DefaultTemplate": "07ED09:Fallout4.esm",
+  "TemplateActors": {
+    "StatsTemplate": "07ED09:Fallout4.esm"
+  },
+  "Race": "06B4EC:Fallout4.esm",
+  "AttackRace": "06B4EC:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 2.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 35.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002E4:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 60.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "019E89:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "019E76:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "019E77:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "019E78:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "019E79:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "019E7A:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "019E7B:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "SkinBase"
+      },
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "019E7C:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "123E16:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Painted Ghoul"
+  },
+  "CalculatedHealth": 180,
+  "GearedUpWeapons": 1,
+  "CombatStyle": "09990E:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.95,
+  "NAM7": 0.0,
+  "HeightMax": 1.05,
+  "Weight": {
+    "Thin": 3.4028235E+38,
+    "Muscular": 3.4028235E+38,
+    "Fat": 3.4028235E+38
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "098175:Fallout4.esm",
+  "DefaultOutfit": "08EC47:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#D5CCCA",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

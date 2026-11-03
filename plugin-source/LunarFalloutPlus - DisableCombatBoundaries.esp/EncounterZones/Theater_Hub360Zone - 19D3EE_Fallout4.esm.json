@@ -1,0 +1,11 @@
+{
+  "FormKey": "19D3EE:Fallout4.esm",
+  "EditorID": "Theater_Hub360Zone",
+  "FormVersion": 128,
+  "Location": "19D3EA:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

@@ -1,0 +1,241 @@
+{
+  "FormKey": "01D15C:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "VersionControl": 8742,
+  "EditorID": "Dogmeat",
+  "Version2": 8,
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "workshopnpcscript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "WorkshopParent",
+            "Object": "02058E:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptBoolProperty",
+            "Name": "bCountsForPopulation"
+          }
+        ]
+      },
+      {
+        "Name": "CompanionMod:AAACombatStyle",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "LongRange",
+            "Object": "000800:Lunar - EverybodiesBestFriend.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Health",
+            "Object": "0002D4:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptFloatProperty",
+            "Name": "HighHealth",
+            "Data": 0.3
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ShortRange",
+            "Object": "000801:Lunar - EverybodiesBestFriend.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptFloatProperty",
+            "Name": "LowHealth",
+            "Data": 0.3
+          }
+        ]
+      },
+      {
+        "Name": "dogmeatactorscript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Dogmeat_Neutral_ToyShake",
+            "Object": "1D2497:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "HomeLocation",
+            "Object": "024FAB:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "TeddyBear",
+            "Object": "059B14:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "CurrentCompanionFaction",
+            "Object": "023C01:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-16, -64, 0",
+    "Second": "16, 43, 79"
+  },
+  "Flags": [
+    "Essential",
+    "AutoCalcStats",
+    "Unique"
+  ],
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 1,
+  "CalcMaxLevel": 100,
+  "DispositionBase": 35,
+  "Unknown": -15708,
+  "Factions": [
+    {
+      "Faction": "06E269:Fallout4.esm"
+    },
+    {
+      "Faction": "0A1B85:Fallout4.esm",
+      "Rank": -1
+    },
+    {
+      "Faction": "106C30:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "02EF6B:Fallout4.esm",
+  "Voice": "019FE2:Fallout4.esm",
+  "Race": "01D698:Fallout4.esm",
+  "ActorEffect": [
+    "215CD3:Fallout4.esm"
+  ],
+  "Skin": "01D725:Fallout4.esm",
+  "CombatOverridePackageList": "0782A7:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "04C935:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0B9882:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0B9883:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0B9884:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "169693:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1D33D7:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1D4AB7:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002BF:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 140.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D7:Fallout4.esm",
+      "Value": 75.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DC:Fallout4.esm",
+      "Value": -90.0
+    },
+    {
+      "ActorValue": "000358:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Average",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "Packages": [
+    "03E2BE:Fallout4.esm",
+    "23B478:Fallout4.esm",
+    "01D568:Fallout4.esm"
+  ],
+  "Keywords": [
+    "0AD52A:Fallout4.esm",
+    "160493:Fallout4.esm",
+    "0F23C5:Fallout4.esm"
+  ],
+  "Class": "1CD0A9:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Dog"
+  },
+  "CalculatedHealth": 150,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "000801:Lunar - EverybodiesBestFriend.esp",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "03D766:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

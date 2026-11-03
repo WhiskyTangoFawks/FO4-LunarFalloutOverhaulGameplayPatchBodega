@@ -1,0 +1,9 @@
+{
+  "FormKey": "1D2082:Fallout4.esm",
+  "EditorID": "RelayTower05Zone",
+  "FormVersion": 124,
+  "Location": "1D2081:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

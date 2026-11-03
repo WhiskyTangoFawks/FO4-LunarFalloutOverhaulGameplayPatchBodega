@@ -1,0 +1,41 @@
+{
+  "FormKey": "0A1337:Fallout4.esm",
+  "EditorID": "ArtillerySmokeFlareProjectile",
+  "ObjectBounds": {
+    "First": "-2, -2, -32",
+    "Second": "2, 2, -1"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Smoke Flare"
+  },
+  "Model": {
+    "File": "Weapons\\Flare\\AmmoFlareSignalProjectile.nif",
+    "Data": "0x0400000004000000000000000200000000000000C32A6A9364647300BE643C4CBD95063A64647300BE643C4CA6A09D25646473007801BBA0B8EC307B646473001CDB88C5"
+  },
+  "Unused": "[]",
+  "Flags": [
+    "Explosion",
+    "CanBePickedUp",
+    "DisableCombatAimCorrection"
+  ],
+  "Type": "Lobber",
+  "Gravity": 0.5,
+  "Speed": 1400.0,
+  "Range": 15000.0,
+  "MuzzleFlash": "004B29:Fallout4.esm",
+  "ExplosionAltTriggerTimer": 10.0,
+  "Explosion": "0A133A:Fallout4.esm",
+  "Sound": "01D565:Fallout4.esm",
+  "MuzzleFlashDuration": 0.05,
+  "FadeDuration": 5.0,
+  "ImpactForce": 7.0,
+  "CollisionRadius": 10.0,
+  "Lifetime": 5.0,
+  "RelaunchInterval": 0.25,
+  "CollisionLayer": "088766:Fallout4.esm",
+  "TracerFrequency": 4,
+  "MuzzleFlashModel": "Effects\\MuzMachineGun01.nif",
+  "TextureFilesHashes": "0x040000000100000003000000010000000000000051EDC5736464730038973CEA000000000100000011000000",
+  "SoundLevel": 2
+}

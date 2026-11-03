@@ -1,0 +1,11 @@
+{
+  "FormKey": "03D7E5:Fallout4.esm",
+  "EditorID": "FallonsDepartmentStoreZone",
+  "FormVersion": 127,
+  "Location": "03D7E4:Fallout4.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

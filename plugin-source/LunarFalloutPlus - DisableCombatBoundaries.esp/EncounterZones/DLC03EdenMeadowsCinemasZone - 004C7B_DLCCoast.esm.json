@@ -1,0 +1,11 @@
+{
+  "FormKey": "004C7B:DLCCoast.esm",
+  "EditorID": "DLC03EdenMeadowsCinemasZone",
+  "Location": "004C7C:DLCCoast.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

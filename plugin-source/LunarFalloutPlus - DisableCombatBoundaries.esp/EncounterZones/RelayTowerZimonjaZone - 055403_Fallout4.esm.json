@@ -1,0 +1,11 @@
+{
+  "FormKey": "055403:Fallout4.esm",
+  "EditorID": "RelayTowerZimonjaZone",
+  "Location": "055402:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

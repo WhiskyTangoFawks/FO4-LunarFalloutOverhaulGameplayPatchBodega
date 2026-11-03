@@ -1,0 +1,40 @@
+{
+  "FormKey": "000F18:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMRustyThermos",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-2, -3, 0",
+    "Second": "4, 3, 20"
+  },
+  "PreviewTransform": "23E9F6:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rusty Thermos"
+  },
+  "Model": {
+    "File": "Props\\RustyThermos\\RustyThermos.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 15,
+  "Weight": 0.5,
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

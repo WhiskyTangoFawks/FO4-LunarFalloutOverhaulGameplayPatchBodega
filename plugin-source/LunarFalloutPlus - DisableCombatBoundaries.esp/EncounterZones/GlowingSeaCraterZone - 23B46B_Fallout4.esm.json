@@ -1,0 +1,12 @@
+{
+  "FormKey": "23B46B:Fallout4.esm",
+  "EditorID": "GlowingSeaCraterZone",
+  "FormVersion": 130,
+  "Location": "23B46A:Fallout4.esm",
+  "Rank": 255,
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 60
+}

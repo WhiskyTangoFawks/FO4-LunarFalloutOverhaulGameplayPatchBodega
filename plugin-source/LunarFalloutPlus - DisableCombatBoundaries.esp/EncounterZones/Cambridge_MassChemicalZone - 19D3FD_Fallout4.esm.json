@@ -1,0 +1,9 @@
+{
+  "FormKey": "19D3FD:Fallout4.esm",
+  "EditorID": "Cambridge_MassChemicalZone",
+  "FormVersion": 119,
+  "Location": "19D3FC:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

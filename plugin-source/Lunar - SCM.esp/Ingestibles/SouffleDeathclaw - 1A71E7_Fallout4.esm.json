@@ -1,0 +1,52 @@
+{
+  "FormKey": "1A71E7:Fallout4.esm",
+  "EditorID": "SouffleDeathclaw",
+  "ObjectBounds": {
+    "First": "-4, -4, 0",
+    "Second": "4, 4, 8"
+  },
+  "PreviewTransform": "2495EE:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Deathclaw Wellingham"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007283:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\DeathclawSouffle.nif",
+    "Data": "0x04000000040000000000000002000000010000005E2AA2A964647300B64C8CDC8746A4CA64647300B64C8CDC99AF712A64647300B64C8CDCF38E12C4646473001CDB88C5CDF7FF856267736D11388219"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increased heal rate for 2 hours"
+  },
+  "Weight": 0.5,
+  "Value": 180,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0B9B61:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 11.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "04695F:Fallout4.esm",
+      "Data": {
+        "Magnitude": 0.03,
+        "Duration": 7200
+      }
+    }
+  ]
+}

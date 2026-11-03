@@ -1,0 +1,9 @@
+{
+  "FormKey": "19D3F5:Fallout4.esm",
+  "EditorID": "CambridgeDinerZone",
+  "FormVersion": 119,
+  "Location": "19D3F4:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

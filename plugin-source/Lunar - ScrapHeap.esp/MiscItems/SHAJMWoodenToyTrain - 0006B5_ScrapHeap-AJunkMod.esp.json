@@ -1,0 +1,32 @@
+{
+  "FormKey": "0006B5:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMWoodenToyTrain",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-6, -3, 0",
+    "Second": "5, 3, 9"
+  },
+  "PreviewTransform": "248D7F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wooden Toy Train"
+  },
+  "Model": {
+    "File": "Props\\WoodenToyTrain\\WoodenToyTrain.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 6,
+  "Weight": 0.4,
+  "Components": [
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

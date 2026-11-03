@@ -1,0 +1,11 @@
+{
+  "FormKey": "0217A0:Fallout4.esm",
+  "EditorID": "UniversityPointZone",
+  "FormVersion": 128,
+  "Location": "02179F:Fallout4.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

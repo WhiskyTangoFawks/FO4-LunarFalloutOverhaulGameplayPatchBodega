@@ -1,0 +1,10 @@
+{
+  "FormKey": "011363:DLCRobot.esm",
+  "EditorID": "DLC01GeneralAtomicsFactoryZone",
+  "Location": "011362:DLCRobot.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

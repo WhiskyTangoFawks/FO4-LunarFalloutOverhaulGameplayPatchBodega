@@ -1,0 +1,11 @@
+{
+  "FormKey": "050C09:Fallout4.esm",
+  "EditorID": "JamaicaPlainZone",
+  "Location": "050C08:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

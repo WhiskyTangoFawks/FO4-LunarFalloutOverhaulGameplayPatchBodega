@@ -1,0 +1,10 @@
+{
+  "FormKey": "1680C2:Fallout4.esm",
+  "EditorID": "CambridgeCraterZone",
+  "Location": "1680C3:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

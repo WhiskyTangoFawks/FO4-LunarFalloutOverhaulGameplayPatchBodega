@@ -1,0 +1,84 @@
+{
+  "FormKey": "017C73:Fallout4.esm",
+  "EditorID": "NoodleCup",
+  "ObjectBounds": {
+    "First": "-6, -6, 0",
+    "Second": "6, 6, 7"
+  },
+  "PreviewTransform": "239FBC:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Noodle Cup"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000884:Fallout4.esm",
+    "007281:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\NoodleBowl01.nif",
+    "Data": "0x040000000800000000000000040000000000000008B3538164647300B64C8CDCD1DF55E264647300B64C8CDCF0C9598D64647300B64C8CDC29A55FEE64647300B64C8CDC6E56051A64647300B64C8CDC6BBB96D1646473001CDB88C5DF87461D64647300B64C8CDCB8EC307B646473001CDB88C5"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.5,
+  "Value": 20,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "10E2EA:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 4.0,
+        "Duration": 10
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0xE4A8DA",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "HasPerk",
+            "ParameterOneRecord": "1C63E6:Fallout4.esm",
+            "ParameterOneNumber": 1860582
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 2.0
+      }
+    },
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 6.0,
+        "Duration": 10
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0xE4A8DA",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "HasPerk",
+            "ParameterOneRecord": "1C63E6:Fallout4.esm",
+            "ParameterOneNumber": 1860582
+          }
+        }
+      ]
+    }
+  ]
+}

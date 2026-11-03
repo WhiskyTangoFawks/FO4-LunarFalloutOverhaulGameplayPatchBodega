@@ -1,0 +1,11 @@
+{
+  "FormKey": "01FA57:Fallout4.esm",
+  "EditorID": "SpectacleIslandZone",
+  "Location": "08281C:Fallout4.esm",
+  "MinLevel": 45,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

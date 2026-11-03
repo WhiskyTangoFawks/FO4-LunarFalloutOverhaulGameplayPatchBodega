@@ -1,0 +1,10 @@
+{
+  "FormKey": "04E131:DLCNukaWorld.esm",
+  "EditorID": "DLC04BradbertonZone",
+  "Location": "04E130:DLCNukaWorld.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

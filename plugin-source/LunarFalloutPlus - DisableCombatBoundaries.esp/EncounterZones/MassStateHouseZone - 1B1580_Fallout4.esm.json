@@ -1,0 +1,11 @@
+{
+  "FormKey": "1B1580:Fallout4.esm",
+  "EditorID": "MassStateHouseZone",
+  "FormVersion": 128,
+  "Location": "1B157F:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

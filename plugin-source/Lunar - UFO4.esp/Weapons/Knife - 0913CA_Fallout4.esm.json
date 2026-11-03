@@ -1,0 +1,151 @@
+{
+  "FormKey": "0913CA:Fallout4.esm",
+  "MajorRecordFlagsRaw": 1073741824,
+  "EditorID": "Knife",
+  "Fallout4MajorRecordFlags": [
+    "0x40000000"
+  ],
+  "ObjectBounds": {
+    "First": "-2, -7, -1",
+    "Second": "2, 18, 1"
+  },
+  "PreviewTransform": "10A2C4:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Combat Knife"
+  },
+  "Model": {
+    "File": "Weapons\\Knife\\1stPersonKnife.nif",
+    "Data": "0x040000000700000000000000040000000200000000A3138B64647300AF8B9FD2D9CF15E864647300AF8B9FD203D8C24064647300A0B863051D3117A064647300A0B863053F76F7A8646473001CDB88C5C726C00864647300AF8B9FD20F2C2A00646473001CDB88C5D6597AEE6267736DB98041FD356F627C6267736D3BF5C718"
+  },
+  "EquipmentType": "013F42:Fallout4.esm",
+  "AlternateBlockMaterial": "0D525E:Fallout4.esm",
+  "Keywords": [
+    "023465:Fallout4.esm",
+    "04A0A4:Fallout4.esm",
+    "0CF6B7:Fallout4.esm",
+    "0D20A6:Fallout4.esm",
+    "0F4AEA:Fallout4.esm",
+    "10C89B:Fallout4.esm",
+    "187A0B:Fallout4.esm",
+    "00D242:Unofficial Fallout 4 Patch.esp"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "InstanceNaming": "0B9738:Fallout4.esm",
+  "AttachParentSlots": [
+    "05524C:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Default"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "17650C:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Standard"
+      },
+      "Keywords": [
+        "027FA2:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "17650C:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Standard Epic"
+      },
+      "AddonIndex": 1,
+      "Keywords": [
+        "05F42D:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "23030E:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Simple"
+      },
+      "Keywords": [
+        "230300:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "17650C:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Simple Epic"
+      },
+      "AddonIndex": 3,
+      "Keywords": [
+        "05F42D:Fallout4.esm"
+      ]
+    }
+  ],
+  "FirstPersonModel": {
+    "File": "Weapons\\Knife\\1stPersonKnife_1.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Speed": 1.0,
+  "ReloadSpeed": 1.0,
+  "Reach": 0.8,
+  "MaxRange": 10.0,
+  "DamageOutOfRangeMult": -1.0,
+  "OnHit": "DismemberOnly",
+  "Flags": [
+    "CritEffectOnDeath"
+  ],
+  "AnimationType": "OneHandSword",
+  "SecondaryDamage": -107374180.0,
+  "Weight": 0.7,
+  "Value": 45,
+  "BaseDamage": 18,
+  "SoundLevel": "Silent",
+  "AttackSound": "0D514B:Fallout4.esm",
+  "EquipSound": "2498B3:Fallout4.esm",
+  "UnequipSound": "1526AC:Fallout4.esm",
+  "FastEquipSound": "2498B5:Fallout4.esm",
+  "AnimationAttackSeconds": 0.771804,
+  "ActionPointCost": 20.0,
+  "Unknown3": 2139095039,
+  "CritDamageMult": 2.0,
+  "CritChargeBonus": 1.0,
+  "ImpactDataSet": "0D514F:Fallout4.esm",
+  "MeleeSpeed": "Fast",
+  "MajorFlags": [
+    "0x40000000"
+  ]
+}

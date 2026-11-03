@@ -1,0 +1,11 @@
+{
+  "FormKey": "02555F:Fallout4.esm",
+  "EditorID": "CambridgePolymerLabsZone",
+  "Location": "025560:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

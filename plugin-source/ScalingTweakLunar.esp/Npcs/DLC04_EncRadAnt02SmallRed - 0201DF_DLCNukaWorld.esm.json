@@ -1,0 +1,154 @@
+{
+  "FormKey": "0201DF:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC04_EncRadAnt02SmallRed",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 3,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 10,
+  "CalcMaxLevel": 19,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7980",
+  "Unknown": 8223,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "028670:Fallout4.esm"
+    },
+    {
+      "Faction": "0EDCE1:Fallout4.esm"
+    },
+    {
+      "Faction": "0431BC:DLCNukaWorld.esm"
+    },
+    {
+      "Faction": "04B063:DLCNukaWorld.esm"
+    }
+  ],
+  "DeathItem": "0138F0:DLCNukaWorld.esm",
+  "Voice": "0138EB:DLCNukaWorld.esm",
+  "DefaultTemplate": "00CE60:DLCNukaWorld.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "00CE60:DLCNukaWorld.esm",
+    "SpellListTemplate": "00CE60:DLCNukaWorld.esm",
+    "AiPackagesTemplate": "00CE60:DLCNukaWorld.esm",
+    "InventoryTemplate": "00CE60:DLCNukaWorld.esm",
+    "ScriptTemplate": "00CE60:DLCNukaWorld.esm",
+    "DefPackListTemplate": "00CE60:DLCNukaWorld.esm",
+    "AttackDataTemplate": "00CE60:DLCNukaWorld.esm",
+    "KeywordsTemplate": "00CE60:DLCNukaWorld.esm"
+  },
+  "Race": "00CE5E:DLCNukaWorld.esm",
+  "Skin": "03B49D:DLCNukaWorld.esm",
+  "AttackRace": "00CE5E:DLCNukaWorld.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 8.0
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": -38.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 15.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 75,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsFriendsAndAllies",
+  "Keywords": [
+    "013795:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Properties": [
+        {
+          "MutagenObjectType": "ObjectModFormLinkIntProperty<Npc+Property>",
+          "Property": "MaterialSwaps",
+          "Record": "027702:DLCNukaWorld.esm",
+          "Value": 1,
+          "FunctionType": "Add"
+        }
+      ]
+    }
+  ],
+  "Class": "05F971:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Small Soldier Ant"
+  },
+  "CalculatedHealth": 55,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0138F1:DLCNukaWorld.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.55,
+  "NAM7": 0.0,
+  "HeightMax": 0.65,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

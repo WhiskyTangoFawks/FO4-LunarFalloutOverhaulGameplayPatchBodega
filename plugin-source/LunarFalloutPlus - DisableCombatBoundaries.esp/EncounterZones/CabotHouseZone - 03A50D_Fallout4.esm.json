@@ -1,0 +1,11 @@
+{
+  "FormKey": "03A50D:Fallout4.esm",
+  "EditorID": "CabotHouseZone",
+  "FormVersion": 130,
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 20
+}

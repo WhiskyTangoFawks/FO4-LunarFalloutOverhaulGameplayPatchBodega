@@ -1,0 +1,10 @@
+{
+  "FormKey": "01AC0A:Fallout4.esm",
+  "EditorID": "ConcordZone",
+  "FormVersion": 42,
+  "Location": "017E00:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 10
+}

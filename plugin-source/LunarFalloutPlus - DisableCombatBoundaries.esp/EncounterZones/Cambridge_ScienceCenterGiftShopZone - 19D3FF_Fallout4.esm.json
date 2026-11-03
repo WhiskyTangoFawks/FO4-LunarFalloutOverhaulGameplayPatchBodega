@@ -1,0 +1,12 @@
+{
+  "FormKey": "19D3FF:Fallout4.esm",
+  "EditorID": "Cambridge_ScienceCenterGiftShopZone",
+  "FormVersion": 128,
+  "Location": "19D3FE:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "0258E1:DLCCoast.esm",
+  "EditorID": "DLC03PineCrestCavernZone",
+  "Location": "0258DF:DLCCoast.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

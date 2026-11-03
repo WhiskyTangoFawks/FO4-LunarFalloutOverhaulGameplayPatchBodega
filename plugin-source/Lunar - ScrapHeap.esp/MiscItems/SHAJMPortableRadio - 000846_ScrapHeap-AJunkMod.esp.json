@@ -1,0 +1,40 @@
+{
+  "FormKey": "000846:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMPortableRadio",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-5, -2, 0",
+    "Second": "4, 3, 18"
+  },
+  "PreviewTransform": "239FB3:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Portable Radio"
+  },
+  "Model": {
+    "File": "Props\\PortableRadio\\PortableRadio.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 45,
+  "Weight": 2.0,
+  "Components": [
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

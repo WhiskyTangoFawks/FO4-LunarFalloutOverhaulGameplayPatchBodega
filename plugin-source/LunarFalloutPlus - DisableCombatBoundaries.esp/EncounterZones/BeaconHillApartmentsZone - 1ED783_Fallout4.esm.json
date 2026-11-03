@@ -1,0 +1,9 @@
+{
+  "FormKey": "1ED783:Fallout4.esm",
+  "EditorID": "BeaconHillApartmentsZone",
+  "FormVersion": 126,
+  "Location": "1ED782:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

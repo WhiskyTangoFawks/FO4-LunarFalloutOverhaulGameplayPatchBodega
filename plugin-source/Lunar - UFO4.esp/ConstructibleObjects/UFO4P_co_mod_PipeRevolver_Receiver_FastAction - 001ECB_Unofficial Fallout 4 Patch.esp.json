@@ -1,0 +1,31 @@
+{
+  "FormKey": "001ECB:Unofficial Fallout 4 Patch.esp",
+  "EditorID": "UFO4P_co_mod_PipeRevolver_Receiver_FastAction",
+  "Components": [
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "03D294:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "016668:DLCCoast.esm",
+  "EditorID": "DLC03AlderseaDaySpaZone",
+  "Location": "016667:DLCCoast.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

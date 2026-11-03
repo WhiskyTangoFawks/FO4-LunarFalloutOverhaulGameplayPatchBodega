@@ -1,0 +1,12 @@
+{
+  "FormKey": "094198:Fallout4.esm",
+  "EditorID": "SalemWitchMuseumZone",
+  "FormVersion": 128,
+  "Location": "02C144:Fallout4.esm",
+  "MinLevel": 45,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

@@ -1,0 +1,126 @@
+{
+  "FormKey": "01D15A:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncViciousDog01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-16, -64, 0",
+    "Second": "16, 43, 79"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 7,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 3,
+  "CalcMaxLevel": 11,
+  "DispositionBase": 35,
+  "Unknown": 15382,
+  "Factions": [
+    {
+      "Faction": "01D15B:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "02EF6B:Fallout4.esm",
+  "Voice": "01F6A7:Fallout4.esm",
+  "Race": "03578A:Fallout4.esm",
+  "Skin": "035873:Fallout4.esm",
+  "AttackRace": "03578A:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 6.0
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 7.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 1.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 10.0
+    }
+  ],
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 1500,
+  "AggroRadiusWarnOrAttack": 1250,
+  "AggroRadiusAttack": 750,
+  "Keywords": [
+    "136253:Fallout4.esm"
+  ],
+  "Class": "05F96D:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wild Mongrel"
+  },
+  "CalculatedHealth": 50,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "03F2F2:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.85,
+  "NAM7": 0.0,
+  "HeightMax": 1.1,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "03B2A7:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

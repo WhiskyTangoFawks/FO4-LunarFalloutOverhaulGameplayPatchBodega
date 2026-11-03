@@ -1,0 +1,25 @@
+{
+  "FormKey": "000626:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMLuxurySoap",
+  "ObjectBounds": {
+    "First": "-5, -3, 0",
+    "Second": "6, 4, 4"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Luxury Soap"
+  },
+  "Model": {
+    "File": "Props\\LuxurySoap\\LuxurySoap.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 51,
+  "Weight": 0.4,
+  "Components": [
+    {
+      "Component": "01FA96:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

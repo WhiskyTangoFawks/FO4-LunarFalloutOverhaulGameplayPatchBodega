@@ -1,0 +1,52 @@
+{
+  "FormKey": "04A152:Fallout4.esm",
+  "EditorID": "MirelurkCake",
+  "ObjectBounds": {
+    "First": "-7, -5, 0",
+    "Second": "7, 12, 6"
+  },
+  "PreviewTransform": "239524:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mirelurk Cake"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007283:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\MirelurkCake.nif",
+    "Data": "0x04000000030000000000000001000000010000001492CB9864647300B64C8CDCCDFECDFB64647300B64C8CDCD317181B64647300B64C8CDCC9409EDE6267736D11388219"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Breathe underwater for 30 minutes."
+  },
+  "Weight": 0.5,
+  "Value": 35,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 9.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "0469AA:Fallout4.esm",
+      "Data": {
+        "Magnitude": 4.0,
+        "Duration": 1800
+      }
+    }
+  ]
+}

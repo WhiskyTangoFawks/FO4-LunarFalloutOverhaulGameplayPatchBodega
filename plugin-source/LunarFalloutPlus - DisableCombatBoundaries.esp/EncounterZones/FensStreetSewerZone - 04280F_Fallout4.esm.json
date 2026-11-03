@@ -1,0 +1,11 @@
+{
+  "FormKey": "04280F:Fallout4.esm",
+  "EditorID": "FensStreetSewerZone",
+  "FormVersion": 109,
+  "Location": "04280E:Fallout4.esm",
+  "MinLevel": 11,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

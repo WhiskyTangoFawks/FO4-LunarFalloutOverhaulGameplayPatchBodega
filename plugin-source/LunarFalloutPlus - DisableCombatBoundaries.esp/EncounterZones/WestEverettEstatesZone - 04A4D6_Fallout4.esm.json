@@ -1,0 +1,11 @@
+{
+  "FormKey": "04A4D6:Fallout4.esm",
+  "EditorID": "WestEverettEstatesZone",
+  "FormVersion": 109,
+  "Location": "04A4D5:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

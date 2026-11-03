@@ -1,0 +1,11 @@
+{
+  "FormKey": "024FBC:Fallout4.esm",
+  "EditorID": "WaldenPondZone",
+  "Location": "024FAF:Fallout4.esm",
+  "MinLevel": 1,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

@@ -1,0 +1,82 @@
+{
+  "FormKey": "038040:LunarFalloutOverhaul.esp",
+  "EditorID": "mr_lock_valuables",
+  "MaxCount": 3,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "05821E:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059A83:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.5
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "059B34:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "060E77:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "060E7C:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.9
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "060E7D:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.7
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0AEC62:Fallout4.esm",
+        "Count": 2,
+        "ChanceNone": 0.8
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0E3770:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "1C7F28:Fallout4.esm",
+        "Count": 1,
+        "ChanceNone": 0.7
+      }
+    }
+  ]
+}

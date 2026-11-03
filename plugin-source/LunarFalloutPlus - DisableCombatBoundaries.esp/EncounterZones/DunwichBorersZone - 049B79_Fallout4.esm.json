@@ -1,0 +1,11 @@
+{
+  "FormKey": "049B79:Fallout4.esm",
+  "EditorID": "DunwichBorersZone",
+  "FormVersion": 130,
+  "Location": "049B78:Fallout4.esm",
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

@@ -1,0 +1,129 @@
+{
+  "FormKey": "1E23A5:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncRaiderDog02Vicious",
+  "FormVersion": 129,
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-16, -64, 0",
+    "Second": "16, 43, 79"
+  },
+  "Flags": [
+    "AutoCalcStats",
+    "CalcForEachTemplate"
+  ],
+  "XpValueOffset": 12,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 7,
+  "DispositionBase": 35,
+  "UseTemplateActors": "8125",
+  "Factions": [
+    {
+      "Faction": "01CBED:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "02EF6B:Fallout4.esm",
+  "Voice": "01F6A7:Fallout4.esm",
+  "DefaultTemplate": "1CF28C:Fallout4.esm",
+  "TemplateActors": {
+    "TraitTemplate": "01D15A:Fallout4.esm",
+    "FactionsTemplate": "1CF28C:Fallout4.esm",
+    "SpellListTemplate": "1CF28C:Fallout4.esm",
+    "AiDataTemplate": "1CF28C:Fallout4.esm",
+    "AiPackagesTemplate": "1CF28C:Fallout4.esm",
+    "BaseDataTemplate": "1CF28C:Fallout4.esm",
+    "InventoryTemplate": "1CF28C:Fallout4.esm",
+    "ScriptTemplate": "1CF28C:Fallout4.esm",
+    "DefPackListTemplate": "1CF28C:Fallout4.esm",
+    "AttackDataTemplate": "01D15C:Fallout4.esm",
+    "KeywordsTemplate": "1CF28C:Fallout4.esm"
+  },
+  "Race": "03578A:Fallout4.esm",
+  "Skin": "035873:Fallout4.esm",
+  "CombatOverridePackageList": "0782A7:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": -20.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 7.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 15.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 10.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 20.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Assistance": "HelpsFriendsAndAllies",
+  "Keywords": [
+    "024593:Fallout4.esm",
+    "1909D7:Fallout4.esm"
+  ],
+  "Class": "01326B:Fallout4.esm",
+  "CalculatedHealth": 140,
+  "CalculatedActionPoints": 100,
+  "GearedUpWeapons": 1,
+  "Unused": 194,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "03F2F2:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.85,
+  "NAM7": 0.0,
+  "HeightMax": 1.1,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "03B2A7:Fallout4.esm",
+  "DefaultOutfit": "187AFD:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

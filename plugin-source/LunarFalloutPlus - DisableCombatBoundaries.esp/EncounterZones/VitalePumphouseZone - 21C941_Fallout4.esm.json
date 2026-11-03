@@ -1,0 +1,11 @@
+{
+  "FormKey": "21C941:Fallout4.esm",
+  "EditorID": "VitalePumphouseZone",
+  "FormVersion": 128,
+  "Location": "21C940:Fallout4.esm",
+  "MinLevel": 21,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

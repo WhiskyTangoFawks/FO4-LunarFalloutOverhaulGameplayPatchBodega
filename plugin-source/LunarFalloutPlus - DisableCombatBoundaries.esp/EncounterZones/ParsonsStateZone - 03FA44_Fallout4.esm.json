@@ -1,0 +1,12 @@
+{
+  "FormKey": "03FA44:Fallout4.esm",
+  "EditorID": "ParsonsStateZone",
+  "FormVersion": 128,
+  "Location": "03FA43:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 60
+}

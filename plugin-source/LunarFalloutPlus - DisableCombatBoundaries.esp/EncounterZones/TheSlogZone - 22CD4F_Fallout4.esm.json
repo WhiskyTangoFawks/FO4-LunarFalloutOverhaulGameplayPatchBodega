@@ -1,0 +1,11 @@
+{
+  "FormKey": "22CD4F:Fallout4.esm",
+  "EditorID": "TheSlogZone",
+  "Location": "06260D:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

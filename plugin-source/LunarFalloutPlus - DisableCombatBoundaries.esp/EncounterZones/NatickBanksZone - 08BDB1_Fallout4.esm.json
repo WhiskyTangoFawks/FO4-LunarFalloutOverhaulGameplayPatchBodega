@@ -1,0 +1,11 @@
+{
+  "FormKey": "08BDB1:Fallout4.esm",
+  "EditorID": "NatickBanksZone",
+  "FormVersion": 128,
+  "Location": "08BDB2:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

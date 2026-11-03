@@ -1,0 +1,154 @@
+{
+  "FormKey": "029469:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncBloatfly01Template",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-5, -4, -4",
+    "Second": "5, 4, 4"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 5,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.5
+  },
+  "CalcMinLevel": 1,
+  "CalcMaxLevel": 8,
+  "DispositionBase": 35,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "028670:Fallout4.esm"
+    },
+    {
+      "Faction": "0EDCE3:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "0375B8:Fallout4.esm",
+  "Voice": "033206:Fallout4.esm",
+  "Race": "029463:Fallout4.esm",
+  "Skin": "029464:Fallout4.esm",
+  "AttackRace": "029463:Fallout4.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "02A6FC:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "1504FC:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm",
+      "Value": 2.0
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm",
+      "Value": 4.0
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm",
+      "Value": 1.0
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm",
+      "Value": 1.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm",
+      "Value": 2.0
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 3.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm",
+      "Value": 1.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 1.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "1504FB:Fallout4.esm",
+      "Value": 5.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "03175B:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0375BB:Fallout4.esm",
+        "Count": 100
+      }
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Brave",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Keywords": [
+    "0F23C5:Fallout4.esm"
+  ],
+  "Class": "031757:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Bloatfly"
+  },
+  "CalculatedHealth": 25,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "Unused": 54,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "15079C:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.8,
+  "NAM7": 0.0,
+  "HeightMax": 0.9,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0ADE0C:Fallout4.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

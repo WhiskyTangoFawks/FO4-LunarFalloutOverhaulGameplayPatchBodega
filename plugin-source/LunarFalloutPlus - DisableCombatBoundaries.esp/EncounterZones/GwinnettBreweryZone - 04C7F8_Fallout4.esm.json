@@ -1,0 +1,11 @@
+{
+  "FormKey": "04C7F8:Fallout4.esm",
+  "EditorID": "GwinnettBreweryZone",
+  "FormVersion": 127,
+  "Location": "048D92:Fallout4.esm",
+  "MinLevel": 30,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

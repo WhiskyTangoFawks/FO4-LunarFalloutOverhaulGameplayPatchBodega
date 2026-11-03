@@ -1,0 +1,54 @@
+{
+  "FormKey": "04B419:DLCNukaWorld.esm",
+  "EditorID": "DLC04_MeatRadgazelle",
+  "ObjectBounds": {
+    "First": "-5, -8, -20",
+    "Second": "5, 8, 21"
+  },
+  "PreviewTransform": "046B75:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gazelle Meat"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "000899:Fallout4.esm",
+    "00727F:SCM.esp"
+  ],
+  "Model": {
+    "File": "DLC04\\Props\\RadGazelleMeat.nif",
+    "Data": "0x04000000080000000000000003000000020000003E362406646473008C74079DE75A2265646473008C74079D501D693D6464730038973CEA2DC9B3276464730038973CEA89716F5E6464730038973CEA9798BABE6464730038973CEADA8E9291646473001CDB88C5F9B3F785646473008C74079DC5A530726267736D17085809E36142856267736DAF7BAF6A"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.7,
+  "Value": 30,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0,
+        "Duration": 8
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 10.0
+      }
+    }
+  ]
+}

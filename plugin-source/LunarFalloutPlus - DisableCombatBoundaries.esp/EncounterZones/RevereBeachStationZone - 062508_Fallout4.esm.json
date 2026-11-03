@@ -1,0 +1,11 @@
+{
+  "FormKey": "062508:Fallout4.esm",
+  "EditorID": "RevereBeachStationZone",
+  "FormVersion": 128,
+  "Location": "062507:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

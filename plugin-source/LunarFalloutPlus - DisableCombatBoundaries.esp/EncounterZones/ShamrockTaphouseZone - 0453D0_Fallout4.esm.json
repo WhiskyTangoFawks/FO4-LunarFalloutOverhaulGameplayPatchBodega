@@ -1,0 +1,11 @@
+{
+  "FormKey": "0453D0:Fallout4.esm",
+  "EditorID": "ShamrockTaphouseZone",
+  "FormVersion": 109,
+  "Location": "0453CF:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 75
+}

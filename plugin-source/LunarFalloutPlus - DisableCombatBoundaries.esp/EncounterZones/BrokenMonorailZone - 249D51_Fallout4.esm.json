@@ -1,0 +1,10 @@
+{
+  "FormKey": "249D51:Fallout4.esm",
+  "EditorID": "BrokenMonorailZone",
+  "Location": "249D50:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 45
+}

@@ -1,0 +1,137 @@
+{
+  "FormKey": "040C2F:DLCCoast.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "DLC03_EncHermitCrab03",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 68,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.25
+  },
+  "CalcMinLevel": 41,
+  "CalcMaxLevel": 50,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7996",
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "02689D:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "0540A8:DLCCoast.esm",
+  "Voice": "020C30:DLCCoast.esm",
+  "DefaultTemplate": "0180AA:DLCCoast.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "0180AA:DLCCoast.esm",
+    "SpellListTemplate": "0180AA:DLCCoast.esm",
+    "AiDataTemplate": "0180AA:DLCCoast.esm",
+    "AiPackagesTemplate": "0180AA:DLCCoast.esm",
+    "InventoryTemplate": "0180AA:DLCCoast.esm",
+    "ScriptTemplate": "0180AA:DLCCoast.esm",
+    "DefPackListTemplate": "0180AA:DLCCoast.esm",
+    "AttackDataTemplate": "0180AA:DLCCoast.esm",
+    "KeywordsTemplate": "0180AA:DLCCoast.esm"
+  },
+  "Race": "0180A8:DLCCoast.esm",
+  "Skin": "04885F:DLCCoast.esm",
+  "AttackRace": "0180A8:DLCCoast.esm",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 8.0
+    },
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 125.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 200.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 250.0
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 1800.0
+    }
+  ],
+  "ForcedLocRefType": "040C31:DLCCoast.esm",
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Keywords": [
+    "018623:DLCCoast.esm",
+    "05BA48:Fallout4.esm",
+    "2243AB:Fallout4.esm",
+    "2243AA:Fallout4.esm",
+    "1C5020:Fallout4.esm"
+  ],
+  "Class": "05F96C:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Glowing Hermit Crab"
+  },
+  "GearedUpWeapons": 1,
+  "CombatStyle": "04F4AD:DLCCoast.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.3333,
+    "Muscular": 0.3333,
+    "Fat": 0.3333
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "05D706:DLCCoast.esm",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#F7EFEE",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "074D2D:Fallout4.esm",
+  "EditorID": "AndrewStationZone",
+  "FormVersion": 127,
+  "Location": "0475FB:Fallout4.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

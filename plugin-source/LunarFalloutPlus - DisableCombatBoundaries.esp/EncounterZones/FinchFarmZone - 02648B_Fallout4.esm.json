@@ -1,0 +1,11 @@
+{
+  "FormKey": "02648B:Fallout4.esm",
+  "EditorID": "FinchFarmZone",
+  "Location": "02648A:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

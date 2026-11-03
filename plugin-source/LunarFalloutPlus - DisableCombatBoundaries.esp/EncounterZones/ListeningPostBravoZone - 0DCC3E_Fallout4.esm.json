@@ -1,0 +1,12 @@
+{
+  "FormKey": "0DCC3E:Fallout4.esm",
+  "EditorID": "ListeningPostBravoZone",
+  "FormVersion": 128,
+  "Location": "0D10A8:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

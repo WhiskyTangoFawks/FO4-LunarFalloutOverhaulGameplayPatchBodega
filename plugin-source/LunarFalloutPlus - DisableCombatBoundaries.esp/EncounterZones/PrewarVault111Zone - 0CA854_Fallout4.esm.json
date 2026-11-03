@@ -1,0 +1,9 @@
+{
+  "FormKey": "0CA854:Fallout4.esm",
+  "EditorID": "PrewarVault111Zone",
+  "FormVersion": 90,
+  "Location": "0CA853:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

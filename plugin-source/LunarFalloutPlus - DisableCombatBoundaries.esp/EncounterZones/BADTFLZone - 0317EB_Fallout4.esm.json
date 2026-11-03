@@ -1,0 +1,11 @@
+{
+  "FormKey": "0317EB:Fallout4.esm",
+  "EditorID": "BADTFLZone",
+  "FormVersion": 128,
+  "Location": "0317EA:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

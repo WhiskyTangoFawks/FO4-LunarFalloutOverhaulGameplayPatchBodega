@@ -1,0 +1,99 @@
+{
+  "FormKey": "1D884F:Fallout4.esm",
+  "EditorID": "Armor_VaultTecSecurity111_Clean",
+  "ObjectBounds": {
+    "First": "-15, -10, -1",
+    "Second": "15, 10, 1"
+  },
+  "PreviewTransform": "2490C3:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault-Tec Security Armor"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Armor\\VaultTecSecurity\\GO_VaultTechArmor.nif",
+        "Data": "0x0400000003000000000000000100000001000000B218E273646473001427ED1F6B74E410646473001427ED1F6C9C8E41646473001427ED1FE2C6C6456267736D862D0791",
+        "MaterialSwap": "001EDA:Unofficial Fallout 4 Patch.esp"
+      }
+    },
+    "Female": {
+      "Model": {
+        "File": "Armor\\VaultTecSecurity\\GO_VaultTechArmor.nif",
+        "Data": "0x0400000003000000000000000100000001000000B218E273646473001427ED1F6B74E410646473001427ED1F6C9C8E41646473001427ED1FE2C6C6456267736D862D0791",
+        "MaterialSwap": "001EDA:Unofficial Fallout 4 Patch.esp"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "TorsoArmor",
+      "LeftArmArmor",
+      "RightArmArmor",
+      "LeftLegArmor",
+      "RightLegArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "07820B:Fallout4.esm",
+    "07FACA:Fallout4.esm",
+    "0F4AE9:Fallout4.esm",
+    "19E221:Fallout4.esm",
+    "23D317:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "InstanceNaming": "184BC1:Fallout4.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "1D8851:Fallout4.esm"
+    }
+  ],
+  "Value": 35,
+  "Weight": 15.0,
+  "ArmorRating": 35,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A85:Fallout4.esm",
+      "Value": 15
+    }
+  ],
+  "AttachParentSlots": [
+    "022821:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Default"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "18E59C:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Standard"
+      },
+      "Includes": [
+        {
+          "Mod": "19E247:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

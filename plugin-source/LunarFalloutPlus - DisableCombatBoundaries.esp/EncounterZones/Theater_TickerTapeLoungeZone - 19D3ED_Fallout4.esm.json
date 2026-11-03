@@ -1,0 +1,11 @@
+{
+  "FormKey": "19D3ED:Fallout4.esm",
+  "EditorID": "Theater_TickerTapeLoungeZone",
+  "FormVersion": 128,
+  "Location": "19D3E9:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

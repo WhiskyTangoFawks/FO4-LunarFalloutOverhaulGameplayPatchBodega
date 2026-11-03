@@ -1,0 +1,11 @@
+{
+  "FormKey": "010C9E:DLCNukaWorld.esm",
+  "EditorID": "DLC04GalacticZone_VaultTecAmongTheStarsZone",
+  "Location": "010CA4:DLCNukaWorld.esm",
+  "MinLevel": 50,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

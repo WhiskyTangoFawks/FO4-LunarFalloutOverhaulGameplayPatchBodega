@@ -1,0 +1,9 @@
+{
+  "FormKey": "0E8CC2:Fallout4.esm",
+  "EditorID": "NahantChapelZone",
+  "FormVersion": 96,
+  "Location": "0E8CC1:Fallout4.esm",
+  "Flags": [
+    "DisableCombatBoundary"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "01FC82:DLCNukaWorld.esm",
+  "EditorID": "DLC04NukaWorldPowerPlantZone",
+  "Location": "01FC81:DLCNukaWorld.esm",
+  "MinLevel": 60,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

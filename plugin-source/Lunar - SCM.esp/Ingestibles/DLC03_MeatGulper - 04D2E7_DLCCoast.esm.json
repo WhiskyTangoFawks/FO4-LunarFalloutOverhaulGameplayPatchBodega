@@ -1,0 +1,54 @@
+{
+  "FormKey": "04D2E7:DLCCoast.esm",
+  "EditorID": "DLC03_MeatGulper",
+  "ObjectBounds": {
+    "First": "-7, -7, 0",
+    "Second": "7, 7, 11"
+  },
+  "PreviewTransform": "239FBC:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gulper Innards"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "00089A:Fallout4.esm",
+    "007280:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\MirelurkMeats.nif",
+    "Data": "0x04000000030000000000000001000000010000000D336D8C64647300B64C8CDCD45F6BEF64647300B64C8CDCCAB6BE0F64647300B64C8CDC2D3DEE446267736D11388219"
+  },
+  "PickUpSound": "07B348:Fallout4.esm",
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 1.0,
+  "Value": 20,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 10.0
+      }
+    }
+  ]
+}

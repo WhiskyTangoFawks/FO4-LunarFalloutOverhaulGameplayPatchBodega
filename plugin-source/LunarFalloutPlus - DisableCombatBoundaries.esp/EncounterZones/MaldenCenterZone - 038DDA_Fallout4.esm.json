@@ -1,0 +1,11 @@
+{
+  "FormKey": "038DDA:Fallout4.esm",
+  "EditorID": "MaldenCenterZone",
+  "FormVersion": 118,
+  "Location": "038DD9:Fallout4.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 30
+}

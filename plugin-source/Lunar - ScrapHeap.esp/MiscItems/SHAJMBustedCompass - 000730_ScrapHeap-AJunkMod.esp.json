@@ -1,0 +1,24 @@
+{
+  "FormKey": "000730:ScrapHeap-AJunkMod.esp",
+  "EditorID": "SHAJMBustedCompass",
+  "ObjectBounds": {
+    "First": "-3, -2, 0",
+    "Second": "2, 2, 1"
+  },
+  "PreviewTransform": "1EA89F:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Busted Compass"
+  },
+  "Model": {
+    "File": "Props\\BustedCompass\\BustedCompass.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Weight": 0.4,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ]
+}

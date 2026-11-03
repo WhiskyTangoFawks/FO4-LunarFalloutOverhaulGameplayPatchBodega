@@ -1,0 +1,11 @@
+{
+  "FormKey": "038AE7:DLCCoast.esm",
+  "EditorID": "DLC03Vault118Zone",
+  "Location": "038AE6:DLCCoast.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

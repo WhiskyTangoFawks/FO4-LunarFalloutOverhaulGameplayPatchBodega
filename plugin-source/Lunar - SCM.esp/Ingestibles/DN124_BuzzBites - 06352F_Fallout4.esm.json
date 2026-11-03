@@ -1,0 +1,63 @@
+{
+  "FormKey": "06352F:Fallout4.esm",
+  "EditorID": "DN124_BuzzBites",
+  "ObjectBounds": {
+    "First": "-9, -6, 0",
+    "Second": "9, 7, 19"
+  },
+  "PreviewTransform": "239FB6:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Slocum's BuzzBites"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "24615C:Fallout4.esm",
+    "249F31:Fallout4.esm",
+    "249F9D:Fallout4.esm",
+    "007281:SCM.esp",
+    "135E6C:Fallout4.esm"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\SlocumJoesBuzzBites.nif",
+    "Data": "0x040000000300000000000000010000000100000010A8FB4464647300B64C8CDCC9C4FD2764647300B64C8CDCD72D28C764647300B64C8CDC866F098A6267736D11388219"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+1 Perception and +25 AP for 1 hour. Burns mouth when eaten."
+  },
+  "Weight": 0.5,
+  "Value": 70,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "2466F0:Fallout4.esm",
+      "Data": {
+        "Magnitude": 10.0
+      }
+    },
+    {
+      "BaseEffect": "2466F4:Fallout4.esm",
+      "Data": {
+        "Magnitude": 25.0,
+        "Duration": 3600
+      }
+    },
+    {
+      "BaseEffect": "2466F5:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1.0,
+        "Duration": 3600
+      }
+    }
+  ]
+}

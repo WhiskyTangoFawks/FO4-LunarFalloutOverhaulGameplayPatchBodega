@@ -1,0 +1,12 @@
+{
+  "FormKey": "1F1A7A:Fallout4.esm",
+  "EditorID": "HydeParkZone",
+  "FormVersion": 128,
+  "Location": "099E5C:Fallout4.esm",
+  "Rank": 255,
+  "MinLevel": 45,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

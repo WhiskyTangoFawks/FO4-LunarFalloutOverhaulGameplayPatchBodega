@@ -1,0 +1,11 @@
+{
+  "FormKey": "22CD4D:Fallout4.esm",
+  "EditorID": "Farm05Zone",
+  "Location": "09B1C4:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 99
+}

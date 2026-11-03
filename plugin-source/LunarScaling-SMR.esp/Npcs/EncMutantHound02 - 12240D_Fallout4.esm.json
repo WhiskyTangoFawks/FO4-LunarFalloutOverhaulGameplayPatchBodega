@@ -1,0 +1,151 @@
+{
+  "FormKey": "12240D:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "EncMutantHound02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-31, -59, 0",
+    "Second": "31, 89, 102"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "XpValueOffset": 40,
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 0.75
+  },
+  "CalcMinLevel": 28,
+  "CalcMaxLevel": 50,
+  "DispositionBase": 35,
+  "UseTemplateActors": "7732",
+  "Unknown": 20048,
+  "Factions": [
+    {
+      "Faction": "022B31:Fallout4.esm"
+    },
+    {
+      "Faction": "0948B4:Fallout4.esm"
+    }
+  ],
+  "DeathItem": "03039B:SuperMutantRedux.esp",
+  "Voice": "0C9B5D:Fallout4.esm",
+  "DefaultTemplate": "090C37:Fallout4.esm",
+  "TemplateActors": {
+    "FactionsTemplate": "090C37:Fallout4.esm",
+    "AiDataTemplate": "090C37:Fallout4.esm",
+    "AiPackagesTemplate": "090C37:Fallout4.esm",
+    "InventoryTemplate": "090C37:Fallout4.esm",
+    "ScriptTemplate": "090C37:Fallout4.esm",
+    "DefPackListTemplate": "090C37:Fallout4.esm",
+    "AttackDataTemplate": "090C37:Fallout4.esm",
+    "KeywordsTemplate": "090C37:Fallout4.esm"
+  },
+  "Race": "090C33:Fallout4.esm",
+  "ActorEffect": [
+    "1A85CF:Fallout4.esm",
+    "21C007:Fallout4.esm"
+  ],
+  "Skin": "0009D9:SuperMutantRedux.esp",
+  "CombatOverridePackageList": "04223F:Fallout4.esm",
+  "Perks": [
+    {
+      "Perk": "0A2775:Fallout4.esm",
+      "Rank": 1
+    },
+    {
+      "Perk": "0E1A4C:Fallout4.esm",
+      "Rank": 1
+    }
+  ],
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 8.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 325.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    },
+    {
+      "ActorValue": "0002DF:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002E3:Fallout4.esm",
+      "Value": 40.0
+    },
+    {
+      "ActorValue": "0002EB:Fallout4.esm",
+      "Value": 30.0
+    }
+  ],
+  "Aggression": "VeryAggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "AggroRadiusBehaviorEnabled": true,
+  "AggroRadiusWarn": 1024,
+  "AggroRadiusWarnOrAttack": 512,
+  "AggroRadiusAttack": 256,
+  "AttachParentSlots": [
+    "24A0FA:Fallout4.esm"
+  ],
+  "Class": "123E15:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Glowing Mutant Hound"
+  },
+  "CalculatedHealth": 325,
+  "CalculatedActionPoints": 60,
+  "GearedUpWeapons": 1,
+  "HairColor": "0A042E:Fallout4.esm",
+  "CombatStyle": "0AB719:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 0.85,
+  "NAM7": 0.0,
+  "HeightMax": 1.1,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "InheritsSoundsFrom": "0B3432:Fallout4.esm",
+  "DefaultOutfit": "03032F:SuperMutantRedux.esp",
+  "DefaultPackageList": "022B33:Fallout4.esm",
+  "TextureLighting": "#808080",
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "FormKey": "003DE0:DLCworkshop03.esm",
+  "EditorID": "Vault88Zone",
+  "Location": "003DDF:DLCworkshop03.esm",
+  "MinLevel": 35,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 255
+}

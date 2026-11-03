@@ -1,0 +1,32 @@
+{
+  "FormKey": "0006B6:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMWoodenToyHorse",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-1, -10, 0",
+    "Second": "1, 10, 8"
+  },
+  "PreviewTransform": "2167E6:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wooden Toy Horse"
+  },
+  "Model": {
+    "File": "Props\\WoodenToyHorse\\WoodenToyHorse.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 12,
+  "Weight": 1.0,
+  "Components": [
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

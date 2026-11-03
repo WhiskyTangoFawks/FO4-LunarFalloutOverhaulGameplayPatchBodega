@@ -1,0 +1,14 @@
+{
+  "ModKey": "Lunar - ScrapHeap.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 1
+    },
+    "Author": "",
+    "INCC": 0
+  }
+}

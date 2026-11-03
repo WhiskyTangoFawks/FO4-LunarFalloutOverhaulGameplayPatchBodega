@@ -1,0 +1,12 @@
+{
+  "FormKey": "162483:Fallout4.esm",
+  "EditorID": "PrydwenZone",
+  "FormVersion": 119,
+  "Location": "076A38:Fallout4.esm",
+  "Rank": 255,
+  "MinLevel": 40,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 120
+}

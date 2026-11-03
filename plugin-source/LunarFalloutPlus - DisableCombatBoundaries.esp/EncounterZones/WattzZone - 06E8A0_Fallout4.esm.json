@@ -1,0 +1,11 @@
+{
+  "FormKey": "06E8A0:Fallout4.esm",
+  "EditorID": "WattzZone",
+  "Location": "06E89F:Fallout4.esm",
+  "MinLevel": 6,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

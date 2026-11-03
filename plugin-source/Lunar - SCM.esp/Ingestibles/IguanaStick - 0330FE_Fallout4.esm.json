@@ -1,0 +1,51 @@
+{
+  "FormKey": "0330FE:Fallout4.esm",
+  "EditorID": "IguanaStick",
+  "ObjectBounds": {
+    "First": "-10, -1, 0",
+    "Second": "10, 2, 3"
+  },
+  "PreviewTransform": "239FB8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Iguana Kebab"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "007283:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\IguanaOnAStick.nif",
+    "Data": "0x040000000400000000000000020000000100000080BA288B64647300B64C8CDC59D62EE864647300B64C8CDC473FFB0864647300B64C8CDC71D5D693646473001CDB88C515A7C20B6267736D11388219"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.2,
+  "Value": 33,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 4.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.0
+      }
+    }
+  ]
+}

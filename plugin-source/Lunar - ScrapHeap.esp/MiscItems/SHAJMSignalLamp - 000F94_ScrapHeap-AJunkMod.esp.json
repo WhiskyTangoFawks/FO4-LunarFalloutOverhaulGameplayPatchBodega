@@ -1,0 +1,44 @@
+{
+  "FormKey": "000F94:ScrapHeap-AJunkMod.esp",
+  "MajorRecordFlagsRaw": 2048,
+  "EditorID": "SHAJMSignalLamp",
+  "Fallout4MajorRecordFlags": [
+    "InitiallyDisabled"
+  ],
+  "ObjectBounds": {
+    "First": "-3, -1, 0",
+    "Second": "3, 1, 13"
+  },
+  "PreviewTransform": "23E9EC:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Signal Lamp"
+  },
+  "Model": {
+    "File": "Props\\SignalLamp\\SignalLamp.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Value": 38,
+  "Weight": 1.0,
+  "Components": [
+    {
+      "Component": "01FAA4:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "MajorFlags": [
+    "0x800"
+  ]
+}

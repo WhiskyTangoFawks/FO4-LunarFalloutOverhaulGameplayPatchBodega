@@ -1,0 +1,12 @@
+{
+  "FormKey": "024F97:Fallout4.esm",
+  "EditorID": "StarlightDriveInZone",
+  "Location": "024F96:Fallout4.esm",
+  "MinLevel": 5,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary",
+    "Workshop"
+  ],
+  "MaxLevel": 20
+}

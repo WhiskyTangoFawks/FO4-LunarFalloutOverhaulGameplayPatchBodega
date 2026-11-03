@@ -1,0 +1,10 @@
+{
+  "FormKey": "0247BD:DLCCoast.esm",
+  "EditorID": "DLC03NationalParkCampgroundZone",
+  "Location": "0247BE:DLCCoast.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

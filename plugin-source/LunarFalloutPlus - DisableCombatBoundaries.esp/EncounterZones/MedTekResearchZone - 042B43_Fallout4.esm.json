@@ -1,0 +1,12 @@
+{
+  "FormKey": "042B43:Fallout4.esm",
+  "EditorID": "MedTekResearchZone",
+  "FormVersion": 128,
+  "Location": "042B42:Fallout4.esm",
+  "MinLevel": 21,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 40
+}

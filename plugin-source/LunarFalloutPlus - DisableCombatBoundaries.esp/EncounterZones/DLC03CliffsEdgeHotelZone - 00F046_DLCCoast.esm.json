@@ -1,0 +1,10 @@
+{
+  "FormKey": "00F046:DLCCoast.esm",
+  "EditorID": "DLC03CliffsEdgeHotelZone",
+  "Location": "00F041:DLCCoast.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "045611:Fallout4.esm",
+  "EditorID": "HubrisComicsZone",
+  "FormVersion": 128,
+  "Location": "045610:Fallout4.esm",
+  "MinLevel": 15,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 25
+}

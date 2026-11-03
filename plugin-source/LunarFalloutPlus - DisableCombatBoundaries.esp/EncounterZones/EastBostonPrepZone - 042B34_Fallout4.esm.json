@@ -1,0 +1,11 @@
+{
+  "FormKey": "042B34:Fallout4.esm",
+  "EditorID": "EastBostonPrepZone",
+  "FormVersion": 128,
+  "Location": "042B33:Fallout4.esm",
+  "MinLevel": 25,
+  "Flags": [
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 35
+}

@@ -1,0 +1,58 @@
+{
+  "FormKey": "04CBBD:DLCNukaWorld.esm",
+  "EditorID": "DLC04_SteakCaveCricket",
+  "ObjectBounds": {
+    "First": "-10, -6, 0",
+    "Second": "7, 7, 1"
+  },
+  "PreviewTransform": "2495F1:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Crispy Cave Cricket"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "00727E:SCM.esp"
+  ],
+  "Model": {
+    "File": "SetDressing\\FoodAndFoodWare\\RadScorpionSteak.nif",
+    "Data": "0x0400000003000000000000000100000001000000F2815D6964647300B64C8CDC2BED5B0A64647300B64C8CDC35048EEA64647300B64C8CDCE0FDA29D6267736D11388219"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+20 Energy Resist for 30 minutes."
+  },
+  "Weight": 0.25,
+  "Value": 65,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 7.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "22699F:Fallout4.esm",
+      "Data": {
+        "Magnitude": 20.0,
+        "Duration": 1800
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 6.0
+      }
+    }
+  ]
+}

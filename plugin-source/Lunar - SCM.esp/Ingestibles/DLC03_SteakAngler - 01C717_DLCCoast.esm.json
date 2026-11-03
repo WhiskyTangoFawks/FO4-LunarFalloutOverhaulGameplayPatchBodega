@@ -1,0 +1,54 @@
+{
+  "FormKey": "01C717:DLCCoast.esm",
+  "EditorID": "DLC03_SteakAngler",
+  "ObjectBounds": {
+    "First": "-31, -14, 0",
+    "Second": "31, 13, 5"
+  },
+  "PreviewTransform": "01C71B:DLCCoast.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Cooked Angler"
+  },
+  "Keywords": [
+    "055ECC:Fallout4.esm",
+    "05775E:DLCCoast.esm",
+    "007281:SCM.esp"
+  ],
+  "Model": {
+    "File": "DLC03\\Props\\DLC03_AnglerMeat.nif",
+    "Data": "0x040000000400000000000000020000000200000067C5E7786464730000521694BEA9E11B6464730000521694A04034FB64647300005216945BC83A77646473001CDB88C555252CD96267736DC9B77290056C301F6267736DD550C98A",
+    "MaterialSwap": "01C718:DLCCoast.esm"
+  },
+  "CraftingSound": "11286F:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Weight": 0.5,
+  "Value": 40,
+  "Flags": [
+    "NoAutoCalc",
+    "FoodItem"
+  ],
+  "ConsumeSound": "0BB044:Fallout4.esm",
+  "AddictionName": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Effects": [
+    {
+      "BaseEffect": "00397E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 4.5,
+        "Duration": 10
+      }
+    },
+    {
+      "BaseEffect": "024056:Fallout4.esm",
+      "Data": {
+        "Magnitude": 7.0
+      }
+    }
+  ]
+}

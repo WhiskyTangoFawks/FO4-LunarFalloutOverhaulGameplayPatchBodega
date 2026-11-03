@@ -1,0 +1,11 @@
+{
+  "FormKey": "02074D:DLCCoast.esm",
+  "EditorID": "DLC03MSAzaleaZone",
+  "Location": "00AF72:DLCCoast.esm",
+  "MinLevel": 20,
+  "Flags": [
+    "NeverResets",
+    "DisableCombatBoundary"
+  ],
+  "MaxLevel": 255
+}
