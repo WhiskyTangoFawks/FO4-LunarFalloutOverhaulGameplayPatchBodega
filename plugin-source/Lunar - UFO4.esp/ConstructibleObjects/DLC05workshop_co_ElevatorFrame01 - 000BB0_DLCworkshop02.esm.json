@@ -1,0 +1,55 @@
+{
+  "FormKey": "000BB0:DLCworkshop02.esm",
+  "EditorID": "DLC05workshop_co_ElevatorFrame01",
+  "PickUpSound": "0196B1:Fallout4.esm",
+  "PutDownSound": "0196BB:Fallout4.esm",
+  "Components": [
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 16
+    },
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "A two-story elevator."
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04A0DB:Fallout4.esm",
+        "ParameterOneNumber": 303323
+      }
+    }
+  ],
+  "CreatedObject": "000BD1:DLCworkshop02.esm",
+  "WorkbenchKeyword": "05A0C8:Fallout4.esm",
+  "Categories": [
+    "249FED:Fallout4.esm"
+  ],
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}
