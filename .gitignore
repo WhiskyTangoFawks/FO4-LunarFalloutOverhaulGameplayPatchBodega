@@ -5,4 +5,5 @@
 !/plugin-source/
 !/plugin-source/**
 !/Lunar\ Fallout\ Overhaul\ -\ Gameplay\ Patch\ Bodega.manifest.json
-/Scripts/CompanionMod/AAACombatStyle.pex
+!/Scripts/
+!/Scripts/**
